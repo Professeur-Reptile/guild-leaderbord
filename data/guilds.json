@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 99,
+      "members": 97,
       "avgLevel": null,
-      "totalXp": 41726189,
+      "totalXp": 41219255,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 92,
       "avgLevel": null,
-      "totalXp": 30833926,
+      "totalXp": 30921317,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 77,
       "avgLevel": null,
-      "totalXp": 23914802,
+      "totalXp": 24184990,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 12009172,
+      "totalXp": 12020330,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -70,7 +70,7 @@
       "serverRank": 5,
       "members": 41,
       "avgLevel": null,
-      "totalXp": 10433235,
+      "totalXp": 10490012,
       "created": null,
       "site": null,
       "motto": null,
@@ -100,9 +100,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 30,
+      "members": 32,
       "avgLevel": null,
-      "totalXp": 7384282,
+      "totalXp": 7660329,
       "serverRank": 7,
       "topLevel": 20
     },
@@ -130,9 +130,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 34,
+      "members": 35,
       "topLevel": 20,
-      "totalXp": 5883262,
+      "totalXp": 6188783,
       "serverRank": 9
     },
     {
@@ -206,7 +206,7 @@
       "created": null,
       "members": 13,
       "avgLevel": null,
-      "totalXp": 3337820,
+      "totalXp": 3343785,
       "serverRank": 14,
       "topLevel": 20
     },
@@ -251,7 +251,7 @@
       "created": null,
       "members": 12,
       "avgLevel": null,
-      "totalXp": 2413800,
+      "totalXp": 2429212,
       "serverRank": 17,
       "topLevel": 20
     },
@@ -266,7 +266,7 @@
       "created": null,
       "members": 26,
       "avgLevel": null,
-      "totalXp": 2295449,
+      "totalXp": 2308313,
       "serverRank": 18,
       "topLevel": 20
     },
@@ -316,21 +316,6 @@
       "topLevel": 20
     },
     {
-      "id": "brasil-war",
-      "name": "Brasil War",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 7,
-      "avgLevel": null,
-      "totalXp": 1611623,
-      "serverRank": 22,
-      "topLevel": 20
-    },
-    {
       "id": "smoked-meat-log",
       "name": "Smoked Meat Log",
       "tag": null,
@@ -341,7 +326,22 @@
       "created": null,
       "members": 8,
       "avgLevel": null,
-      "totalXp": 1588430,
+      "totalXp": 1614714,
+      "serverRank": 22,
+      "topLevel": 20
+    },
+    {
+      "id": "brasil-war",
+      "name": "Brasil War",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 7,
+      "avgLevel": null,
+      "totalXp": 1612162,
       "serverRank": 23,
       "topLevel": 20
     },
@@ -1126,6 +1126,20 @@
       "topLevel": 16
     },
     {
+      "id": "midnight-smoke-circle",
+      "name": "Midnight Smoke Circle",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 16,
+      "totalXp": 100186,
+      "serverRank": 76
+    },
+    {
       "id": "world-of-angels",
       "name": "World of Angels",
       "tag": null,
@@ -1137,12 +1151,12 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 96237,
-      "serverRank": 76,
+      "serverRank": 77,
       "topLevel": 12
     },
     {
-      "id": "midnight-smoke-circle",
-      "name": "Midnight Smoke Circle",
+      "id": "horde-gauloise",
+      "name": "Horde Gauloise",
       "tag": null,
       "region": null,
       "lang": null,
@@ -1151,8 +1165,8 @@
       "created": null,
       "members": 1,
       "topLevel": 15,
-      "totalXp": 90221,
-      "serverRank": 77
+      "totalXp": 91983,
+      "serverRank": 78
     },
     {
       "id": "staff",
@@ -1166,22 +1180,8 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 88992,
-      "serverRank": 78,
+      "serverRank": 79,
       "topLevel": 13
-    },
-    {
-      "id": "horde-gauloise",
-      "name": "Horde Gauloise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 14,
-      "totalXp": 75095,
-      "serverRank": 79
     },
     {
       "id": "yuuk-and-friends",
@@ -2022,6 +2022,21 @@
       "topLevel": 2
     },
     {
+      "id": "test-guild",
+      "name": "Test guild",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "avgLevel": null,
+      "totalXp": 923,
+      "serverRank": 137,
+      "topLevel": 2
+    },
+    {
       "id": "barakis-de-charleroi",
       "name": "BARAKIS DE CHARLEROI",
       "tag": null,
@@ -2033,7 +2048,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 918,
-      "serverRank": 137,
+      "serverRank": 138,
       "topLevel": 2
     },
     {
@@ -2048,7 +2063,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 918,
-      "serverRank": 138,
+      "serverRank": 139,
       "topLevel": 2
     },
     {
@@ -2063,7 +2078,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 814,
-      "serverRank": 139,
+      "serverRank": 140,
       "topLevel": 2
     },
     {
@@ -2078,7 +2093,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 745,
-      "serverRank": 140,
+      "serverRank": 141,
       "topLevel": 2
     },
     {
@@ -2093,7 +2108,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 576,
-      "serverRank": 141,
+      "serverRank": 142,
       "topLevel": 1
     },
     {
@@ -2108,7 +2123,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 495,
-      "serverRank": 142,
+      "serverRank": 143,
       "topLevel": 2
     },
     {
@@ -2123,7 +2138,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 456,
-      "serverRank": 143,
+      "serverRank": 144,
       "topLevel": 2
     },
     {
@@ -2138,21 +2153,6 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 316,
-      "serverRank": 144,
-      "topLevel": 1
-    },
-    {
-      "id": "test-guild",
-      "name": "Test guild",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "avgLevel": null,
-      "totalXp": 275,
       "serverRank": 145,
       "topLevel": 1
     },
