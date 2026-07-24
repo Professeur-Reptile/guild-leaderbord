@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 97,
+      "members": 98,
       "avgLevel": null,
-      "totalXp": 41219255,
+      "totalXp": 41521262,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 92,
       "avgLevel": null,
-      "totalXp": 30921317,
+      "totalXp": 30978663,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -40,9 +40,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 77,
+      "members": 78,
       "avgLevel": null,
-      "totalXp": 24184990,
+      "totalXp": 24401770,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 12020330,
+      "totalXp": 12032903,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -70,10 +70,25 @@
       "serverRank": 5,
       "members": 41,
       "avgLevel": null,
-      "totalXp": 10490012,
+      "totalXp": 10490693,
       "created": null,
       "site": null,
       "motto": null,
+      "topLevel": 20
+    },
+    {
+      "id": "otuken",
+      "name": "OTUKEN",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 34,
+      "avgLevel": null,
+      "totalXp": 7844062,
+      "serverRank": 6,
       "topLevel": 20
     },
     {
@@ -88,23 +103,22 @@
       "members": 34,
       "avgLevel": null,
       "totalXp": 7797373,
-      "serverRank": 6,
+      "serverRank": 7,
       "topLevel": 20
     },
     {
-      "id": "otuken",
-      "name": "OTUKEN",
+      "id": "holy-order",
+      "name": "Holy Order",
       "tag": null,
       "region": null,
       "lang": null,
       "site": null,
       "motto": null,
       "created": null,
-      "members": 32,
-      "avgLevel": null,
-      "totalXp": 7660329,
-      "serverRank": 7,
-      "topLevel": 20
+      "members": 40,
+      "topLevel": 20,
+      "totalXp": 6968932,
+      "serverRank": 8
     },
     {
       "id": "glorious",
@@ -118,22 +132,8 @@
       "members": 28,
       "avgLevel": null,
       "totalXp": 6475309,
-      "serverRank": 8,
+      "serverRank": 9,
       "topLevel": 20
-    },
-    {
-      "id": "holy-order",
-      "name": "Holy Order",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 35,
-      "topLevel": 20,
-      "totalXp": 6188783,
-      "serverRank": 9
     },
     {
       "id": "ofp",
@@ -206,7 +206,7 @@
       "created": null,
       "members": 13,
       "avgLevel": null,
-      "totalXp": 3343785,
+      "totalXp": 3348685,
       "serverRank": 14,
       "topLevel": 20
     },
@@ -221,7 +221,7 @@
       "created": null,
       "members": 12,
       "avgLevel": null,
-      "totalXp": 3316292,
+      "totalXp": 3317036,
       "serverRank": 15,
       "topLevel": 20
     },
@@ -251,7 +251,7 @@
       "created": null,
       "members": 12,
       "avgLevel": null,
-      "totalXp": 2429212,
+      "totalXp": 2439094,
       "serverRank": 17,
       "topLevel": 20
     },
@@ -266,7 +266,7 @@
       "created": null,
       "members": 26,
       "avgLevel": null,
-      "totalXp": 2308313,
+      "totalXp": 2315592,
       "serverRank": 18,
       "topLevel": 20
     },
@@ -341,7 +341,7 @@
       "created": null,
       "members": 7,
       "avgLevel": null,
-      "totalXp": 1612162,
+      "totalXp": 1612191,
       "serverRank": 23,
       "topLevel": 20
     },
@@ -361,6 +361,21 @@
       "topLevel": 20
     },
     {
+      "id": "vision",
+      "name": "VISION",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 6,
+      "avgLevel": null,
+      "totalXp": 1362174,
+      "serverRank": 25,
+      "topLevel": 20
+    },
+    {
       "id": "aanar",
       "name": "Aanar",
       "tag": null,
@@ -372,21 +387,6 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 1223906,
-      "serverRank": 25,
-      "topLevel": 20
-    },
-    {
-      "id": "vision",
-      "name": "VISION",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 6,
-      "avgLevel": null,
-      "totalXp": 1218415,
       "serverRank": 26,
       "topLevel": 20
     },
@@ -551,7 +551,7 @@
       "created": null,
       "members": 2,
       "avgLevel": null,
-      "totalXp": 521029,
+      "totalXp": 522423,
       "serverRank": 37,
       "topLevel": 20
     },
@@ -841,6 +841,21 @@
       "topLevel": 20
     },
     {
+      "id": "pintas-natalenses",
+      "name": "PINtas natalenses",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 4,
+      "avgLevel": null,
+      "totalXp": 254170,
+      "serverRank": 57,
+      "topLevel": 15
+    },
+    {
       "id": "mythos",
       "name": "Mythos",
       "tag": null,
@@ -852,7 +867,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 248896,
-      "serverRank": 57,
+      "serverRank": 58,
       "topLevel": 20
     },
     {
@@ -867,23 +882,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 245592,
-      "serverRank": 58,
-      "topLevel": 20
-    },
-    {
-      "id": "pintas-natalenses",
-      "name": "PINtas natalenses",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 4,
-      "avgLevel": null,
-      "totalXp": 245191,
       "serverRank": 59,
-      "topLevel": 14
+      "topLevel": 20
     },
     {
       "id": "brasil",
@@ -1006,6 +1006,20 @@
       "topLevel": 16
     },
     {
+      "id": "midnight-smoke-circle",
+      "name": "Midnight Smoke Circle",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 174532,
+      "serverRank": 68
+    },
+    {
       "id": "domik-ebki",
       "name": "DOMIK EBKI",
       "tag": null,
@@ -1017,7 +1031,7 @@
       "members": 6,
       "avgLevel": null,
       "totalXp": 167200,
-      "serverRank": 68,
+      "serverRank": 69,
       "topLevel": 20
     },
     {
@@ -1032,7 +1046,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 153817,
-      "serverRank": 69,
+      "serverRank": 70,
       "topLevel": 17
     },
     {
@@ -1047,7 +1061,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 133612,
-      "serverRank": 70,
+      "serverRank": 71,
       "topLevel": 15
     },
     {
@@ -1062,7 +1076,7 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 126229,
-      "serverRank": 71,
+      "serverRank": 72,
       "topLevel": 10
     },
     {
@@ -1077,7 +1091,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 118917,
-      "serverRank": 72,
+      "serverRank": 73,
       "topLevel": 13
     },
     {
@@ -1092,7 +1106,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 117227,
-      "serverRank": 73,
+      "serverRank": 74,
       "topLevel": 14
     },
     {
@@ -1107,7 +1121,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 111825,
-      "serverRank": 74,
+      "serverRank": 75,
       "topLevel": 17
     },
     {
@@ -1122,22 +1136,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 103198,
-      "serverRank": 75,
+      "serverRank": 76,
       "topLevel": 16
-    },
-    {
-      "id": "midnight-smoke-circle",
-      "name": "Midnight Smoke Circle",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 16,
-      "totalXp": 100186,
-      "serverRank": 76
     },
     {
       "id": "world-of-angels",
@@ -1509,7 +1509,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 18017,
+      "totalXp": 18222,
       "serverRank": 102,
       "topLevel": 8
     },
