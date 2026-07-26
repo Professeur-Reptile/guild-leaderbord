@@ -12,7 +12,7 @@
       "created": null,
       "members": 99,
       "avgLevel": null,
-      "totalXp": 43544867,
+      "totalXp": 43687922,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 32193260,
+      "totalXp": 32320236,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 81,
       "avgLevel": null,
-      "totalXp": 23503371,
+      "totalXp": 23515388,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 96,
+      "members": 97,
       "avgLevel": null,
-      "totalXp": 12503284,
+      "totalXp": 12726957,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -70,7 +70,7 @@
       "serverRank": 5,
       "members": 41,
       "avgLevel": null,
-      "totalXp": 10694673,
+      "totalXp": 10705364,
       "created": null,
       "site": null,
       "motto": null,
@@ -85,9 +85,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 52,
+      "members": 56,
       "topLevel": 20,
-      "totalXp": 9888466,
+      "totalXp": 10288820,
       "serverRank": 6
     },
     {
@@ -101,7 +101,7 @@
       "created": null,
       "members": 47,
       "avgLevel": null,
-      "totalXp": 9297899,
+      "totalXp": 9362891,
       "serverRank": 7,
       "topLevel": 20
     },
@@ -116,7 +116,7 @@
       "created": null,
       "members": 32,
       "avgLevel": null,
-      "totalXp": 7697683,
+      "totalXp": 7717703,
       "serverRank": 8,
       "topLevel": 20
     },
@@ -131,7 +131,7 @@
       "created": null,
       "members": 32,
       "avgLevel": null,
-      "totalXp": 7291649,
+      "totalXp": 7293300,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -221,7 +221,7 @@
       "created": null,
       "members": 14,
       "avgLevel": null,
-      "totalXp": 3473646,
+      "totalXp": 3572062,
       "serverRank": 15,
       "topLevel": 20
     },
@@ -236,7 +236,7 @@
       "created": null,
       "members": 11,
       "avgLevel": null,
-      "totalXp": 3220169,
+      "totalXp": 3220799,
       "serverRank": 16,
       "topLevel": 20
     },
@@ -251,7 +251,7 @@
       "created": null,
       "members": 33,
       "avgLevel": null,
-      "totalXp": 3007650,
+      "totalXp": 3129134,
       "serverRank": 17,
       "topLevel": 20
     },
@@ -271,6 +271,21 @@
       "topLevel": 20
     },
     {
+      "id": "smoked-meat-log",
+      "name": "Smoked Meat Log",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 8,
+      "avgLevel": null,
+      "totalXp": 1909022,
+      "serverRank": 19,
+      "topLevel": 20
+    },
+    {
       "id": "goon-squad",
       "name": "Goon Squad",
       "tag": null,
@@ -282,21 +297,6 @@
       "members": 10,
       "avgLevel": null,
       "totalXp": 1883135,
-      "serverRank": 19,
-      "topLevel": 20
-    },
-    {
-      "id": "smoked-meat-log",
-      "name": "Smoked Meat Log",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 8,
-      "avgLevel": null,
-      "totalXp": 1876647,
       "serverRank": 20,
       "topLevel": 20
     },
@@ -341,7 +341,7 @@
       "created": null,
       "members": 7,
       "avgLevel": null,
-      "totalXp": 1620922,
+      "totalXp": 1620936,
       "serverRank": 23,
       "topLevel": 20
     },
@@ -571,6 +571,21 @@
       "topLevel": 20
     },
     {
+      "id": "keepers-of-the-faith",
+      "name": "Keepers of the Faith",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "avgLevel": null,
+      "totalXp": 500505,
+      "serverRank": 39,
+      "topLevel": 20
+    },
+    {
       "id": "ayuni",
       "name": "AYUNI",
       "tag": null,
@@ -582,21 +597,6 @@
       "members": 5,
       "avgLevel": null,
       "totalXp": 495633,
-      "serverRank": 39,
-      "topLevel": 20
-    },
-    {
-      "id": "keepers-of-the-faith",
-      "name": "Keepers of the Faith",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "avgLevel": null,
-      "totalXp": 491029,
       "serverRank": 40,
       "topLevel": 20
     },
@@ -916,6 +916,20 @@
       "topLevel": 20
     },
     {
+      "id": "midnight-smoke-circle",
+      "name": "Midnight Smoke Circle",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 237691,
+      "serverRank": 62
+    },
+    {
       "id": "still-alive",
       "name": "Still Alive",
       "tag": null,
@@ -927,22 +941,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 236401,
-      "serverRank": 62,
+      "serverRank": 63,
       "topLevel": 20
-    },
-    {
-      "id": "midnight-smoke-circle",
-      "name": "Midnight Smoke Circle",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 232723,
-      "serverRank": 63
     },
     {
       "id": "eastside",
@@ -1105,7 +1105,7 @@
       "created": null,
       "members": 1,
       "topLevel": 17,
-      "totalXp": 117215,
+      "totalXp": 118433,
       "serverRank": 74
     },
     {
