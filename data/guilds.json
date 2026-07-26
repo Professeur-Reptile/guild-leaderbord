@@ -12,7 +12,7 @@
       "created": null,
       "members": 99,
       "avgLevel": null,
-      "totalXp": 43309648,
+      "totalXp": 43373575,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 31851969,
+      "totalXp": 31881143,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 81,
       "avgLevel": null,
-      "totalXp": 23477889,
+      "totalXp": 23484945,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 91,
+      "members": 92,
       "avgLevel": null,
-      "totalXp": 12117204,
+      "totalXp": 12219642,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -70,7 +70,7 @@
       "serverRank": 5,
       "members": 41,
       "avgLevel": null,
-      "totalXp": 10650073,
+      "totalXp": 10664497,
       "created": null,
       "site": null,
       "motto": null,
@@ -87,7 +87,7 @@
       "created": null,
       "members": 48,
       "topLevel": 20,
-      "totalXp": 9500019,
+      "totalXp": 9556865,
       "serverRank": 6
     },
     {
@@ -99,9 +99,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 48,
+      "members": 47,
       "avgLevel": null,
-      "totalXp": 9302341,
+      "totalXp": 9130368,
       "serverRank": 7,
       "topLevel": 20
     },
@@ -116,7 +116,7 @@
       "created": null,
       "members": 32,
       "avgLevel": null,
-      "totalXp": 7674304,
+      "totalXp": 7678972,
       "serverRank": 8,
       "topLevel": 20
     },
@@ -131,7 +131,7 @@
       "created": null,
       "members": 32,
       "avgLevel": null,
-      "totalXp": 7282568,
+      "totalXp": 7285222,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -221,7 +221,7 @@
       "created": null,
       "members": 14,
       "avgLevel": null,
-      "totalXp": 3459279,
+      "totalXp": 3473646,
       "serverRank": 15,
       "topLevel": 20
     },
@@ -251,7 +251,7 @@
       "created": null,
       "members": 29,
       "avgLevel": null,
-      "totalXp": 2556502,
+      "totalXp": 2634705,
       "serverRank": 17,
       "topLevel": 20
     },
@@ -311,7 +311,7 @@
       "created": null,
       "members": 8,
       "avgLevel": null,
-      "totalXp": 1771125,
+      "totalXp": 1783060,
       "serverRank": 21,
       "topLevel": 20
     },
@@ -371,7 +371,7 @@
       "created": null,
       "members": 6,
       "avgLevel": null,
-      "totalXp": 1413671,
+      "totalXp": 1413763,
       "serverRank": 25,
       "topLevel": 20
     },
@@ -451,6 +451,21 @@
       "topLevel": 20
     },
     {
+      "id": "the-citadel",
+      "name": "The Citadel",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "avgLevel": null,
+      "totalXp": 815247,
+      "serverRank": 31,
+      "topLevel": 20
+    },
+    {
       "id": "avalon",
       "name": "Avalon",
       "tag": null,
@@ -462,21 +477,6 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 810269,
-      "serverRank": 31,
-      "topLevel": 20
-    },
-    {
-      "id": "the-citadel",
-      "name": "The Citadel",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 3,
-      "avgLevel": null,
-      "totalXp": 807709,
       "serverRank": 32,
       "topLevel": 20
     },
@@ -1050,6 +1050,21 @@
       "topLevel": 15
     },
     {
+      "id": "goats",
+      "name": "GOATS",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 2,
+      "avgLevel": null,
+      "totalXp": 132248,
+      "serverRank": 71,
+      "topLevel": 16
+    },
+    {
       "id": "meta",
       "name": "META",
       "tag": null,
@@ -1061,23 +1076,8 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 126229,
-      "serverRank": 71,
-      "topLevel": 10
-    },
-    {
-      "id": "goats",
-      "name": "GOATS",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 2,
-      "avgLevel": null,
-      "totalXp": 121730,
       "serverRank": 72,
-      "topLevel": 15
+      "topLevel": 10
     },
     {
       "id": "just-pals",
