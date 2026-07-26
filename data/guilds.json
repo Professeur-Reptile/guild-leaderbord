@@ -12,7 +12,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 43212854,
+      "totalXp": 43386632,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -25,9 +25,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 96,
+      "members": 95,
       "avgLevel": null,
-      "totalXp": 31738102,
+      "totalXp": 31670531,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 81,
       "avgLevel": null,
-      "totalXp": 23248796,
+      "totalXp": 23431141,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 12087284,
+      "totalXp": 12097215,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -70,7 +70,7 @@
       "serverRank": 5,
       "members": 41,
       "avgLevel": null,
-      "totalXp": 10638281,
+      "totalXp": 10640998,
       "created": null,
       "site": null,
       "motto": null,
@@ -87,8 +87,23 @@
       "created": null,
       "members": 48,
       "topLevel": 20,
-      "totalXp": 9076681,
+      "totalXp": 9385533,
       "serverRank": 6
+    },
+    {
+      "id": "raiders-united",
+      "name": "Raiders United",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 44,
+      "avgLevel": null,
+      "totalXp": 8438154,
+      "serverRank": 7,
+      "topLevel": 20
     },
     {
       "id": "otuken",
@@ -99,10 +114,10 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 33,
+      "members": 32,
       "avgLevel": null,
-      "totalXp": 7908490,
-      "serverRank": 7,
+      "totalXp": 7619274,
+      "serverRank": 8,
       "topLevel": 20
     },
     {
@@ -116,22 +131,7 @@
       "created": null,
       "members": 32,
       "avgLevel": null,
-      "totalXp": 7280377,
-      "serverRank": 8,
-      "topLevel": 20
-    },
-    {
-      "id": "raiders-united",
-      "name": "Raiders United",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 31,
-      "avgLevel": null,
-      "totalXp": 6625363,
+      "totalXp": 7282568,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -221,7 +221,7 @@
       "created": null,
       "members": 14,
       "avgLevel": null,
-      "totalXp": 3456832,
+      "totalXp": 3459279,
       "serverRank": 15,
       "topLevel": 20
     },
@@ -236,8 +236,23 @@
       "created": null,
       "members": 11,
       "avgLevel": null,
-      "totalXp": 3205880,
+      "totalXp": 3210601,
       "serverRank": 16,
+      "topLevel": 20
+    },
+    {
+      "id": "ehren-nuggets-academy",
+      "name": "Ehren Nuggets Academy",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 29,
+      "avgLevel": null,
+      "totalXp": 2531547,
+      "serverRank": 17,
       "topLevel": 20
     },
     {
@@ -252,21 +267,6 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 2514061,
-      "serverRank": 17,
-      "topLevel": 20
-    },
-    {
-      "id": "ehren-nuggets-academy",
-      "name": "Ehren Nuggets Academy",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 29,
-      "avgLevel": null,
-      "totalXp": 2509277,
       "serverRank": 18,
       "topLevel": 20
     },
@@ -416,7 +416,7 @@
       "created": null,
       "members": 11,
       "avgLevel": null,
-      "totalXp": 931512,
+      "totalXp": 936232,
       "serverRank": 28,
       "topLevel": 20
     },
@@ -466,6 +466,21 @@
       "topLevel": 20
     },
     {
+      "id": "the-citadel",
+      "name": "The Citadel",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "avgLevel": null,
+      "totalXp": 807597,
+      "serverRank": 32,
+      "topLevel": 20
+    },
+    {
       "id": "levy-street",
       "name": "LEVY STREET",
       "tag": null,
@@ -477,21 +492,6 @@
       "members": 5,
       "avgLevel": null,
       "totalXp": 804908,
-      "serverRank": 32,
-      "topLevel": 20
-    },
-    {
-      "id": "the-citadel",
-      "name": "The Citadel",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 3,
-      "avgLevel": null,
-      "totalXp": 803823,
       "serverRank": 33,
       "topLevel": 20
     },
@@ -931,6 +931,20 @@
       "topLevel": 20
     },
     {
+      "id": "midnight-smoke-circle",
+      "name": "Midnight Smoke Circle",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 227233,
+      "serverRank": 63
+    },
+    {
       "id": "eastside",
       "name": "eastside",
       "tag": null,
@@ -942,22 +956,8 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 225751,
-      "serverRank": 63,
+      "serverRank": 64,
       "topLevel": 14
-    },
-    {
-      "id": "midnight-smoke-circle",
-      "name": "Midnight Smoke Circle",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 223033,
-      "serverRank": 64
     },
     {
       "id": "woc",
@@ -1493,7 +1493,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 18317,
+      "totalXp": 18327,
       "serverRank": 101,
       "topLevel": 8
     },
