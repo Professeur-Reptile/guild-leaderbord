@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 99,
+      "members": 98,
       "avgLevel": null,
-      "totalXp": 43801639,
+      "totalXp": 43090737,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 32271828,
+      "totalXp": 32422145,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -40,9 +40,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 83,
+      "members": 82,
       "avgLevel": null,
-      "totalXp": 23927817,
+      "totalXp": 23756255,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 92,
       "avgLevel": null,
-      "totalXp": 12861701,
+      "totalXp": 13060989,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 61,
       "topLevel": 20,
-      "totalXp": 10932137,
+      "totalXp": 11026637,
       "serverRank": 5
     },
     {
@@ -84,7 +84,7 @@
       "serverRank": 6,
       "members": 41,
       "avgLevel": null,
-      "totalXp": 10732095,
+      "totalXp": 10741198,
       "created": null,
       "site": null,
       "motto": null,
@@ -101,7 +101,7 @@
       "created": null,
       "members": 47,
       "avgLevel": null,
-      "totalXp": 9480620,
+      "totalXp": 9588654,
       "serverRank": 7,
       "topLevel": 20
     },
@@ -116,7 +116,7 @@
       "created": null,
       "members": 32,
       "avgLevel": null,
-      "totalXp": 7738054,
+      "totalXp": 7767755,
       "serverRank": 8,
       "topLevel": 20
     },
@@ -131,7 +131,7 @@
       "created": null,
       "members": 32,
       "avgLevel": null,
-      "totalXp": 7293300,
+      "totalXp": 7308994,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -236,7 +236,7 @@
       "created": null,
       "members": 31,
       "avgLevel": null,
-      "totalXp": 2918051,
+      "totalXp": 2922098,
       "serverRank": 16,
       "topLevel": 20
     },
@@ -371,7 +371,7 @@
       "created": null,
       "members": 6,
       "avgLevel": null,
-      "totalXp": 1413763,
+      "totalXp": 1417804,
       "serverRank": 25,
       "topLevel": 20
     },
@@ -416,7 +416,7 @@
       "created": null,
       "members": 11,
       "avgLevel": null,
-      "totalXp": 942360,
+      "totalXp": 948246,
       "serverRank": 28,
       "topLevel": 20
     },
@@ -551,8 +551,23 @@
       "created": null,
       "members": 2,
       "avgLevel": null,
-      "totalXp": 523090,
+      "totalXp": 523145,
       "serverRank": 37,
+      "topLevel": 20
+    },
+    {
+      "id": "keepers-of-the-faith",
+      "name": "Keepers of the Faith",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "avgLevel": null,
+      "totalXp": 508885,
+      "serverRank": 38,
       "topLevel": 20
     },
     {
@@ -567,21 +582,6 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 507911,
-      "serverRank": 38,
-      "topLevel": 20
-    },
-    {
-      "id": "keepers-of-the-faith",
-      "name": "Keepers of the Faith",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "avgLevel": null,
-      "totalXp": 506385,
       "serverRank": 39,
       "topLevel": 20
     },
@@ -811,6 +811,20 @@
       "topLevel": 20
     },
     {
+      "id": "midnight-smoke-circle",
+      "name": "Midnight Smoke Circle",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 265398,
+      "serverRank": 55
+    },
+    {
       "id": "guild",
       "name": "Guild",
       "tag": null,
@@ -822,7 +836,7 @@
       "members": 6,
       "avgLevel": null,
       "totalXp": 257968,
-      "serverRank": 55,
+      "serverRank": 56,
       "topLevel": 20
     },
     {
@@ -837,7 +851,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 248896,
-      "serverRank": 56,
+      "serverRank": 57,
       "topLevel": 20
     },
     {
@@ -852,7 +866,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 247453,
-      "serverRank": 57,
+      "serverRank": 58,
       "topLevel": 20
     },
     {
@@ -867,7 +881,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 245592,
-      "serverRank": 58,
+      "serverRank": 59,
       "topLevel": 20
     },
     {
@@ -882,7 +896,7 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 244203,
-      "serverRank": 59,
+      "serverRank": 60,
       "topLevel": 16
     },
     {
@@ -897,7 +911,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 243423,
-      "serverRank": 60,
+      "serverRank": 61,
       "topLevel": 20
     },
     {
@@ -912,22 +926,8 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 239898,
-      "serverRank": 61,
+      "serverRank": 62,
       "topLevel": 20
-    },
-    {
-      "id": "midnight-smoke-circle",
-      "name": "Midnight Smoke Circle",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 238391,
-      "serverRank": 62
     },
     {
       "id": "still-alive",
@@ -985,9 +985,9 @@
       "created": null,
       "members": 2,
       "avgLevel": null,
-      "totalXp": 199614,
+      "totalXp": 206281,
       "serverRank": 66,
-      "topLevel": 19
+      "topLevel": 20
     },
     {
       "id": "irgloop",
@@ -1020,6 +1020,20 @@
       "topLevel": 16
     },
     {
+      "id": "la-caracola-magica",
+      "name": "La Caracola Magica",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 181952,
+      "serverRank": 69
+    },
+    {
       "id": "domik-ebki",
       "name": "DOMIK EBKI",
       "tag": null,
@@ -1031,7 +1045,7 @@
       "members": 6,
       "avgLevel": null,
       "totalXp": 167200,
-      "serverRank": 69,
+      "serverRank": 70,
       "topLevel": 20
     },
     {
@@ -1046,7 +1060,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 153817,
-      "serverRank": 70,
+      "serverRank": 71,
       "topLevel": 17
     },
     {
@@ -1061,7 +1075,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 133612,
-      "serverRank": 71,
+      "serverRank": 72,
       "topLevel": 15
     },
     {
@@ -1076,7 +1090,7 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 126229,
-      "serverRank": 72,
+      "serverRank": 73,
       "topLevel": 10
     },
     {
@@ -1091,7 +1105,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 118917,
-      "serverRank": 73,
+      "serverRank": 74,
       "topLevel": 13
     },
     {
@@ -1106,7 +1120,7 @@
       "members": 1,
       "topLevel": 17,
       "totalXp": 118433,
-      "serverRank": 74
+      "serverRank": 75
     },
     {
       "id": "mostwanted",
@@ -1120,7 +1134,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 111825,
-      "serverRank": 75,
+      "serverRank": 76,
       "topLevel": 17
     },
     {
@@ -1135,7 +1149,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 103198,
-      "serverRank": 76,
+      "serverRank": 77,
       "topLevel": 16
     },
     {
@@ -1150,7 +1164,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 96237,
-      "serverRank": 77,
+      "serverRank": 78,
       "topLevel": 12
     },
     {
@@ -1165,22 +1179,8 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 88992,
-      "serverRank": 78,
+      "serverRank": 79,
       "topLevel": 13
-    },
-    {
-      "id": "la-caracola-magica",
-      "name": "La Caracola Magica",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 15,
-      "totalXp": 81489,
-      "serverRank": 79
     },
     {
       "id": "yuuk-and-friends",
