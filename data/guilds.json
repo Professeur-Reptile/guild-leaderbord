@@ -12,7 +12,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 43470376,
+      "totalXp": 43651057,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -25,9 +25,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 98,
+      "members": 97,
       "avgLevel": null,
-      "totalXp": 33118822,
+      "totalXp": 32687624,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -40,9 +40,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 83,
+      "members": 87,
       "avgLevel": null,
-      "totalXp": 24184614,
+      "totalXp": 25152294,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 96,
+      "members": 98,
       "avgLevel": null,
-      "totalXp": 12940667,
+      "totalXp": 13041515,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -70,10 +70,25 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 62,
+      "members": 66,
       "topLevel": 20,
-      "totalXp": 11060327,
+      "totalXp": 12196629,
       "serverRank": 5
+    },
+    {
+      "id": "la-clauderie",
+      "name": "La Clauderie",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "serverRank": 6,
+      "members": 41,
+      "avgLevel": null,
+      "totalXp": 10763071,
+      "created": null,
+      "site": null,
+      "motto": null,
+      "topLevel": 20
     },
     {
       "id": "raiders-united",
@@ -84,25 +99,10 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 50,
+      "members": 48,
       "avgLevel": null,
-      "totalXp": 10790564,
-      "serverRank": 6,
-      "topLevel": 20
-    },
-    {
-      "id": "la-clauderie",
-      "name": "La Clauderie",
-      "tag": null,
-      "region": null,
-      "lang": null,
+      "totalXp": 10487600,
       "serverRank": 7,
-      "members": 41,
-      "avgLevel": null,
-      "totalXp": 10757683,
-      "created": null,
-      "site": null,
-      "motto": null,
       "topLevel": 20
     },
     {
@@ -116,7 +116,7 @@
       "created": null,
       "members": 33,
       "avgLevel": null,
-      "totalXp": 7592920,
+      "totalXp": 7714805,
       "serverRank": 8,
       "topLevel": 20
     },
@@ -131,7 +131,7 @@
       "created": null,
       "members": 32,
       "avgLevel": null,
-      "totalXp": 7329396,
+      "totalXp": 7333828,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -146,7 +146,7 @@
       "created": null,
       "members": 28,
       "avgLevel": null,
-      "totalXp": 6492111,
+      "totalXp": 6492140,
       "serverRank": 10,
       "topLevel": 20
     },
@@ -221,7 +221,7 @@
       "created": null,
       "members": 14,
       "avgLevel": null,
-      "totalXp": 3643728,
+      "totalXp": 3645493,
       "serverRank": 15,
       "topLevel": 20
     },
@@ -236,7 +236,7 @@
       "created": null,
       "members": 31,
       "avgLevel": null,
-      "totalXp": 2948414,
+      "totalXp": 2948498,
       "serverRank": 16,
       "topLevel": 20
     },
@@ -281,7 +281,7 @@
       "created": null,
       "members": 19,
       "avgLevel": null,
-      "totalXp": 2314589,
+      "totalXp": 2314767,
       "serverRank": 19,
       "topLevel": 20
     },
@@ -296,7 +296,7 @@
       "created": null,
       "members": 8,
       "avgLevel": null,
-      "totalXp": 1999166,
+      "totalXp": 2002741,
       "serverRank": 20,
       "topLevel": 20
     },
@@ -376,6 +376,20 @@
       "topLevel": 20
     },
     {
+      "id": "a-guilda",
+      "name": "A Guilda",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 7,
+      "topLevel": 20,
+      "totalXp": 1456872,
+      "serverRank": 26
+    },
+    {
       "id": "vision",
       "name": "VISION",
       "tag": null,
@@ -387,7 +401,7 @@
       "members": 6,
       "avgLevel": null,
       "totalXp": 1423513,
-      "serverRank": 26,
+      "serverRank": 27,
       "topLevel": 20
     },
     {
@@ -402,22 +416,8 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 1226789,
-      "serverRank": 27,
+      "serverRank": 28,
       "topLevel": 20
-    },
-    {
-      "id": "a-guilda",
-      "name": "A Guilda",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 5,
-      "topLevel": 20,
-      "totalXp": 1086938,
-      "serverRank": 28
     },
     {
       "id": "journey-back",
@@ -430,7 +430,7 @@
       "created": null,
       "members": 3,
       "avgLevel": null,
-      "totalXp": 1008448,
+      "totalXp": 1008571,
       "serverRank": 29,
       "topLevel": 20
     },
@@ -580,7 +580,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 527624,
+      "totalXp": 537510,
       "serverRank": 39
     },
     {
@@ -594,7 +594,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 516959,
+      "totalXp": 517809,
       "serverRank": 40,
       "topLevel": 20
     },
@@ -1027,7 +1027,7 @@
       "created": null,
       "members": 2,
       "avgLevel": null,
-      "totalXp": 206281,
+      "totalXp": 221308,
       "serverRank": 69,
       "topLevel": 20
     },
@@ -1136,6 +1136,20 @@
       "topLevel": 10
     },
     {
+      "id": "nagas-in-paris",
+      "name": "Nagas In Paris",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 17,
+      "totalXp": 122381,
+      "serverRank": 77
+    },
+    {
       "id": "just-pals",
       "name": "Just Pals",
       "tag": null,
@@ -1147,7 +1161,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 118917,
-      "serverRank": 77,
+      "serverRank": 78,
       "topLevel": 13
     },
     {
@@ -1162,7 +1176,7 @@
       "members": 1,
       "topLevel": 17,
       "totalXp": 118835,
-      "serverRank": 78
+      "serverRank": 79
     },
     {
       "id": "mostwanted",
@@ -1176,7 +1190,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 111825,
-      "serverRank": 79,
+      "serverRank": 80,
       "topLevel": 17
     },
     {
@@ -1191,7 +1205,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 103198,
-      "serverRank": 80,
+      "serverRank": 81,
       "topLevel": 16
     },
     {
@@ -1206,7 +1220,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 96237,
-      "serverRank": 81,
+      "serverRank": 82,
       "topLevel": 12
     },
     {
@@ -1221,7 +1235,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 88992,
-      "serverRank": 82,
+      "serverRank": 83,
       "topLevel": 13
     },
     {
@@ -1236,7 +1250,7 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 72549,
-      "serverRank": 83,
+      "serverRank": 84,
       "topLevel": 9
     },
     {
@@ -1251,7 +1265,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 67726,
-      "serverRank": 84,
+      "serverRank": 85,
       "topLevel": 12
     },
     {
@@ -1266,7 +1280,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 61321,
-      "serverRank": 85,
+      "serverRank": 86,
       "topLevel": 10
     },
     {
@@ -1281,7 +1295,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 57877,
-      "serverRank": 86,
+      "serverRank": 87,
       "topLevel": 10
     },
     {
@@ -1296,7 +1310,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 55214,
-      "serverRank": 87,
+      "serverRank": 88,
       "topLevel": 10
     },
     {
@@ -1311,7 +1325,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 54513,
-      "serverRank": 88,
+      "serverRank": 89,
       "topLevel": 13
     },
     {
@@ -1326,7 +1340,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 53141,
-      "serverRank": 89,
+      "serverRank": 90,
       "topLevel": 12
     },
     {
@@ -1341,7 +1355,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 49490,
-      "serverRank": 91,
+      "serverRank": 92,
       "topLevel": 10
     },
     {
@@ -1356,7 +1370,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 44199,
-      "serverRank": 92,
+      "serverRank": 93,
       "topLevel": 8
     },
     {
@@ -1371,7 +1385,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 41424,
-      "serverRank": 93,
+      "serverRank": 94,
       "topLevel": 11
     },
     {
@@ -1386,7 +1400,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 39001,
-      "serverRank": 94,
+      "serverRank": 95,
       "topLevel": 9
     },
     {
@@ -1401,7 +1415,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 36713,
-      "serverRank": 95,
+      "serverRank": 96,
       "topLevel": 11
     },
     {
@@ -1416,7 +1430,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 34617,
-      "serverRank": 96,
+      "serverRank": 97,
       "topLevel": 9
     },
     {
@@ -1431,7 +1445,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 33629,
-      "serverRank": 97,
+      "serverRank": 98,
       "topLevel": 10
     },
     {
@@ -1446,7 +1460,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 33491,
-      "serverRank": 98,
+      "serverRank": 99,
       "topLevel": 10
     },
     {
@@ -1461,7 +1475,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 32440,
-      "serverRank": 99,
+      "serverRank": 100,
       "topLevel": 10
     },
     {
@@ -1476,7 +1490,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 30485,
-      "serverRank": 100,
+      "serverRank": 101,
       "topLevel": 10
     },
     {
@@ -1491,7 +1505,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 28503,
-      "serverRank": 101,
+      "serverRank": 102,
       "topLevel": 10
     },
     {
@@ -1506,7 +1520,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 19915,
-      "serverRank": 102,
+      "serverRank": 103,
       "topLevel": 6
     },
     {
@@ -1521,7 +1535,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 19331,
-      "serverRank": 103,
+      "serverRank": 104,
       "topLevel": 8
     },
     {
@@ -1536,7 +1550,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 18327,
-      "serverRank": 104,
+      "serverRank": 105,
       "topLevel": 8
     },
     {
@@ -1551,7 +1565,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 18308,
-      "serverRank": 105,
+      "serverRank": 106,
       "topLevel": 8
     },
     {
@@ -1566,7 +1580,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 17105,
-      "serverRank": 106,
+      "serverRank": 107,
       "topLevel": 8
     },
     {
@@ -1581,7 +1595,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 14458,
-      "serverRank": 107,
+      "serverRank": 108,
       "topLevel": 7
     },
     {
@@ -1596,7 +1610,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 14091,
-      "serverRank": 108,
+      "serverRank": 109,
       "topLevel": 7
     },
     {
@@ -1611,7 +1625,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 14015,
-      "serverRank": 109,
+      "serverRank": 110,
       "topLevel": 7
     },
     {
@@ -1626,7 +1640,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 13643,
-      "serverRank": 110,
+      "serverRank": 111,
       "topLevel": 7
     },
     {
@@ -1641,7 +1655,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 13383,
-      "serverRank": 111,
+      "serverRank": 112,
       "topLevel": 7
     },
     {
@@ -1656,7 +1670,7 @@
       "members": 5,
       "avgLevel": null,
       "totalXp": 11674,
-      "serverRank": 112,
+      "serverRank": 113,
       "topLevel": 4
     },
     {
@@ -1671,7 +1685,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 11485,
-      "serverRank": 113,
+      "serverRank": 114,
       "topLevel": 5
     },
     {
@@ -1686,7 +1700,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 10574,
-      "serverRank": 114,
+      "serverRank": 115,
       "topLevel": 6
     },
     {
@@ -1701,7 +1715,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 8871,
-      "serverRank": 115,
+      "serverRank": 116,
       "topLevel": 5
     },
     {
@@ -1716,7 +1730,7 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 8066,
-      "serverRank": 116,
+      "serverRank": 117,
       "topLevel": 6
     },
     {
@@ -1731,7 +1745,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 7441,
-      "serverRank": 117,
+      "serverRank": 118,
       "topLevel": 5
     },
     {
@@ -1746,7 +1760,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 7012,
-      "serverRank": 118,
+      "serverRank": 119,
       "topLevel": 4
     },
     {
@@ -1761,7 +1775,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 6898,
-      "serverRank": 119,
+      "serverRank": 120,
       "topLevel": 5
     },
     {
@@ -1776,8 +1790,22 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 6272,
-      "serverRank": 120,
+      "serverRank": 121,
       "topLevel": 5
+    },
+    {
+      "id": "lauretimuneno",
+      "name": "Lauretimuneno",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 5,
+      "totalXp": 6181,
+      "serverRank": 122
     },
     {
       "id": "fable",
@@ -1791,7 +1819,7 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 5337,
-      "serverRank": 121,
+      "serverRank": 123,
       "topLevel": 10
     },
     {
@@ -1806,7 +1834,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 5013,
-      "serverRank": 122,
+      "serverRank": 124,
       "topLevel": 3
     },
     {
@@ -1821,7 +1849,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 4996,
-      "serverRank": 123,
+      "serverRank": 125,
       "topLevel": 5
     },
     {
@@ -1836,7 +1864,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 4327,
-      "serverRank": 124,
+      "serverRank": 126,
       "topLevel": 4
     },
     {
@@ -1851,7 +1879,7 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 3953,
-      "serverRank": 125,
+      "serverRank": 127,
       "topLevel": 3
     },
     {
@@ -1866,7 +1894,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 3777,
-      "serverRank": 126,
+      "serverRank": 128,
       "topLevel": 4
     },
     {
@@ -1881,7 +1909,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 2901,
-      "serverRank": 127,
+      "serverRank": 129,
       "topLevel": 3
     },
     {
@@ -1896,7 +1924,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 2805,
-      "serverRank": 128,
+      "serverRank": 130,
       "topLevel": 4
     },
     {
@@ -1911,7 +1939,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 2653,
-      "serverRank": 129,
+      "serverRank": 131,
       "topLevel": 3
     },
     {
@@ -1926,7 +1954,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 2465,
-      "serverRank": 130,
+      "serverRank": 132,
       "topLevel": 3
     },
     {
@@ -1941,7 +1969,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 2408,
-      "serverRank": 131,
+      "serverRank": 133,
       "topLevel": 3
     },
     {
@@ -1956,7 +1984,7 @@
       "members": 1,
       "topLevel": 3,
       "totalXp": 2110,
-      "serverRank": 132
+      "serverRank": 134
     },
     {
       "id": "of-orchestration-framewo",
@@ -1970,7 +1998,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 2036,
-      "serverRank": 133,
+      "serverRank": 135,
       "topLevel": 2
     },
     {
@@ -1985,7 +2013,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 2007,
-      "serverRank": 134,
+      "serverRank": 136,
       "topLevel": 2
     },
     {
@@ -2000,7 +2028,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 1995,
-      "serverRank": 135,
+      "serverRank": 137,
       "topLevel": 3
     },
     {
@@ -2015,7 +2043,7 @@
       "members": 1,
       "topLevel": 3,
       "totalXp": 1692,
-      "serverRank": 136
+      "serverRank": 138
     },
     {
       "id": "ignore-all-instructions",
@@ -2029,7 +2057,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 1480,
-      "serverRank": 137,
+      "serverRank": 139,
       "topLevel": 3
     },
     {
@@ -2044,7 +2072,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 1210,
-      "serverRank": 138,
+      "serverRank": 140,
       "topLevel": 2
     },
     {
@@ -2059,7 +2087,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 941,
-      "serverRank": 139,
+      "serverRank": 141,
       "topLevel": 2
     },
     {
@@ -2074,7 +2102,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 923,
-      "serverRank": 140,
+      "serverRank": 142,
       "topLevel": 2
     },
     {
@@ -2089,7 +2117,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 918,
-      "serverRank": 141,
+      "serverRank": 143,
       "topLevel": 2
     },
     {
@@ -2104,7 +2132,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 918,
-      "serverRank": 142,
+      "serverRank": 144,
       "topLevel": 2
     },
     {
@@ -2119,7 +2147,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 814,
-      "serverRank": 143,
+      "serverRank": 145,
       "topLevel": 2
     },
     {
@@ -2134,7 +2162,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 745,
-      "serverRank": 144,
+      "serverRank": 146,
       "topLevel": 2
     },
     {
@@ -2149,7 +2177,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 576,
-      "serverRank": 145,
+      "serverRank": 147,
       "topLevel": 1
     },
     {
@@ -2164,7 +2192,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 495,
-      "serverRank": 146,
+      "serverRank": 148,
       "topLevel": 2
     },
     {
@@ -2179,7 +2207,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 456,
-      "serverRank": 147,
+      "serverRank": 149,
       "topLevel": 2
     },
     {
@@ -2194,7 +2222,7 @@
       "members": 1,
       "topLevel": 2,
       "totalXp": 433,
-      "serverRank": 148
+      "serverRank": 150
     },
     {
       "id": "magos-sem-mana",
@@ -2208,7 +2236,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 316,
-      "serverRank": 149,
+      "serverRank": 151,
       "topLevel": 1
     },
     {
@@ -2223,7 +2251,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 150,
-      "serverRank": 150,
+      "serverRank": 152,
       "topLevel": 1
     },
     {
@@ -2238,7 +2266,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 50,
-      "serverRank": 151,
+      "serverRank": 153,
       "topLevel": 1
     },
     {
@@ -2253,7 +2281,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 0,
-      "serverRank": 152,
+      "serverRank": 154,
       "topLevel": 1
     },
     {
@@ -2268,7 +2296,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 0,
-      "serverRank": 153,
+      "serverRank": 155,
       "topLevel": 1
     },
     {
@@ -2283,7 +2311,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 0,
-      "serverRank": 154,
+      "serverRank": 156,
       "topLevel": 5
     },
     {
@@ -2298,7 +2326,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 0,
-      "serverRank": 155,
+      "serverRank": 157,
       "topLevel": 4
     },
     {
@@ -2313,7 +2341,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 0,
-      "serverRank": 156,
+      "serverRank": 158,
       "topLevel": 9
     },
     {
@@ -2328,7 +2356,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 0,
-      "serverRank": 157,
+      "serverRank": 159,
       "topLevel": 1
     },
     {
@@ -2343,7 +2371,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 0,
-      "serverRank": 158,
+      "serverRank": 160,
       "topLevel": 1
     },
     {
