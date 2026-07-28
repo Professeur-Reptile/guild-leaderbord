@@ -12,7 +12,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 44260773,
+      "totalXp": 44417674,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 33304487,
+      "totalXp": 33351751,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -40,9 +40,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 89,
+      "members": 83,
       "avgLevel": null,
-      "totalXp": 25707559,
+      "totalXp": 25503346,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 12787405,
+      "totalXp": 12814522,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 64,
       "topLevel": 20,
-      "totalXp": 12268170,
+      "totalXp": 12521054,
       "serverRank": 5
     },
     {
@@ -86,7 +86,7 @@
       "created": null,
       "members": 57,
       "avgLevel": null,
-      "totalXp": 12168666,
+      "totalXp": 12229264,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -116,7 +116,7 @@
       "created": null,
       "members": 36,
       "avgLevel": null,
-      "totalXp": 8320935,
+      "totalXp": 8406967,
       "serverRank": 8,
       "topLevel": 20
     },
@@ -131,7 +131,7 @@
       "created": null,
       "members": 33,
       "avgLevel": null,
-      "totalXp": 7795543,
+      "totalXp": 7795666,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -161,7 +161,7 @@
       "created": null,
       "members": 65,
       "avgLevel": null,
-      "totalXp": 5729190,
+      "totalXp": 5729735,
       "serverRank": 11,
       "topLevel": 20
     },
@@ -281,23 +281,8 @@
       "created": null,
       "members": 18,
       "avgLevel": null,
-      "totalXp": 2450613,
+      "totalXp": 2451844,
       "serverRank": 19,
-      "topLevel": 20
-    },
-    {
-      "id": "smoked-meat-log",
-      "name": "Smoked Meat Log",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 8,
-      "avgLevel": null,
-      "totalXp": 2025150,
-      "serverRank": 20,
       "topLevel": 20
     },
     {
@@ -311,8 +296,23 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 2004069,
-      "serverRank": 21
+      "totalXp": 2065018,
+      "serverRank": 20
+    },
+    {
+      "id": "smoked-meat-log",
+      "name": "Smoked Meat Log",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 8,
+      "avgLevel": null,
+      "totalXp": 2025640,
+      "serverRank": 21,
+      "topLevel": 20
     },
     {
       "id": "goon-squad",
@@ -594,7 +594,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 517809,
+      "totalXp": 517893,
       "serverRank": 40,
       "topLevel": 20
     },
@@ -1149,6 +1149,20 @@
       "topLevel": 15
     },
     {
+      "id": "horde-gauloise",
+      "name": "Horde Gauloise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 18,
+      "totalXp": 129835,
+      "serverRank": 78
+    },
+    {
       "id": "meta",
       "name": "META",
       "tag": null,
@@ -1160,7 +1174,7 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 126229,
-      "serverRank": 78,
+      "serverRank": 79,
       "topLevel": 10
     },
     {
@@ -1175,22 +1189,8 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 118917,
-      "serverRank": 79,
+      "serverRank": 80,
       "topLevel": 13
-    },
-    {
-      "id": "horde-gauloise",
-      "name": "Horde Gauloise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 17,
-      "totalXp": 118835,
-      "serverRank": 80
     },
     {
       "id": "mostwanted",
@@ -1577,7 +1577,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 18327,
+      "totalXp": 19074,
       "serverRank": 107,
       "topLevel": 8
     },
