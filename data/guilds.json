@@ -12,7 +12,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 43651057,
+      "totalXp": 43898100,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 32687624,
+      "totalXp": 32833364,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -40,9 +40,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 87,
+      "members": 86,
       "avgLevel": null,
-      "totalXp": 25152294,
+      "totalXp": 25224307,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 98,
+      "members": 97,
       "avgLevel": null,
-      "totalXp": 13041515,
+      "totalXp": 12693343,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -70,25 +70,10 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 66,
+      "members": 64,
       "topLevel": 20,
-      "totalXp": 12196629,
+      "totalXp": 11972214,
       "serverRank": 5
-    },
-    {
-      "id": "la-clauderie",
-      "name": "La Clauderie",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "serverRank": 6,
-      "members": 41,
-      "avgLevel": null,
-      "totalXp": 10763071,
-      "created": null,
-      "site": null,
-      "motto": null,
-      "topLevel": 20
     },
     {
       "id": "raiders-united",
@@ -99,10 +84,40 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 48,
+      "members": 51,
       "avgLevel": null,
-      "totalXp": 10487600,
+      "totalXp": 11009709,
+      "serverRank": 6,
+      "topLevel": 20
+    },
+    {
+      "id": "la-clauderie",
+      "name": "La Clauderie",
+      "tag": null,
+      "region": null,
+      "lang": null,
       "serverRank": 7,
+      "members": 41,
+      "avgLevel": null,
+      "totalXp": 10769314,
+      "created": null,
+      "site": null,
+      "motto": null,
+      "topLevel": 20
+    },
+    {
+      "id": "peasants",
+      "name": "Peasants",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 35,
+      "avgLevel": null,
+      "totalXp": 8072825,
+      "serverRank": 8,
       "topLevel": 20
     },
     {
@@ -116,22 +131,7 @@
       "created": null,
       "members": 33,
       "avgLevel": null,
-      "totalXp": 7714805,
-      "serverRank": 8,
-      "topLevel": 20
-    },
-    {
-      "id": "peasants",
-      "name": "Peasants",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 32,
-      "avgLevel": null,
-      "totalXp": 7333828,
+      "totalXp": 7733189,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -146,7 +146,7 @@
       "created": null,
       "members": 28,
       "avgLevel": null,
-      "totalXp": 6492140,
+      "totalXp": 6492522,
       "serverRank": 10,
       "topLevel": 20
     },
@@ -236,7 +236,7 @@
       "created": null,
       "members": 31,
       "avgLevel": null,
-      "totalXp": 2948498,
+      "totalXp": 2949518,
       "serverRank": 16,
       "topLevel": 20
     },
@@ -281,7 +281,7 @@
       "created": null,
       "members": 19,
       "avgLevel": null,
-      "totalXp": 2314767,
+      "totalXp": 2316076,
       "serverRank": 19,
       "topLevel": 20
     },
@@ -445,7 +445,7 @@
       "created": null,
       "members": 11,
       "avgLevel": null,
-      "totalXp": 955007,
+      "totalXp": 957751,
       "serverRank": 30,
       "topLevel": 20
     },
@@ -580,7 +580,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 537510,
+      "totalXp": 550178,
       "serverRank": 39
     },
     {
@@ -789,7 +789,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 284499,
+      "totalXp": 284947,
       "serverRank": 53,
       "topLevel": 20
     },
@@ -1121,6 +1121,20 @@
       "topLevel": 15
     },
     {
+      "id": "nagas-in-paris",
+      "name": "Nagas In Paris",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 18,
+      "totalXp": 126674,
+      "serverRank": 76
+    },
+    {
       "id": "meta",
       "name": "META",
       "tag": null,
@@ -1132,22 +1146,8 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 126229,
-      "serverRank": 76,
+      "serverRank": 77,
       "topLevel": 10
-    },
-    {
-      "id": "nagas-in-paris",
-      "name": "Nagas In Paris",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 17,
-      "totalXp": 122381,
-      "serverRank": 77
     },
     {
       "id": "just-pals",
@@ -1853,8 +1853,8 @@
       "topLevel": 5
     },
     {
-      "id": "nigger",
-      "name": "Nigger",
+      "id": "i-love-black-people",
+      "name": "I love black people",
       "tag": null,
       "region": null,
       "lang": null,
@@ -1862,10 +1862,9 @@
       "motto": null,
       "created": null,
       "members": 1,
-      "avgLevel": null,
+      "topLevel": 4,
       "totalXp": 4327,
-      "serverRank": 126,
-      "topLevel": 4
+      "serverRank": 126
     },
     {
       "id": "poundmetoo",
@@ -2270,8 +2269,8 @@
       "topLevel": 1
     },
     {
-      "id": "clan-of-cock",
-      "name": "clan of cock",
+      "id": "mutterliebhaber",
+      "name": "Mutterliebhaber",
       "tag": null,
       "region": null,
       "lang": null,
@@ -2279,14 +2278,13 @@
       "motto": null,
       "created": null,
       "members": 2,
-      "avgLevel": null,
+      "topLevel": 1,
       "totalXp": 0,
-      "serverRank": 154,
-      "topLevel": 1
+      "serverRank": 154
     },
     {
-      "id": "mutterficker",
-      "name": "mutterficker",
+      "id": "lgbtq",
+      "name": "lgbtq+",
       "tag": null,
       "region": null,
       "lang": null,
@@ -2294,10 +2292,9 @@
       "motto": null,
       "created": null,
       "members": 2,
-      "avgLevel": null,
+      "topLevel": 1,
       "totalXp": 0,
-      "serverRank": 155,
-      "topLevel": 1
+      "serverRank": 155
     },
     {
       "id": "bot",
@@ -2375,6 +2372,21 @@
       "topLevel": 1
     },
     {
+      "id": "clan-of-cock",
+      "name": "clan of cock",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 2,
+      "avgLevel": null,
+      "totalXp": 0,
+      "serverRank": null,
+      "topLevel": 1
+    },
+    {
       "id": "hardcore-ph",
       "name": "Hardcore PH",
       "tag": null,
@@ -2388,6 +2400,36 @@
       "totalXp": 456286,
       "serverRank": null,
       "topLevel": 20
+    },
+    {
+      "id": "mutterficker",
+      "name": "mutterficker",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 2,
+      "avgLevel": null,
+      "totalXp": 0,
+      "serverRank": null,
+      "topLevel": 1
+    },
+    {
+      "id": "nigger",
+      "name": "Nigger",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "avgLevel": null,
+      "totalXp": 4327,
+      "serverRank": null,
+      "topLevel": 4
     },
     {
       "id": "sda",
