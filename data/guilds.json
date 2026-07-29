@@ -12,7 +12,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 44473215,
+      "totalXp": 44604030,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 33369009,
+      "totalXp": 33626617,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,9 +42,23 @@
       "created": null,
       "members": 85,
       "avgLevel": null,
-      "totalXp": 26209030,
+      "totalXp": 26309582,
       "serverRank": 3,
       "topLevel": 20
+    },
+    {
+      "id": "holy-order",
+      "name": "Holy Order",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 66,
+      "topLevel": 20,
+      "totalXp": 13201439,
+      "serverRank": 4
     },
     {
       "id": "ehren-nuggets",
@@ -57,23 +71,9 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 13066509,
-      "serverRank": 4,
+      "totalXp": 13145848,
+      "serverRank": 5,
       "topLevel": 20
-    },
-    {
-      "id": "holy-order",
-      "name": "Holy Order",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 64,
-      "topLevel": 20,
-      "totalXp": 12686210,
-      "serverRank": 5
     },
     {
       "id": "raiders-united",
@@ -86,7 +86,7 @@
       "created": null,
       "members": 57,
       "avgLevel": null,
-      "totalXp": 12388530,
+      "totalXp": 12729429,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -99,7 +99,7 @@
       "serverRank": 7,
       "members": 41,
       "avgLevel": null,
-      "totalXp": 10829361,
+      "totalXp": 10830359,
       "created": null,
       "site": null,
       "motto": null,
@@ -116,7 +116,7 @@
       "created": null,
       "members": 36,
       "avgLevel": null,
-      "totalXp": 8445181,
+      "totalXp": 8461569,
       "serverRank": 8,
       "topLevel": 20
     },
@@ -129,9 +129,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 33,
+      "members": 32,
       "avgLevel": null,
-      "totalXp": 7803684,
+      "totalXp": 7452699,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -146,7 +146,7 @@
       "created": null,
       "members": 28,
       "avgLevel": null,
-      "totalXp": 6498580,
+      "totalXp": 6505673,
       "serverRank": 10,
       "topLevel": 20
     },
@@ -176,7 +176,7 @@
       "created": null,
       "members": 42,
       "avgLevel": null,
-      "totalXp": 4527811,
+      "totalXp": 4532635,
       "serverRank": 12,
       "topLevel": 20
     },
@@ -236,7 +236,7 @@
       "created": null,
       "members": 31,
       "avgLevel": null,
-      "totalXp": 2954744,
+      "totalXp": 2966038,
       "serverRank": 16,
       "topLevel": 20
     },
@@ -256,6 +256,21 @@
       "topLevel": 20
     },
     {
+      "id": "not-monarchs",
+      "name": "NOT MONARCHS",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 19,
+      "avgLevel": null,
+      "totalXp": 2630133,
+      "serverRank": 18,
+      "topLevel": 20
+    },
+    {
       "id": "aura",
       "name": "Aura",
       "tag": null,
@@ -267,21 +282,6 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 2514313,
-      "serverRank": 18,
-      "topLevel": 20
-    },
-    {
-      "id": "not-monarchs",
-      "name": "NOT MONARCHS",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 18,
-      "avgLevel": null,
-      "totalXp": 2453282,
       "serverRank": 19,
       "topLevel": 20
     },
@@ -296,7 +296,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 2331601,
+      "totalXp": 2479706,
       "serverRank": 20
     },
     {
@@ -400,7 +400,7 @@
       "created": null,
       "members": 7,
       "avgLevel": null,
-      "totalXp": 1342558,
+      "totalXp": 1380038,
       "serverRank": 27,
       "topLevel": 20
     },
@@ -445,7 +445,7 @@
       "created": null,
       "members": 11,
       "avgLevel": null,
-      "totalXp": 958579,
+      "totalXp": 964195,
       "serverRank": 30,
       "topLevel": 20
     },
@@ -580,7 +580,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 555797,
+      "totalXp": 562601,
       "serverRank": 39
     },
     {
@@ -834,7 +834,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 271000,
+      "totalXp": 272334,
       "serverRank": 56
     },
     {
@@ -1373,6 +1373,20 @@
       "topLevel": 10
     },
     {
+      "id": "the-chosen",
+      "name": "The Chosen",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 5,
+      "topLevel": 8,
+      "totalXp": 48340,
+      "serverRank": 94
+    },
+    {
       "id": "amr",
       "name": "amr",
       "tag": null,
@@ -1384,22 +1398,22 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 44199,
-      "serverRank": 94,
+      "serverRank": 95,
       "topLevel": 8
     },
     {
-      "id": "the-chosen",
-      "name": "The Chosen",
+      "id": "honey-badgers",
+      "name": "Honey Badgers",
       "tag": null,
       "region": null,
       "lang": null,
       "site": null,
       "motto": null,
       "created": null,
-      "members": 5,
-      "topLevel": 7,
-      "totalXp": 41724,
-      "serverRank": 95
+      "members": 1,
+      "topLevel": 12,
+      "totalXp": 44002,
+      "serverRank": 96
     },
     {
       "id": "swords",
@@ -1413,7 +1427,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 41424,
-      "serverRank": 96,
+      "serverRank": 97,
       "topLevel": 11
     },
     {
@@ -1428,7 +1442,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 39001,
-      "serverRank": 97,
+      "serverRank": 98,
       "topLevel": 9
     },
     {
@@ -1443,7 +1457,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 36713,
-      "serverRank": 98,
+      "serverRank": 99,
       "topLevel": 11
     },
     {
@@ -1458,7 +1472,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 34617,
-      "serverRank": 99,
+      "serverRank": 100,
       "topLevel": 9
     },
     {
@@ -1473,7 +1487,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 33629,
-      "serverRank": 100,
+      "serverRank": 101,
       "topLevel": 10
     },
     {
@@ -1488,7 +1502,7 @@
       "members": 3,
       "topLevel": 7,
       "totalXp": 33576,
-      "serverRank": 101
+      "serverRank": 102
     },
     {
       "id": "mancave",
@@ -1502,7 +1516,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 33491,
-      "serverRank": 102,
+      "serverRank": 103,
       "topLevel": 10
     },
     {
@@ -1517,7 +1531,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 32440,
-      "serverRank": 103,
+      "serverRank": 104,
       "topLevel": 10
     },
     {
@@ -1532,7 +1546,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 30485,
-      "serverRank": 104,
+      "serverRank": 105,
       "topLevel": 10
     },
     {
@@ -1547,22 +1561,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 28503,
-      "serverRank": 105,
+      "serverRank": 106,
       "topLevel": 10
-    },
-    {
-      "id": "honey-badgers",
-      "name": "Honey Badgers",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 9,
-      "totalXp": 21338,
-      "serverRank": 106
     },
     {
       "id": "lordofthefarts",
