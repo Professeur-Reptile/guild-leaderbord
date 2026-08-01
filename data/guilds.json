@@ -12,7 +12,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 48922364,
+      "totalXp": 49007953,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 38518333,
+      "totalXp": 38564333,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 85,
       "avgLevel": null,
-      "totalXp": 30251237,
+      "totalXp": 30282848,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 95,
+      "members": 89,
       "avgLevel": null,
-      "totalXp": 23041024,
+      "totalXp": 23036048,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 66,
       "topLevel": 20,
-      "totalXp": 15263601,
+      "totalXp": 15544935,
       "serverRank": 5
     },
     {
@@ -86,7 +86,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 13925952,
+      "totalXp": 13931929,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -99,7 +99,7 @@
       "serverRank": 7,
       "members": 43,
       "avgLevel": null,
-      "totalXp": 12117423,
+      "totalXp": 12170914,
       "created": null,
       "site": null,
       "motto": null,
@@ -131,7 +131,7 @@
       "created": null,
       "members": 36,
       "avgLevel": null,
-      "totalXp": 8758270,
+      "totalXp": 8760730,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -176,7 +176,7 @@
       "created": null,
       "members": 12,
       "topLevel": 20,
-      "totalXp": 5033559,
+      "totalXp": 5046122,
       "serverRank": 12
     },
     {
@@ -265,23 +265,8 @@
       "created": null,
       "members": 10,
       "avgLevel": null,
-      "totalXp": 2977626,
+      "totalXp": 2984209,
       "serverRank": 18,
-      "topLevel": 20
-    },
-    {
-      "id": "not-monarchs",
-      "name": "NOT MONARCHS",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 18,
-      "avgLevel": null,
-      "totalXp": 2690290,
-      "serverRank": 19,
       "topLevel": 20
     },
     {
@@ -296,6 +281,21 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 2514313,
+      "serverRank": 19,
+      "topLevel": 20
+    },
+    {
+      "id": "not-monarchs",
+      "name": "NOT MONARCHS",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 17,
+      "avgLevel": null,
+      "totalXp": 2385751,
       "serverRank": 20,
       "topLevel": 20
     },
@@ -310,7 +310,7 @@
       "created": null,
       "members": 5,
       "topLevel": 20,
-      "totalXp": 2286946,
+      "totalXp": 2327200,
       "serverRank": 21
     },
     {
@@ -369,7 +369,7 @@
       "created": null,
       "members": 7,
       "avgLevel": null,
-      "totalXp": 1790352,
+      "totalXp": 1832660,
       "serverRank": 25,
       "topLevel": 20
     },
@@ -399,8 +399,23 @@
       "created": null,
       "members": 4,
       "avgLevel": null,
-      "totalXp": 1624436,
+      "totalXp": 1660921,
       "serverRank": 27,
+      "topLevel": 20
+    },
+    {
+      "id": "the-citadel",
+      "name": "The Citadel",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "avgLevel": null,
+      "totalXp": 1579711,
+      "serverRank": 28,
       "topLevel": 20
     },
     {
@@ -415,21 +430,6 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1548232,
-      "serverRank": 28,
-      "topLevel": 20
-    },
-    {
-      "id": "the-citadel",
-      "name": "The Citadel",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 3,
-      "avgLevel": null,
-      "totalXp": 1478048,
       "serverRank": 29,
       "topLevel": 20
     },
@@ -524,6 +524,20 @@
       "topLevel": 20
     },
     {
+      "id": "midnight-smoke-circle",
+      "name": "Midnight Smoke Circle",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 746463,
+      "serverRank": 36
+    },
+    {
       "id": "state-alchemist",
       "name": "State Alchemist",
       "tag": null,
@@ -535,7 +549,7 @@
       "members": 10,
       "avgLevel": null,
       "totalXp": 721053,
-      "serverRank": 36,
+      "serverRank": 37,
       "topLevel": 20
     },
     {
@@ -550,22 +564,8 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 718947,
-      "serverRank": 37,
+      "serverRank": 38,
       "topLevel": 20
-    },
-    {
-      "id": "midnight-smoke-circle",
-      "name": "Midnight Smoke Circle",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 669629,
-      "serverRank": 38
     },
     {
       "id": "spanish-inquisition",
@@ -788,7 +788,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 296785,
+      "totalXp": 297189,
       "serverRank": 53
     },
     {
@@ -867,6 +867,20 @@
       "topLevel": 20
     },
     {
+      "id": "ostatni-bastion",
+      "name": "Ostatni Bastion",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 263679,
+      "serverRank": 59
+    },
+    {
       "id": "guild",
       "name": "Guild",
       "tag": null,
@@ -878,7 +892,7 @@
       "members": 6,
       "avgLevel": null,
       "totalXp": 257968,
-      "serverRank": 59,
+      "serverRank": 60,
       "topLevel": 20
     },
     {
@@ -893,7 +907,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 253185,
-      "serverRank": 60
+      "serverRank": 61
     },
     {
       "id": "mythos",
@@ -907,7 +921,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 248896,
-      "serverRank": 61,
+      "serverRank": 62,
       "topLevel": 20
     },
     {
@@ -922,7 +936,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 247453,
-      "serverRank": 62,
+      "serverRank": 63,
       "topLevel": 20
     },
     {
@@ -937,7 +951,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 245592,
-      "serverRank": 63,
+      "serverRank": 64,
       "topLevel": 20
     },
     {
@@ -952,7 +966,7 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 244203,
-      "serverRank": 64,
+      "serverRank": 65,
       "topLevel": 16
     },
     {
@@ -967,7 +981,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 243423,
-      "serverRank": 65,
+      "serverRank": 66,
       "topLevel": 20
     },
     {
@@ -982,7 +996,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 239898,
-      "serverRank": 66,
+      "serverRank": 67,
       "topLevel": 20
     },
     {
@@ -997,22 +1011,22 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 236401,
-      "serverRank": 67,
+      "serverRank": 68,
       "topLevel": 20
     },
     {
-      "id": "ostatni-bastion",
-      "name": "Ostatni Bastion",
+      "id": "legio-x-equestris",
+      "name": "Legio X Equestris",
       "tag": null,
       "region": null,
       "lang": null,
       "site": null,
       "motto": null,
       "created": null,
-      "members": 1,
+      "members": 4,
       "topLevel": 20,
-      "totalXp": 233034,
-      "serverRank": 68
+      "totalXp": 228013,
+      "serverRank": 69
     },
     {
       "id": "eastside",
@@ -1026,7 +1040,7 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 225751,
-      "serverRank": 69,
+      "serverRank": 70,
       "topLevel": 14
     },
     {
@@ -1041,7 +1055,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 221777,
-      "serverRank": 70,
+      "serverRank": 71,
       "topLevel": 20
     },
     {
@@ -1056,22 +1070,8 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 221308,
-      "serverRank": 71,
+      "serverRank": 72,
       "topLevel": 20
-    },
-    {
-      "id": "legio-x-equestris",
-      "name": "Legio X Equestris",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 4,
-      "topLevel": 20,
-      "totalXp": 207368,
-      "serverRank": 72
     },
     {
       "id": "honey-badgers",
