@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 96,
+      "members": 97,
       "avgLevel": null,
-      "totalXp": 49618028,
+      "totalXp": 50503725,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 38219185,
+      "totalXp": 38270886,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 85,
       "avgLevel": null,
-      "totalXp": 30564818,
+      "totalXp": 30653678,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 92,
+      "members": 94,
       "avgLevel": null,
-      "totalXp": 24352533,
+      "totalXp": 25255691,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -70,9 +70,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 65,
+      "members": 61,
       "topLevel": 20,
-      "totalXp": 15483320,
+      "totalXp": 14146008,
       "serverRank": 5
     },
     {
@@ -84,9 +84,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 97,
+      "members": 96,
       "avgLevel": null,
-      "totalXp": 13970391,
+      "totalXp": 13945511,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -97,9 +97,9 @@
       "region": null,
       "lang": null,
       "serverRank": 7,
-      "members": 43,
+      "members": 42,
       "avgLevel": null,
-      "totalXp": 12333790,
+      "totalXp": 11902976,
       "created": null,
       "site": null,
       "motto": null,
@@ -114,9 +114,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 38,
+      "members": 37,
       "avgLevel": null,
-      "totalXp": 9079710,
+      "totalXp": 8973262,
       "serverRank": 8,
       "topLevel": 20
     },
@@ -131,7 +131,7 @@
       "created": null,
       "members": 36,
       "avgLevel": null,
-      "totalXp": 8760730,
+      "totalXp": 8780303,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -161,7 +161,7 @@
       "created": null,
       "members": 65,
       "avgLevel": null,
-      "totalXp": 5729745,
+      "totalXp": 5730723,
       "serverRank": 11,
       "topLevel": 20
     },
@@ -176,7 +176,7 @@
       "created": null,
       "members": 12,
       "topLevel": 20,
-      "totalXp": 5087407,
+      "totalXp": 5258532,
       "serverRank": 12
     },
     {
@@ -195,6 +195,21 @@
       "topLevel": 20
     },
     {
+      "id": "gameover",
+      "name": "GameOver",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 15,
+      "avgLevel": null,
+      "totalXp": 4243127,
+      "serverRank": 14,
+      "topLevel": 20
+    },
+    {
       "id": "hispania",
       "name": "Hispania",
       "tag": null,
@@ -206,21 +221,6 @@
       "members": 26,
       "avgLevel": null,
       "totalXp": 4173104,
-      "serverRank": 14,
-      "topLevel": 20
-    },
-    {
-      "id": "gameover",
-      "name": "GameOver",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 15,
-      "avgLevel": null,
-      "totalXp": 4160565,
       "serverRank": 15,
       "topLevel": 20
     },
@@ -295,7 +295,7 @@
       "created": null,
       "members": 5,
       "topLevel": 20,
-      "totalXp": 2438192,
+      "totalXp": 2438520,
       "serverRank": 20
     },
     {
@@ -608,7 +608,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 549867,
+      "totalXp": 578972,
       "serverRank": 41,
       "topLevel": 20
     },
@@ -1250,6 +1250,21 @@
       "topLevel": 17
     },
     {
+      "id": "world-of-angels",
+      "name": "World of Angels",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 2,
+      "avgLevel": null,
+      "totalXp": 103743,
+      "serverRank": 85,
+      "topLevel": 13
+    },
+    {
       "id": "senior-citizen",
       "name": "Senior Citizen",
       "tag": null,
@@ -1261,23 +1276,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 103198,
-      "serverRank": 85,
-      "topLevel": 16
-    },
-    {
-      "id": "world-of-angels",
-      "name": "World of Angels",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 2,
-      "avgLevel": null,
-      "totalXp": 96237,
       "serverRank": 86,
-      "topLevel": 12
+      "topLevel": 16
     },
     {
       "id": "yuuk-and-friends",
