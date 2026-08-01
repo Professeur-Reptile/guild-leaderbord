@@ -12,7 +12,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 49007953,
+      "totalXp": 49046174,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -25,9 +25,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 98,
+      "members": 97,
       "avgLevel": null,
-      "totalXp": 38564333,
+      "totalXp": 38034350,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 85,
       "avgLevel": null,
-      "totalXp": 30282848,
+      "totalXp": 30287109,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 89,
       "avgLevel": null,
-      "totalXp": 23036048,
+      "totalXp": 23016503,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 66,
       "topLevel": 20,
-      "totalXp": 15544935,
+      "totalXp": 15743406,
       "serverRank": 5
     },
     {
@@ -86,7 +86,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 13931929,
+      "totalXp": 13939513,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -99,7 +99,7 @@
       "serverRank": 7,
       "members": 43,
       "avgLevel": null,
-      "totalXp": 12170914,
+      "totalXp": 12183287,
       "created": null,
       "site": null,
       "motto": null,
@@ -285,21 +285,6 @@
       "topLevel": 20
     },
     {
-      "id": "not-monarchs",
-      "name": "NOT MONARCHS",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 17,
-      "avgLevel": null,
-      "totalXp": 2385751,
-      "serverRank": 20,
-      "topLevel": 20
-    },
-    {
       "id": "s-rifter",
       "name": "S RIFTER",
       "tag": null,
@@ -310,8 +295,23 @@
       "created": null,
       "members": 5,
       "topLevel": 20,
-      "totalXp": 2327200,
-      "serverRank": 21
+      "totalXp": 2424399,
+      "serverRank": 20
+    },
+    {
+      "id": "not-monarchs",
+      "name": "NOT MONARCHS",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 17,
+      "avgLevel": null,
+      "totalXp": 2387325,
+      "serverRank": 21,
+      "topLevel": 20
     },
     {
       "id": "smoked-meat-log",
@@ -733,6 +733,20 @@
       "topLevel": 20
     },
     {
+      "id": "ostatni-bastion",
+      "name": "Ostatni Bastion",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 340959,
+      "serverRank": 50
+    },
+    {
       "id": "wayfarer",
       "name": "Wayfarer",
       "tag": null,
@@ -744,7 +758,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 326428,
-      "serverRank": 50,
+      "serverRank": 51,
       "topLevel": 20
     },
     {
@@ -759,7 +773,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 321191,
-      "serverRank": 51,
+      "serverRank": 52,
       "topLevel": 20
     },
     {
@@ -774,7 +788,7 @@
       "members": 21,
       "avgLevel": null,
       "totalXp": 299266,
-      "serverRank": 52,
+      "serverRank": 53,
       "topLevel": 20
     },
     {
@@ -789,7 +803,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 297189,
-      "serverRank": 53
+      "serverRank": 54
     },
     {
       "id": "havoc",
@@ -803,7 +817,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 295058,
-      "serverRank": 54,
+      "serverRank": 55,
       "topLevel": 20
     },
     {
@@ -818,7 +832,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 290834,
-      "serverRank": 55,
+      "serverRank": 56,
       "topLevel": 20
     },
     {
@@ -833,7 +847,7 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 282701,
-      "serverRank": 56,
+      "serverRank": 57,
       "topLevel": 16
     },
     {
@@ -848,7 +862,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 281070,
-      "serverRank": 57,
+      "serverRank": 58,
       "topLevel": 20
     },
     {
@@ -863,22 +877,8 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 267284,
-      "serverRank": 58,
+      "serverRank": 59,
       "topLevel": 20
-    },
-    {
-      "id": "ostatni-bastion",
-      "name": "Ostatni Bastion",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 263679,
-      "serverRank": 59
     },
     {
       "id": "guild",
@@ -1025,7 +1025,7 @@
       "created": null,
       "members": 4,
       "topLevel": 20,
-      "totalXp": 228013,
+      "totalXp": 230245,
       "serverRank": 69
     },
     {
