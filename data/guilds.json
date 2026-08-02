@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 100,
+      "members": 99,
       "avgLevel": null,
-      "totalXp": 52134788,
+      "totalXp": 51958377,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -25,9 +25,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 97,
+      "members": 99,
       "avgLevel": null,
-      "totalXp": 38494125,
+      "totalXp": 39276817,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 84,
       "avgLevel": null,
-      "totalXp": 31222364,
+      "totalXp": 31243335,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 97,
+      "members": 96,
       "avgLevel": null,
-      "totalXp": 26681760,
+      "totalXp": 26357024,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 96,
       "avgLevel": null,
-      "totalXp": 13964672,
+      "totalXp": 13965155,
       "serverRank": 5,
       "topLevel": 20
     },
@@ -85,9 +85,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 59,
+      "members": 58,
       "topLevel": 20,
-      "totalXp": 13302342,
+      "totalXp": 13076780,
       "serverRank": 6
     },
     {
@@ -99,7 +99,7 @@
       "serverRank": 7,
       "members": 42,
       "avgLevel": null,
-      "totalXp": 12101510,
+      "totalXp": 12129980,
       "created": null,
       "site": null,
       "motto": null,
@@ -116,7 +116,7 @@
       "created": null,
       "members": 36,
       "avgLevel": null,
-      "totalXp": 8790377,
+      "totalXp": 8791063,
       "serverRank": 8,
       "topLevel": 20
     },
@@ -131,7 +131,7 @@
       "created": null,
       "members": 36,
       "avgLevel": null,
-      "totalXp": 8654927,
+      "totalXp": 8703149,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -176,7 +176,7 @@
       "created": null,
       "members": 12,
       "topLevel": 20,
-      "totalXp": 5491639,
+      "totalXp": 5531603,
       "serverRank": 12
     },
     {
@@ -190,7 +190,7 @@
       "created": null,
       "members": 42,
       "avgLevel": null,
-      "totalXp": 4665701,
+      "totalXp": 4676305,
       "serverRank": 13,
       "topLevel": 20
     },
@@ -250,7 +250,7 @@
       "created": null,
       "members": 10,
       "avgLevel": null,
-      "totalXp": 3267064,
+      "totalXp": 3323532,
       "serverRank": 17,
       "topLevel": 20
     },
@@ -309,7 +309,7 @@
       "created": null,
       "members": 17,
       "avgLevel": null,
-      "totalXp": 2404910,
+      "totalXp": 2405446,
       "serverRank": 21,
       "topLevel": 20
     },
@@ -354,7 +354,7 @@
       "created": null,
       "members": 9,
       "avgLevel": null,
-      "totalXp": 1864856,
+      "totalXp": 1870916,
       "serverRank": 24,
       "topLevel": 20
     },
@@ -369,7 +369,7 @@
       "created": null,
       "members": 7,
       "avgLevel": null,
-      "totalXp": 1857737,
+      "totalXp": 1858734,
       "serverRank": 25,
       "topLevel": 20
     },
@@ -474,7 +474,7 @@
       "created": null,
       "members": 3,
       "avgLevel": null,
-      "totalXp": 931470,
+      "totalXp": 933117,
       "serverRank": 32,
       "topLevel": 20
     },
@@ -524,6 +524,20 @@
       "topLevel": 20
     },
     {
+      "id": "legio-x-equestris",
+      "name": "Legio X Equestris",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 14,
+      "topLevel": 20,
+      "totalXp": 752105,
+      "serverRank": 36
+    },
+    {
       "id": "midnight-smoke-circle",
       "name": "Midnight Smoke Circle",
       "tag": null,
@@ -535,20 +549,6 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 746463,
-      "serverRank": 36
-    },
-    {
-      "id": "legio-x-equestris",
-      "name": "Legio X Equestris",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 14,
-      "topLevel": 20,
-      "totalXp": 741400,
       "serverRank": 37
     },
     {
@@ -622,23 +622,8 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 579072,
+      "totalXp": 585752,
       "serverRank": 42,
-      "topLevel": 20
-    },
-    {
-      "id": "spacex",
-      "name": "SpaceX",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 2,
-      "avgLevel": null,
-      "totalXp": 507911,
-      "serverRank": 43,
       "topLevel": 20
     },
     {
@@ -652,8 +637,23 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 496548,
-      "serverRank": 44
+      "totalXp": 516064,
+      "serverRank": 43
+    },
+    {
+      "id": "spacex",
+      "name": "SpaceX",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 2,
+      "avgLevel": null,
+      "totalXp": 507911,
+      "serverRank": 44,
+      "topLevel": 20
     },
     {
       "id": "ayuni",
