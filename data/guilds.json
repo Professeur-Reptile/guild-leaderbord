@@ -12,7 +12,7 @@
       "created": null,
       "members": 99,
       "avgLevel": null,
-      "totalXp": 53602529,
+      "totalXp": 53760131,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 39737320,
+      "totalXp": 39880109,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 84,
       "avgLevel": null,
-      "totalXp": 32356451,
+      "totalXp": 32474339,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 88,
+      "members": 89,
       "avgLevel": null,
-      "totalXp": 26690353,
+      "totalXp": 26969676,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 96,
       "avgLevel": null,
-      "totalXp": 15062942,
+      "totalXp": 15071053,
       "serverRank": 5,
       "topLevel": 20
     },
@@ -87,7 +87,7 @@
       "created": null,
       "members": 58,
       "topLevel": 20,
-      "totalXp": 13444528,
+      "totalXp": 13446313,
       "serverRank": 6
     },
     {
@@ -99,25 +99,10 @@
       "serverRank": 7,
       "members": 42,
       "avgLevel": null,
-      "totalXp": 12344842,
+      "totalXp": 12397237,
       "created": null,
       "site": null,
       "motto": null,
-      "topLevel": 20
-    },
-    {
-      "id": "peasants",
-      "name": "Peasants",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 36,
-      "avgLevel": null,
-      "totalXp": 8950155,
-      "serverRank": 8,
       "topLevel": 20
     },
     {
@@ -131,7 +116,22 @@
       "created": null,
       "members": 36,
       "avgLevel": null,
-      "totalXp": 8925801,
+      "totalXp": 8965929,
+      "serverRank": 8,
+      "topLevel": 20
+    },
+    {
+      "id": "peasants",
+      "name": "Peasants",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 36,
+      "avgLevel": null,
+      "totalXp": 8950595,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -146,7 +146,7 @@
       "created": null,
       "members": 13,
       "topLevel": 20,
-      "totalXp": 6203924,
+      "totalXp": 6205989,
       "serverRank": 10
     },
     {
@@ -250,7 +250,7 @@
       "created": null,
       "members": 31,
       "avgLevel": null,
-      "totalXp": 3155716,
+      "totalXp": 3156586,
       "serverRank": 17,
       "topLevel": 20
     },
@@ -265,7 +265,7 @@
       "created": null,
       "members": 5,
       "topLevel": 20,
-      "totalXp": 3110523,
+      "totalXp": 3139684,
       "serverRank": 18
     },
     {
@@ -294,7 +294,7 @@
       "created": null,
       "members": 8,
       "avgLevel": null,
-      "totalXp": 2340317,
+      "totalXp": 2341029,
       "serverRank": 20,
       "topLevel": 20
     },
@@ -309,7 +309,7 @@
       "created": null,
       "members": 17,
       "avgLevel": null,
-      "totalXp": 2231237,
+      "totalXp": 2275332,
       "serverRank": 21,
       "topLevel": 20
     },
@@ -324,7 +324,7 @@
       "created": null,
       "members": 8,
       "avgLevel": null,
-      "totalXp": 2020809,
+      "totalXp": 2020909,
       "serverRank": 22,
       "topLevel": 20
     },
@@ -389,6 +389,20 @@
       "topLevel": 20
     },
     {
+      "id": "legio-x-equestris",
+      "name": "Legio X Equestris",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 21,
+      "topLevel": 20,
+      "totalXp": 1671530,
+      "serverRank": 27
+    },
+    {
       "id": "aanar",
       "name": "Aanar",
       "tag": null,
@@ -400,22 +414,8 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 1661953,
-      "serverRank": 27,
+      "serverRank": 28,
       "topLevel": 20
-    },
-    {
-      "id": "legio-x-equestris",
-      "name": "Legio X Equestris",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 21,
-      "topLevel": 20,
-      "totalXp": 1633502,
-      "serverRank": 28
     },
     {
       "id": "quorum",
@@ -1072,6 +1072,20 @@
       "serverRank": 72
     },
     {
+      "id": "horde-gauloise",
+      "name": "Horde Gauloise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 221820,
+      "serverRank": 73
+    },
+    {
       "id": "woc",
       "name": "WoC",
       "tag": null,
@@ -1083,7 +1097,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 221777,
-      "serverRank": 73,
+      "serverRank": 74,
       "topLevel": 20
     },
     {
@@ -1098,7 +1112,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 221308,
-      "serverRank": 74,
+      "serverRank": 75,
       "topLevel": 20
     },
     {
@@ -1113,20 +1127,6 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 217287,
-      "serverRank": 75
-    },
-    {
-      "id": "horde-gauloise",
-      "name": "Horde Gauloise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 207200,
       "serverRank": 76
     },
     {
