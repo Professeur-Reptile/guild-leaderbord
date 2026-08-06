@@ -19,7 +19,7 @@
       "cls": "warlock",
       "level": 20,
       "virtualLevel": 51,
-      "lifetimeXp": 4633627,
+      "lifetimeXp": 4662305,
       "prestigeRank": 190,
       "title": "prog_master_angler"
     },
@@ -99,7 +99,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1622784,
+      "lifetimeXp": 1623467,
       "prestigeRank": 61,
       "title": "prog_grandmaster_alchemy"
     },
@@ -115,23 +115,23 @@
     },
     {
       "rank": 12,
-      "name": "Hardwar",
-      "cls": "warrior",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1450445,
-      "prestigeRank": 49,
-      "title": "prog_masterwright"
-    },
-    {
-      "rank": 13,
       "name": "Recked",
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1444685,
+      "lifetimeXp": 1472268,
       "prestigeRank": 50,
       "title": "prog_champion"
+    },
+    {
+      "rank": 13,
+      "name": "Hardwar",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 39,
+      "lifetimeXp": 1455367,
+      "prestigeRank": 49,
+      "title": "prog_masterwright"
     },
     {
       "rank": 14,
@@ -139,7 +139,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1403833,
+      "lifetimeXp": 1404029,
       "prestigeRank": 52,
       "title": null
     },
@@ -149,7 +149,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1403149,
+      "lifetimeXp": 1403832,
       "prestigeRank": 0,
       "title": null
     },
@@ -189,8 +189,8 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1253415,
-      "prestigeRank": 45,
+      "lifetimeXp": 1267139,
+      "prestigeRank": 47,
       "title": "prog_paragon"
     },
     {
@@ -329,7 +329,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1030659,
+      "lifetimeXp": 1030821,
       "prestigeRank": 37,
       "title": null
     },
@@ -729,7 +729,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 745308,
+      "lifetimeXp": 745550,
       "prestigeRank": 0,
       "title": null
     },
@@ -738,8 +738,8 @@
       "name": "Ahap",
       "cls": "hunter",
       "level": 20,
-      "virtualLevel": 32,
-      "lifetimeXp": 735855,
+      "virtualLevel": 33,
+      "lifetimeXp": 736415,
       "prestigeRank": 0,
       "title": null
     },
@@ -749,7 +749,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 32,
-      "lifetimeXp": 724276,
+      "lifetimeXp": 728911,
       "prestigeRank": 24,
       "title": "prog_champion"
     },
@@ -829,7 +829,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 32,
-      "lifetimeXp": 701017,
+      "lifetimeXp": 701499,
       "prestigeRank": 0,
       "title": null
     },
@@ -909,8 +909,8 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 32,
-      "lifetimeXp": 685114,
-      "prestigeRank": 21,
+      "lifetimeXp": 686875,
+      "prestigeRank": 22,
       "title": "dgn_nythraxis_deathless"
     },
     {
@@ -939,7 +939,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 32,
-      "lifetimeXp": 672286,
+      "lifetimeXp": 672528,
       "prestigeRank": 21,
       "title": "soc_market_magnate"
     },
@@ -955,6 +955,16 @@
     },
     {
       "rank": 96,
+      "name": "Zelaria",
+      "cls": "mage",
+      "level": 20,
+      "virtualLevel": 32,
+      "lifetimeXp": 667688,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 97,
       "name": "Bbncwarr",
       "cls": "warrior",
       "level": 20,
@@ -964,7 +974,7 @@
       "title": "prog_champion"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "name": "Strong",
       "cls": "warrior",
       "level": 20,
@@ -974,32 +984,22 @@
       "title": "chr_peaks_chapter_iii"
     },
     {
-      "rank": 98,
+      "rank": 99,
       "name": "Gosho",
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 31,
-      "lifetimeXp": 652683,
+      "lifetimeXp": 652711,
       "prestigeRank": 0,
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 99,
+      "rank": 100,
       "name": "DraksPK",
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 31,
       "lifetimeXp": 651400,
-      "prestigeRank": 0,
-      "title": null
-    },
-    {
-      "rank": 100,
-      "name": "Zelaria",
-      "cls": "mage",
-      "level": 20,
-      "virtualLevel": 31,
-      "lifetimeXp": 643523,
       "prestigeRank": 0,
       "title": null
     },
@@ -1145,6 +1145,16 @@
     },
     {
       "rank": 115,
+      "name": "Klerc",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 31,
+      "lifetimeXp": 606418,
+      "prestigeRank": 18,
+      "title": "prog_champion"
+    },
+    {
+      "rank": 116,
       "name": "Cifern",
       "cls": "hunter",
       "level": 20,
@@ -1152,16 +1162,6 @@
       "lifetimeXp": 606044,
       "prestigeRank": 18,
       "title": "col_seven_regalia"
-    },
-    {
-      "rank": 116,
-      "name": "Klerc",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 31,
-      "lifetimeXp": 605423,
-      "prestigeRank": 18,
-      "title": "prog_champion"
     },
     {
       "rank": 117,
@@ -1285,6 +1285,16 @@
     },
     {
       "rank": 129,
+      "name": "OromE",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 30,
+      "lifetimeXp": 550320,
+      "prestigeRank": 0,
+      "title": "soc_market_magnate"
+    },
+    {
+      "rank": 130,
       "name": "WarxYycaruz",
       "cls": "warrior",
       "level": 20,
@@ -1294,17 +1304,17 @@
       "title": "prog_champion"
     },
     {
-      "rank": 130,
-      "name": "OromE",
-      "cls": "hunter",
+      "rank": 131,
+      "name": "Shkuroshyup",
+      "cls": "mage",
       "level": 20,
       "virtualLevel": 30,
-      "lifetimeXp": 547749,
-      "prestigeRank": 0,
-      "title": "soc_market_magnate"
+      "lifetimeXp": 547180,
+      "prestigeRank": 16,
+      "title": null
     },
     {
-      "rank": 131,
+      "rank": 132,
       "name": "Aurash",
       "cls": "druid",
       "level": 20,
@@ -1314,7 +1324,7 @@
       "title": null
     },
     {
-      "rank": 132,
+      "rank": 133,
       "name": "Aldebaranm",
       "cls": "druid",
       "level": 20,
@@ -1324,7 +1334,7 @@
       "title": "prog_champion"
     },
     {
-      "rank": 133,
+      "rank": 134,
       "name": "iloveyouyuumiiii",
       "cls": "hunter",
       "level": 20,
@@ -1332,16 +1342,6 @@
       "lifetimeXp": 537770,
       "prestigeRank": 15,
       "title": "prog_champion"
-    },
-    {
-      "rank": 134,
-      "name": "Shkuroshyup",
-      "cls": "mage",
-      "level": 20,
-      "virtualLevel": 30,
-      "lifetimeXp": 537722,
-      "prestigeRank": 15,
-      "title": null
     },
     {
       "rank": 135,
@@ -1375,6 +1375,16 @@
     },
     {
       "rank": 138,
+      "name": "Throrfiriand",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 29,
+      "lifetimeXp": 519779,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 139,
       "name": "Eihaba Yujdicc",
       "cls": "warrior",
       "level": 20,
@@ -1384,7 +1394,7 @@
       "title": null
     },
     {
-      "rank": 139,
+      "rank": 140,
       "name": "PANA-PANA",
       "cls": "hunter",
       "level": 20,
@@ -1394,7 +1404,7 @@
       "title": "prog_veteran"
     },
     {
-      "rank": 140,
+      "rank": 141,
       "name": "TimeMaster",
       "cls": "mage",
       "level": 20,
@@ -1404,7 +1414,7 @@
       "title": null
     },
     {
-      "rank": 141,
+      "rank": 142,
       "name": "Neuralburn",
       "cls": "warlock",
       "level": 20,
@@ -1414,7 +1424,7 @@
       "title": null
     },
     {
-      "rank": 142,
+      "rank": 143,
       "name": "Aries",
       "cls": "paladin",
       "level": 20,
@@ -1424,27 +1434,27 @@
       "title": null
     },
     {
-      "rank": 143,
+      "rank": 144,
       "name": "Lepidus",
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 29,
-      "lifetimeXp": 511059,
+      "lifetimeXp": 511127,
       "prestigeRank": 1,
       "title": "prog_guildsworn"
     },
     {
-      "rank": 144,
+      "rank": 145,
       "name": "TankyTomato",
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 29,
-      "lifetimeXp": 509977,
+      "lifetimeXp": 510078,
       "prestigeRank": 11,
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 145,
+      "rank": 146,
       "name": "mymb",
       "cls": "hunter",
       "level": 20,
@@ -1454,7 +1464,7 @@
       "title": "prog_veteran"
     },
     {
-      "rank": 146,
+      "rank": 147,
       "name": "The one",
       "cls": "paladin",
       "level": 20,
@@ -1464,7 +1474,7 @@
       "title": "col_discovery_150"
     },
     {
-      "rank": 147,
+      "rank": 148,
       "name": "Arcus",
       "cls": "warrior",
       "level": 20,
@@ -1474,7 +1484,7 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 148,
+      "rank": 149,
       "name": "eerreee",
       "cls": "rogue",
       "level": 20,
@@ -1484,7 +1494,17 @@
       "title": null
     },
     {
-      "rank": 149,
+      "rank": 150,
+      "name": "Pelepin",
+      "cls": "mage",
+      "level": 20,
+      "virtualLevel": 29,
+      "lifetimeXp": 495846,
+      "prestigeRank": 0,
+      "title": "prog_masterwright"
+    },
+    {
+      "rank": 151,
       "name": "yisus",
       "cls": "shaman",
       "level": 20,
@@ -1494,7 +1514,7 @@
       "title": null
     },
     {
-      "rank": 150,
+      "rank": 152,
       "name": "prey",
       "cls": "hunter",
       "level": 20,
@@ -1504,17 +1524,7 @@
       "title": "prog_guildsworn"
     },
     {
-      "rank": 151,
-      "name": "Pelepin",
-      "cls": "mage",
-      "level": 20,
-      "virtualLevel": 29,
-      "lifetimeXp": 494500,
-      "prestigeRank": 0,
-      "title": "prog_masterwright"
-    },
-    {
-      "rank": 152,
+      "rank": 153,
       "name": "Cloth Warl",
       "cls": "warlock",
       "level": 20,
@@ -1524,7 +1534,7 @@
       "title": null
     },
     {
-      "rank": 153,
+      "rank": 154,
       "name": "sastori",
       "cls": "mage",
       "level": 20,
@@ -1534,7 +1544,7 @@
       "title": null
     },
     {
-      "rank": 154,
+      "rank": 155,
       "name": "Pampatek",
       "cls": "hunter",
       "level": 20,
@@ -1544,7 +1554,7 @@
       "title": null
     },
     {
-      "rank": 155,
+      "rank": 156,
       "name": "Teddy Braveheart",
       "cls": "paladin",
       "level": 20,
@@ -1554,7 +1564,7 @@
       "title": null
     },
     {
-      "rank": 156,
+      "rank": 157,
       "name": "swifter",
       "cls": "hunter",
       "level": 20,
@@ -1564,7 +1574,7 @@
       "title": "pvp_arena_1v1_1900"
     },
     {
-      "rank": 157,
+      "rank": 158,
       "name": "testus MAximus",
       "cls": "warlock",
       "level": 20,
@@ -1574,7 +1584,17 @@
       "title": null
     },
     {
-      "rank": 158,
+      "rank": 159,
+      "name": "Nor",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 29,
+      "lifetimeXp": 484673,
+      "prestigeRank": 13,
+      "title": "dgn_korzul_flawless"
+    },
+    {
+      "rank": 160,
       "name": "Nineox",
       "cls": "shaman",
       "level": 20,
@@ -1584,17 +1604,7 @@
       "title": null
     },
     {
-      "rank": 159,
-      "name": "Nor",
-      "cls": "warrior",
-      "level": 20,
-      "virtualLevel": 29,
-      "lifetimeXp": 484352,
-      "prestigeRank": 13,
-      "title": "dgn_korzul_flawless"
-    },
-    {
-      "rank": 160,
+      "rank": 161,
       "name": "Sharpeye",
       "cls": "hunter",
       "level": 20,
@@ -1602,16 +1612,6 @@
       "lifetimeXp": 483898,
       "prestigeRank": 6,
       "title": "prog_veteran"
-    },
-    {
-      "rank": 161,
-      "name": "Throrfiriand",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 29,
-      "lifetimeXp": 482732,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 162,
@@ -1645,6 +1645,16 @@
     },
     {
       "rank": 165,
+      "name": "Sarkazm",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 28,
+      "lifetimeXp": 477599,
+      "prestigeRank": 13,
+      "title": "dgn_nythraxis_deathless"
+    },
+    {
+      "rank": 166,
       "name": "VGS",
       "cls": "warrior",
       "level": 20,
@@ -1652,16 +1662,6 @@
       "lifetimeXp": 475906,
       "prestigeRank": 10,
       "title": null
-    },
-    {
-      "rank": 166,
-      "name": "Sarkazm",
-      "cls": "hunter",
-      "level": 20,
-      "virtualLevel": 28,
-      "lifetimeXp": 475548,
-      "prestigeRank": 13,
-      "title": "dgn_nythraxis_deathless"
     },
     {
       "rank": 167,
@@ -1769,7 +1769,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 28,
-      "lifetimeXp": 450989,
+      "lifetimeXp": 451231,
       "prestigeRank": 11,
       "title": null
     },
@@ -1889,12 +1889,22 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 28,
-      "lifetimeXp": 440408,
+      "lifetimeXp": 441091,
       "prestigeRank": 11,
       "title": "soc_market_magnate"
     },
     {
       "rank": 190,
+      "name": "Spectra",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 28,
+      "lifetimeXp": 440702,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 191,
       "name": "Laxx",
       "cls": "rogue",
       "level": 20,
@@ -1904,7 +1914,7 @@
       "title": null
     },
     {
-      "rank": 191,
+      "rank": 192,
       "name": "Seiy",
       "cls": "hunter",
       "level": 20,
@@ -1914,7 +1924,7 @@
       "title": null
     },
     {
-      "rank": 192,
+      "rank": 193,
       "name": "folkchild",
       "cls": "hunter",
       "level": 20,
@@ -1924,7 +1934,7 @@
       "title": null
     },
     {
-      "rank": 193,
+      "rank": 194,
       "name": "Lomick",
       "cls": "shaman",
       "level": 20,
@@ -1934,7 +1944,7 @@
       "title": null
     },
     {
-      "rank": 194,
+      "rank": 195,
       "name": "MsWarlock",
       "cls": "warlock",
       "level": 20,
@@ -1944,7 +1954,7 @@
       "title": null
     },
     {
-      "rank": 195,
+      "rank": 196,
       "name": "Waylander",
       "cls": "hunter",
       "level": 20,
@@ -1954,7 +1964,7 @@
       "title": "soc_market_magnate"
     },
     {
-      "rank": 196,
+      "rank": 197,
       "name": "contagious",
       "cls": "warlock",
       "level": 20,
@@ -1964,7 +1974,7 @@
       "title": "prog_veteran"
     },
     {
-      "rank": 197,
+      "rank": 198,
       "name": "benoalvo",
       "cls": "hunter",
       "level": 20,
@@ -1974,7 +1984,7 @@
       "title": null
     },
     {
-      "rank": 198,
+      "rank": 199,
       "name": "Robinn",
       "cls": "hunter",
       "level": 20,
@@ -1984,7 +1994,7 @@
       "title": null
     },
     {
-      "rank": 199,
+      "rank": 200,
       "name": "Pr Reptile Druid",
       "cls": "druid",
       "level": 20,
@@ -1992,16 +2002,6 @@
       "lifetimeXp": 434096,
       "prestigeRank": 9,
       "title": "prog_veteran"
-    },
-    {
-      "rank": 200,
-      "name": "Beauty",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 28,
-      "lifetimeXp": 433915,
-      "prestigeRank": 9,
-      "title": null
     }
   ]
 }
