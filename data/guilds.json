@@ -12,7 +12,7 @@
       "created": null,
       "members": 90,
       "avgLevel": null,
-      "totalXp": 51265957,
+      "totalXp": 51298784,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 41734752,
+      "totalXp": 42135871,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -40,9 +40,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 86,
+      "members": 89,
       "avgLevel": null,
-      "totalXp": 33578396,
+      "totalXp": 34382434,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 29590662,
+      "totalXp": 29811857,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 15362980,
+      "totalXp": 15473004,
       "serverRank": 5,
       "topLevel": 20
     },
@@ -87,7 +87,7 @@
       "created": null,
       "members": 58,
       "topLevel": 20,
-      "totalXp": 13694459,
+      "totalXp": 13702240,
       "serverRank": 6
     },
     {
@@ -97,9 +97,9 @@
       "region": null,
       "lang": null,
       "serverRank": 7,
-      "members": 42,
+      "members": 43,
       "avgLevel": null,
-      "totalXp": 12860700,
+      "totalXp": 13141036,
       "created": null,
       "site": null,
       "motto": null,
@@ -116,7 +116,7 @@
       "created": null,
       "members": 27,
       "topLevel": 20,
-      "totalXp": 10097943,
+      "totalXp": 10174064,
       "serverRank": 8
     },
     {
@@ -135,6 +135,20 @@
       "topLevel": 20
     },
     {
+      "id": "a-guilda",
+      "name": "A Guilda",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 15,
+      "topLevel": 20,
+      "totalXp": 6844585,
+      "serverRank": 10
+    },
+    {
       "id": "peasants",
       "name": "Peasants",
       "tag": null,
@@ -146,22 +160,8 @@
       "members": 29,
       "avgLevel": null,
       "totalXp": 6716563,
-      "serverRank": 10,
+      "serverRank": 11,
       "topLevel": 20
-    },
-    {
-      "id": "a-guilda",
-      "name": "A Guilda",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 15,
-      "topLevel": 20,
-      "totalXp": 6654099,
-      "serverRank": 11
     },
     {
       "id": "glorious",
@@ -309,7 +309,7 @@
       "created": null,
       "members": 4,
       "topLevel": 20,
-      "totalXp": 2227291,
+      "totalXp": 2228263,
       "serverRank": 21
     },
     {
@@ -323,7 +323,7 @@
       "created": null,
       "members": 16,
       "avgLevel": null,
-      "totalXp": 2143458,
+      "totalXp": 2178258,
       "serverRank": 22,
       "topLevel": 20
     },
@@ -413,7 +413,7 @@
       "created": null,
       "members": 21,
       "topLevel": 20,
-      "totalXp": 1568659,
+      "totalXp": 1579930,
       "serverRank": 28
     },
     {
@@ -487,7 +487,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 1274765,
+      "totalXp": 1315855,
       "serverRank": 33
     },
     {
@@ -590,7 +590,7 @@
       "created": null,
       "members": 10,
       "avgLevel": null,
-      "totalXp": 727710,
+      "totalXp": 727934,
       "serverRank": 40,
       "topLevel": 20
     },
@@ -635,7 +635,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 603371,
+      "totalXp": 604316,
       "serverRank": 43,
       "topLevel": 20
     },
@@ -699,8 +699,8 @@
       "topLevel": 20
     },
     {
-      "id": "super-shy",
-      "name": "super shy",
+      "id": "children-of-the-light",
+      "name": "Children of the Light",
       "tag": null,
       "region": null,
       "lang": null,
@@ -709,7 +709,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 467882,
+      "totalXp": 470841,
       "serverRank": 48
     },
     {
@@ -758,6 +758,21 @@
       "topLevel": 20
     },
     {
+      "id": "mythless",
+      "name": "Mythless",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "avgLevel": null,
+      "totalXp": 449862,
+      "serverRank": 52,
+      "topLevel": 20
+    },
+    {
       "id": "only-dots",
       "name": "Only Dots",
       "tag": null,
@@ -769,21 +784,6 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 435869,
-      "serverRank": 52,
-      "topLevel": 20
-    },
-    {
-      "id": "mythless",
-      "name": "Mythless",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "avgLevel": null,
-      "totalXp": 435698,
       "serverRank": 53,
       "topLevel": 20
     },
@@ -842,7 +842,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 367499,
+      "totalXp": 367745,
       "serverRank": 57
     },
     {
@@ -1245,6 +1245,20 @@
       "topLevel": 20
     },
     {
+      "id": "purgatory",
+      "name": "Purgatory",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 167200,
+      "serverRank": 85
+    },
+    {
       "id": "swk",
       "name": "SWK",
       "tag": null,
@@ -1256,7 +1270,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 153817,
-      "serverRank": 85,
+      "serverRank": 86,
       "topLevel": 17
     },
     {
@@ -1271,7 +1285,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 133612,
-      "serverRank": 86,
+      "serverRank": 87,
       "topLevel": 15
     },
     {
@@ -1286,7 +1300,7 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 126229,
-      "serverRank": 87,
+      "serverRank": 88,
       "topLevel": 10
     },
     {
@@ -1301,7 +1315,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 118917,
-      "serverRank": 88,
+      "serverRank": 89,
       "topLevel": 13
     },
     {
@@ -1316,7 +1330,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 111825,
-      "serverRank": 89,
+      "serverRank": 90,
       "topLevel": 17
     },
     {
@@ -1331,7 +1345,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 103743,
-      "serverRank": 90,
+      "serverRank": 91,
       "topLevel": 13
     },
     {
@@ -1346,22 +1360,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 103198,
-      "serverRank": 91,
+      "serverRank": 92,
       "topLevel": 16
-    },
-    {
-      "id": "purgatory",
-      "name": "Purgatory",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 16,
-      "totalXp": 98398,
-      "serverRank": 92
     },
     {
       "id": "yuuk-and-friends",
@@ -2709,6 +2709,20 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 246377,
+      "serverRank": null
+    },
+    {
+      "id": "super-shy",
+      "name": "super shy",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 467882,
       "serverRank": null
     },
     {
