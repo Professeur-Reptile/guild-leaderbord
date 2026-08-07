@@ -12,7 +12,7 @@
       "created": null,
       "members": 90,
       "avgLevel": null,
-      "totalXp": 51946029,
+      "totalXp": 52028370,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -25,9 +25,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 99,
+      "members": 100,
       "avgLevel": null,
-      "totalXp": 43206285,
+      "totalXp": 43415248,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 90,
       "avgLevel": null,
-      "totalXp": 35114595,
+      "totalXp": 35121068,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 31047000,
+      "totalXp": 31097505,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 15664340,
+      "totalXp": 15717620,
       "serverRank": 5,
       "topLevel": 20
     },
@@ -87,7 +87,7 @@
       "created": null,
       "members": 58,
       "topLevel": 20,
-      "totalXp": 13879917,
+      "totalXp": 13906245,
       "serverRank": 6
     },
     {
@@ -99,7 +99,7 @@
       "serverRank": 7,
       "members": 43,
       "avgLevel": null,
-      "totalXp": 13206065,
+      "totalXp": 13206093,
       "created": null,
       "site": null,
       "motto": null,
@@ -116,7 +116,7 @@
       "created": null,
       "members": 34,
       "topLevel": 20,
-      "totalXp": 13049526,
+      "totalXp": 13191580,
       "serverRank": 8
     },
     {
@@ -130,7 +130,7 @@
       "created": null,
       "members": 34,
       "avgLevel": null,
-      "totalXp": 8807678,
+      "totalXp": 8810574,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -145,7 +145,7 @@
       "created": null,
       "members": 16,
       "topLevel": 20,
-      "totalXp": 7078207,
+      "totalXp": 7078221,
       "serverRank": 10
     },
     {
@@ -219,7 +219,7 @@
       "created": null,
       "members": 15,
       "avgLevel": null,
-      "totalXp": 4440165,
+      "totalXp": 4476483,
       "serverRank": 15,
       "topLevel": 20
     },
@@ -309,7 +309,7 @@
       "created": null,
       "members": 16,
       "avgLevel": null,
-      "totalXp": 2247542,
+      "totalXp": 2259037,
       "serverRank": 21,
       "topLevel": 20
     },
@@ -353,7 +353,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 1903734,
+      "totalXp": 1923205,
       "serverRank": 24
     },
     {
@@ -382,7 +382,7 @@
       "created": null,
       "members": 21,
       "topLevel": 20,
-      "totalXp": 1802034,
+      "totalXp": 1802057,
       "serverRank": 26
     },
     {
@@ -551,21 +551,6 @@
       "topLevel": 20
     },
     {
-      "id": "state-alchemist",
-      "name": "State Alchemist",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 11,
-      "avgLevel": null,
-      "totalXp": 822095,
-      "serverRank": 38,
-      "topLevel": 20
-    },
-    {
       "id": "avalon",
       "name": "Avalon",
       "tag": null,
@@ -577,7 +562,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 810269,
-      "serverRank": 39,
+      "serverRank": 38,
       "topLevel": 20
     },
     {
@@ -592,7 +577,22 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 808525,
-      "serverRank": 40
+      "serverRank": 39
+    },
+    {
+      "id": "state-alchemist",
+      "name": "State Alchemist",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 10,
+      "avgLevel": null,
+      "totalXp": 729654,
+      "serverRank": 40,
+      "topLevel": 20
     },
     {
       "id": "legendary",
@@ -694,7 +694,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 477669,
+      "totalXp": 477795,
       "serverRank": 47,
       "topLevel": 20
     },
@@ -783,7 +783,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 375942,
+      "totalXp": 376159,
       "serverRank": 53
     },
     {
@@ -1508,7 +1508,7 @@
       "created": null,
       "members": 2,
       "topLevel": 9,
-      "totalXp": 45739,
+      "totalXp": 46094,
       "serverRank": 103
     },
     {
@@ -1557,6 +1557,20 @@
       "topLevel": 9
     },
     {
+      "id": "ritter-der-kokusnuss",
+      "name": "RITTER DER KOKUSNUSS",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 2,
+      "topLevel": 10,
+      "totalXp": 38889,
+      "serverRank": 107
+    },
+    {
       "id": "dasgefaelltsuns",
       "name": "DasGefaelltsUns",
       "tag": null,
@@ -1568,7 +1582,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 36713,
-      "serverRank": 107,
+      "serverRank": 108,
       "topLevel": 11
     },
     {
@@ -1583,7 +1597,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 34617,
-      "serverRank": 108,
+      "serverRank": 109,
       "topLevel": 9
     },
     {
@@ -1598,7 +1612,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 34283,
-      "serverRank": 109,
+      "serverRank": 110,
       "topLevel": 10
     },
     {
@@ -1613,7 +1627,7 @@
       "members": 4,
       "topLevel": 8,
       "totalXp": 33992,
-      "serverRank": 110
+      "serverRank": 111
     },
     {
       "id": "secretgovernment",
@@ -1627,7 +1641,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 33629,
-      "serverRank": 111,
+      "serverRank": 112,
       "topLevel": 10
     },
     {
@@ -1642,7 +1656,7 @@
       "members": 3,
       "topLevel": 7,
       "totalXp": 33576,
-      "serverRank": 112
+      "serverRank": 113
     },
     {
       "id": "mancave",
@@ -1656,7 +1670,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 33491,
-      "serverRank": 113,
+      "serverRank": 114,
       "topLevel": 10
     },
     {
@@ -1671,7 +1685,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 32440,
-      "serverRank": 114,
+      "serverRank": 115,
       "topLevel": 10
     },
     {
@@ -1686,7 +1700,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 30485,
-      "serverRank": 115,
+      "serverRank": 116,
       "topLevel": 10
     },
     {
@@ -1701,22 +1715,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 28503,
-      "serverRank": 116,
+      "serverRank": 117,
       "topLevel": 10
-    },
-    {
-      "id": "ritter-der-kokusnuss",
-      "name": "RITTER DER KOKUSNUSS",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 2,
-      "topLevel": 7,
-      "totalXp": 24244,
-      "serverRank": 117
     },
     {
       "id": "lordofthefarts",
