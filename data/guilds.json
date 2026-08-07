@@ -12,7 +12,7 @@
       "created": null,
       "members": 90,
       "avgLevel": null,
-      "totalXp": 51719409,
+      "totalXp": 51756018,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 43886305,
+      "totalXp": 43800582,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -40,9 +40,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 89,
+      "members": 90,
       "avgLevel": null,
-      "totalXp": 34691031,
+      "totalXp": 34974355,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 30792767,
+      "totalXp": 30833890,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 15548091,
+      "totalXp": 15582980,
       "serverRank": 5,
       "topLevel": 20
     },
@@ -87,7 +87,7 @@
       "created": null,
       "members": 58,
       "topLevel": 20,
-      "totalXp": 13753345,
+      "totalXp": 13771277,
       "serverRank": 6
     },
     {
@@ -116,7 +116,7 @@
       "created": null,
       "members": 31,
       "topLevel": 20,
-      "totalXp": 12314955,
+      "totalXp": 12323125,
       "serverRank": 8
     },
     {
@@ -143,9 +143,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 15,
+      "members": 16,
       "topLevel": 20,
-      "totalXp": 6977795,
+      "totalXp": 7064917,
       "serverRank": 10
     },
     {
@@ -309,7 +309,7 @@
       "created": null,
       "members": 4,
       "topLevel": 20,
-      "totalXp": 2233435,
+      "totalXp": 2234245,
       "serverRank": 21
     },
     {
@@ -323,7 +323,7 @@
       "created": null,
       "members": 16,
       "avgLevel": null,
-      "totalXp": 2213856,
+      "totalXp": 2231256,
       "serverRank": 22,
       "topLevel": 20
     },
@@ -368,7 +368,7 @@
       "created": null,
       "members": 21,
       "topLevel": 20,
-      "totalXp": 1769732,
+      "totalXp": 1784525,
       "serverRank": 25
     },
     {
@@ -427,7 +427,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 1549036,
+      "totalXp": 1562186,
       "serverRank": 29
     },
     {
@@ -551,6 +551,21 @@
       "topLevel": 20
     },
     {
+      "id": "state-alchemist",
+      "name": "State Alchemist",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 11,
+      "avgLevel": null,
+      "totalXp": 820679,
+      "serverRank": 38,
+      "topLevel": 20
+    },
+    {
       "id": "avalon",
       "name": "Avalon",
       "tag": null,
@@ -562,7 +577,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 810269,
-      "serverRank": 38,
+      "serverRank": 39,
       "topLevel": 20
     },
     {
@@ -577,22 +592,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 808525,
-      "serverRank": 39
-    },
-    {
-      "id": "state-alchemist",
-      "name": "State Alchemist",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 10,
-      "avgLevel": null,
-      "totalXp": 727962,
-      "serverRank": 40,
-      "topLevel": 20
+      "serverRank": 40
     },
     {
       "id": "legendary",
@@ -684,6 +684,21 @@
       "topLevel": 20
     },
     {
+      "id": "mythless",
+      "name": "Mythless",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "avgLevel": null,
+      "totalXp": 476850,
+      "serverRank": 47,
+      "topLevel": 20
+    },
+    {
       "id": "children-of-the-light",
       "name": "Children of the Light",
       "tag": null,
@@ -695,7 +710,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 472303,
-      "serverRank": 47
+      "serverRank": 48
     },
     {
       "id": "carpe-noctem",
@@ -709,7 +724,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 466168,
-      "serverRank": 48,
+      "serverRank": 49,
       "topLevel": 20
     },
     {
@@ -724,21 +739,6 @@
       "members": 7,
       "avgLevel": null,
       "totalXp": 465780,
-      "serverRank": 49,
-      "topLevel": 20
-    },
-    {
-      "id": "mythless",
-      "name": "Mythless",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "avgLevel": null,
-      "totalXp": 459230,
       "serverRank": 50,
       "topLevel": 20
     },
@@ -1239,7 +1239,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 167251,
+      "totalXp": 167379,
       "serverRank": 84
     },
     {
