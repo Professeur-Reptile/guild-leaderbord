@@ -12,7 +12,7 @@
       "created": null,
       "members": 90,
       "avgLevel": null,
-      "totalXp": 52859541,
+      "totalXp": 52883018,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 99,
       "avgLevel": null,
-      "totalXp": 45449541,
+      "totalXp": 45509960,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 92,
       "avgLevel": null,
-      "totalXp": 36335541,
+      "totalXp": 36347316,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 97,
+      "members": 98,
       "avgLevel": null,
-      "totalXp": 31666088,
+      "totalXp": 31990162,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -70,9 +70,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 41,
+      "members": 42,
       "topLevel": 20,
-      "totalXp": 15918822,
+      "totalXp": 16321841,
       "serverRank": 5
     },
     {
@@ -101,7 +101,7 @@
       "created": null,
       "members": 57,
       "topLevel": 20,
-      "totalXp": 13369887,
+      "totalXp": 13370153,
       "serverRank": 7
     },
     {
@@ -111,9 +111,9 @@
       "region": null,
       "lang": null,
       "serverRank": 8,
-      "members": 43,
+      "members": 42,
       "avgLevel": null,
-      "totalXp": 13284571,
+      "totalXp": 12964808,
       "created": null,
       "site": null,
       "motto": null,
@@ -130,7 +130,7 @@
       "created": null,
       "members": 34,
       "avgLevel": null,
-      "totalXp": 8822658,
+      "totalXp": 8910270,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -145,7 +145,7 @@
       "created": null,
       "members": 18,
       "topLevel": 20,
-      "totalXp": 7802477,
+      "totalXp": 7812240,
       "serverRank": 10
     },
     {
@@ -279,7 +279,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 2922236,
+      "totalXp": 2923229,
       "serverRank": 19
     },
     {
@@ -298,21 +298,6 @@
       "topLevel": 20
     },
     {
-      "id": "smoked-meat-log",
-      "name": "Smoked Meat Log",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 8,
-      "avgLevel": null,
-      "totalXp": 2341195,
-      "serverRank": 21,
-      "topLevel": 20
-    },
-    {
       "id": "not-monarchs",
       "name": "NOT MONARCHS",
       "tag": null,
@@ -323,7 +308,22 @@
       "created": null,
       "members": 16,
       "avgLevel": null,
-      "totalXp": 2339525,
+      "totalXp": 2346195,
+      "serverRank": 21,
+      "topLevel": 20
+    },
+    {
+      "id": "smoked-meat-log",
+      "name": "Smoked Meat Log",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 8,
+      "avgLevel": null,
+      "totalXp": 2342100,
       "serverRank": 22,
       "topLevel": 20
     },
@@ -342,6 +342,21 @@
       "serverRank": 23
     },
     {
+      "id": "state-alchemist",
+      "name": "State Alchemist",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 14,
+      "avgLevel": null,
+      "totalXp": 2192187,
+      "serverRank": 24,
+      "topLevel": 20
+    },
+    {
       "id": "legio-x-equestris",
       "name": "Legio X Equestris",
       "tag": null,
@@ -350,10 +365,10 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 20,
+      "members": 17,
       "topLevel": 20,
-      "totalXp": 2102898,
-      "serverRank": 24
+      "totalXp": 2085771,
+      "serverRank": 25
     },
     {
       "id": "amen",
@@ -367,21 +382,6 @@
       "members": 8,
       "avgLevel": null,
       "totalXp": 2028762,
-      "serverRank": 25,
-      "topLevel": 20
-    },
-    {
-      "id": "state-alchemist",
-      "name": "State Alchemist",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 13,
-      "avgLevel": null,
-      "totalXp": 1839961,
       "serverRank": 26,
       "topLevel": 20
     },
@@ -501,7 +501,7 @@
       "created": null,
       "members": 4,
       "avgLevel": null,
-      "totalXp": 1225641,
+      "totalXp": 1225891,
       "serverRank": 34,
       "topLevel": 20
     },
@@ -595,6 +595,20 @@
       "topLevel": 20
     },
     {
+      "id": "nagas-in-paris",
+      "name": "Nagas In Paris",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 4,
+      "topLevel": 20,
+      "totalXp": 725444,
+      "serverRank": 41
+    },
+    {
       "id": "legendary",
       "name": "LEGENDARY",
       "tag": null,
@@ -606,7 +620,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 718947,
-      "serverRank": 41,
+      "serverRank": 42,
       "topLevel": 20
     },
     {
@@ -621,7 +635,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 619619,
-      "serverRank": 42,
+      "serverRank": 43,
       "topLevel": 20
     },
     {
@@ -636,7 +650,7 @@
       "members": 5,
       "avgLevel": null,
       "totalXp": 601587,
-      "serverRank": 43,
+      "serverRank": 44,
       "topLevel": 20
     },
     {
@@ -651,7 +665,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 584915,
-      "serverRank": 44
+      "serverRank": 45
     },
     {
       "id": "mythless",
@@ -665,22 +679,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 572365,
-      "serverRank": 45,
+      "serverRank": 46,
       "topLevel": 20
-    },
-    {
-      "id": "nagas-in-paris",
-      "name": "Nagas In Paris",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 2,
-      "topLevel": 20,
-      "totalXp": 518661,
-      "serverRank": 46
     },
     {
       "id": "spacex",
@@ -783,7 +783,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 389697,
+      "totalXp": 389753,
       "serverRank": 53
     },
     {
