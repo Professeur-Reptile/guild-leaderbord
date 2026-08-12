@@ -12,7 +12,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 54149826,
+      "totalXp": 54155101,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 49935571,
+      "totalXp": 49980872,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 96,
       "avgLevel": null,
-      "totalXp": 38260612,
+      "totalXp": 38316409,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 94,
       "avgLevel": null,
-      "totalXp": 33255188,
+      "totalXp": 33408364,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -70,9 +70,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 44,
+      "members": 45,
       "topLevel": 20,
-      "totalXp": 17990162,
+      "totalXp": 18365797,
       "serverRank": 5
     },
     {
@@ -86,7 +86,7 @@
       "created": null,
       "members": 96,
       "avgLevel": null,
-      "totalXp": 15766921,
+      "totalXp": 15774050,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -116,7 +116,7 @@
       "created": null,
       "members": 55,
       "topLevel": 20,
-      "totalXp": 12293023,
+      "totalXp": 12300225,
       "serverRank": 8
     },
     {
@@ -143,9 +143,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 19,
+      "members": 20,
       "topLevel": 20,
-      "totalXp": 8321135,
+      "totalXp": 8612003,
       "serverRank": 10
     },
     {
@@ -293,8 +293,23 @@
       "created": null,
       "members": 16,
       "topLevel": 20,
-      "totalXp": 2708638,
+      "totalXp": 2710098,
       "serverRank": 20
+    },
+    {
+      "id": "not-monarchs",
+      "name": "NOT MONARCHS",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 16,
+      "avgLevel": null,
+      "totalXp": 2613835,
+      "serverRank": 21,
+      "topLevel": 20
     },
     {
       "id": "s-rifter",
@@ -308,22 +323,7 @@
       "members": 5,
       "topLevel": 20,
       "totalXp": 2578656,
-      "serverRank": 21
-    },
-    {
-      "id": "not-monarchs",
-      "name": "NOT MONARCHS",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 16,
-      "avgLevel": null,
-      "totalXp": 2565445,
-      "serverRank": 22,
-      "topLevel": 20
+      "serverRank": 22
     },
     {
       "id": "aura",
@@ -396,7 +396,7 @@
       "created": null,
       "members": 12,
       "avgLevel": null,
-      "totalXp": 1767706,
+      "totalXp": 1768490,
       "serverRank": 27,
       "topLevel": 20
     },
@@ -441,7 +441,7 @@
       "created": null,
       "members": 6,
       "topLevel": 20,
-      "totalXp": 1615101,
+      "totalXp": 1644888,
       "serverRank": 30
     },
     {
@@ -692,7 +692,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 574450,
+      "totalXp": 574834,
       "serverRank": 47,
       "topLevel": 20
     },
@@ -757,6 +757,20 @@
       "topLevel": 20
     },
     {
+      "id": "horde-gauloise",
+      "name": "Horde Gauloise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 458744,
+      "serverRank": 52
+    },
+    {
       "id": "scc-germany",
       "name": "SCC Germany",
       "tag": null,
@@ -768,22 +782,8 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 456393,
-      "serverRank": 52,
+      "serverRank": 53,
       "topLevel": 20
-    },
-    {
-      "id": "horde-gauloise",
-      "name": "Horde Gauloise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 455795,
-      "serverRank": 53
     },
     {
       "id": "only-dots",
@@ -811,7 +811,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 416219,
+      "totalXp": 423421,
       "serverRank": 55
     },
     {
