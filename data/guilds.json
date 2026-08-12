@@ -12,7 +12,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 54127788,
+      "totalXp": 54130660,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 49764076,
+      "totalXp": 49896172,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 96,
       "avgLevel": null,
-      "totalXp": 38193131,
+      "totalXp": 38231092,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 93,
+      "members": 94,
       "avgLevel": null,
-      "totalXp": 32760101,
+      "totalXp": 33154050,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 43,
       "topLevel": 20,
-      "totalXp": 17907883,
+      "totalXp": 17915150,
       "serverRank": 5
     },
     {
@@ -86,7 +86,7 @@
       "created": null,
       "members": 96,
       "avgLevel": null,
-      "totalXp": 15745402,
+      "totalXp": 15756785,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -145,7 +145,7 @@
       "created": null,
       "members": 19,
       "topLevel": 20,
-      "totalXp": 8306285,
+      "totalXp": 8316884,
       "serverRank": 10
     },
     {
@@ -293,7 +293,7 @@
       "created": null,
       "members": 16,
       "topLevel": 20,
-      "totalXp": 2670623,
+      "totalXp": 2706933,
       "serverRank": 20
     },
     {
@@ -321,7 +321,7 @@
       "created": null,
       "members": 16,
       "avgLevel": null,
-      "totalXp": 2517562,
+      "totalXp": 2542671,
       "serverRank": 22,
       "topLevel": 20
     },
@@ -366,7 +366,7 @@
       "created": null,
       "members": 8,
       "avgLevel": null,
-      "totalXp": 2034469,
+      "totalXp": 2035440,
       "serverRank": 25,
       "topLevel": 20
     },
@@ -431,6 +431,20 @@
       "topLevel": 20
     },
     {
+      "id": "weirdo",
+      "name": "WEIRDO",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 6,
+      "topLevel": 20,
+      "totalXp": 1615101,
+      "serverRank": 30
+    },
+    {
       "id": "goon-squad",
       "name": "Goon Squad",
       "tag": null,
@@ -442,7 +456,7 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1609899,
-      "serverRank": 30,
+      "serverRank": 31,
       "topLevel": 20
     },
     {
@@ -457,7 +471,7 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1548232,
-      "serverRank": 31,
+      "serverRank": 32,
       "topLevel": 20
     },
     {
@@ -472,7 +486,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 1473942,
-      "serverRank": 32,
+      "serverRank": 33,
       "topLevel": 20
     },
     {
@@ -487,22 +501,8 @@
       "members": 6,
       "avgLevel": null,
       "totalXp": 1463065,
-      "serverRank": 33,
+      "serverRank": 34,
       "topLevel": 20
-    },
-    {
-      "id": "weirdo",
-      "name": "WEIRDO",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 5,
-      "topLevel": 20,
-      "totalXp": 1410642,
-      "serverRank": 34
     },
     {
       "id": "vision",
@@ -772,6 +772,20 @@
       "topLevel": 20
     },
     {
+      "id": "horde-gauloise",
+      "name": "Horde Gauloise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 440861,
+      "serverRank": 53
+    },
+    {
       "id": "only-dots",
       "name": "Only Dots",
       "tag": null,
@@ -783,22 +797,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 435869,
-      "serverRank": 53,
+      "serverRank": 54,
       "topLevel": 20
-    },
-    {
-      "id": "horde-gauloise",
-      "name": "Horde Gauloise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 425389,
-      "serverRank": 54
     },
     {
       "id": "afk-bandits",
@@ -811,7 +811,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 414708,
+      "totalXp": 416219,
       "serverRank": 55
     },
     {
@@ -1185,6 +1185,20 @@
       "serverRank": 80
     },
     {
+      "id": "the-void",
+      "name": "The void",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 208382,
+      "serverRank": 81
+    },
+    {
       "id": "honey-badgers",
       "name": "Honey Badgers",
       "tag": null,
@@ -1196,20 +1210,6 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 206394,
-      "serverRank": 81
-    },
-    {
-      "id": "the-void",
-      "name": "The void",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 205932,
       "serverRank": 82
     },
     {
