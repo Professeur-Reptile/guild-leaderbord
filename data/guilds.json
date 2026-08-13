@@ -12,7 +12,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 54292778,
+      "totalXp": 54338655,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 50191295,
+      "totalXp": 50263249,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 39915470,
+      "totalXp": 39969851,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 94,
+      "members": 96,
       "avgLevel": null,
-      "totalXp": 33490984,
+      "totalXp": 34412411,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -99,7 +99,7 @@
       "serverRank": 7,
       "members": 42,
       "avgLevel": null,
-      "totalXp": 12980101,
+      "totalXp": 12988094,
       "created": null,
       "site": null,
       "motto": null,
@@ -145,7 +145,7 @@
       "created": null,
       "members": 20,
       "topLevel": 20,
-      "totalXp": 8707452,
+      "totalXp": 8709482,
       "serverRank": 10
     },
     {
@@ -254,6 +254,20 @@
       "topLevel": 20
     },
     {
+      "id": "weirdo",
+      "name": "WEIRDO",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 8,
+      "topLevel": 20,
+      "totalXp": 3456854,
+      "serverRank": 18
+    },
+    {
       "id": "world-of-claudecraft",
       "name": "World of ClaudeCraft",
       "tag": null,
@@ -265,7 +279,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 3281479,
-      "serverRank": 18
+      "serverRank": 19
     },
     {
       "id": "ehren-nuggets-academy",
@@ -279,22 +293,8 @@
       "members": 31,
       "avgLevel": null,
       "totalXp": 3209829,
-      "serverRank": 19,
+      "serverRank": 20,
       "topLevel": 20
-    },
-    {
-      "id": "weirdo",
-      "name": "WEIRDO",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 7,
-      "topLevel": 20,
-      "totalXp": 3161392,
-      "serverRank": 20
     },
     {
       "id": "legio-x-equestris",
@@ -426,7 +426,7 @@
       "created": null,
       "members": 15,
       "avgLevel": null,
-      "totalXp": 1664343,
+      "totalXp": 1666136,
       "serverRank": 29,
       "topLevel": 20
     },
@@ -476,6 +476,20 @@
       "topLevel": 20
     },
     {
+      "id": "nagas-in-paris",
+      "name": "Nagas In Paris",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 5,
+      "topLevel": 20,
+      "totalXp": 1466920,
+      "serverRank": 33
+    },
+    {
       "id": "brasil-war",
       "name": "Brasil War",
       "tag": null,
@@ -487,22 +501,8 @@
       "members": 6,
       "avgLevel": null,
       "totalXp": 1463065,
-      "serverRank": 33,
+      "serverRank": 34,
       "topLevel": 20
-    },
-    {
-      "id": "nagas-in-paris",
-      "name": "Nagas In Paris",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 5,
-      "topLevel": 20,
-      "totalXp": 1422320,
-      "serverRank": 34
     },
     {
       "id": "vision",
@@ -515,7 +515,7 @@
       "created": null,
       "members": 3,
       "avgLevel": null,
-      "totalXp": 1060553,
+      "totalXp": 1061227,
       "serverRank": 35,
       "topLevel": 20
     },
@@ -565,21 +565,6 @@
       "topLevel": 20
     },
     {
-      "id": "levy-street",
-      "name": "LEVY STREET",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 5,
-      "avgLevel": null,
-      "totalXp": 913936,
-      "serverRank": 39,
-      "topLevel": 20
-    },
-    {
       "id": "midnight-smoke-circle",
       "name": "Midnight Smoke Circle",
       "tag": null,
@@ -591,7 +576,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 846042,
-      "serverRank": 40
+      "serverRank": 39
     },
     {
       "id": "avalon",
@@ -605,7 +590,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 810269,
-      "serverRank": 41,
+      "serverRank": 40,
       "topLevel": 20
     },
     {
@@ -620,6 +605,21 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 718947,
+      "serverRank": 41,
+      "topLevel": 20
+    },
+    {
+      "id": "levy-street",
+      "name": "LEVY STREET",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 4,
+      "avgLevel": null,
+      "totalXp": 632892,
       "serverRank": 42,
       "topLevel": 20
     },
