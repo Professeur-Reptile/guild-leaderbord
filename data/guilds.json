@@ -12,7 +12,7 @@
       "created": null,
       "members": 89,
       "avgLevel": null,
-      "totalXp": 53920405,
+      "totalXp": 53943576,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 51111598,
+      "totalXp": 51235110,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -40,9 +40,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 97,
+      "members": 96,
       "avgLevel": null,
-      "totalXp": 40341641,
+      "totalXp": 39764520,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 86,
       "avgLevel": null,
-      "totalXp": 34593817,
+      "totalXp": 34614271,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 45,
       "topLevel": 20,
-      "totalXp": 18558158,
+      "totalXp": 18645200,
       "serverRank": 5
     },
     {
@@ -86,7 +86,7 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 15720427,
+      "totalXp": 15724386,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -130,7 +130,7 @@
       "created": null,
       "members": 34,
       "avgLevel": null,
-      "totalXp": 9090263,
+      "totalXp": 9091194,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -145,7 +145,7 @@
       "created": null,
       "members": 20,
       "topLevel": 20,
-      "totalXp": 8742384,
+      "totalXp": 8773162,
       "serverRank": 10
     },
     {
@@ -219,7 +219,7 @@
       "created": null,
       "members": 15,
       "avgLevel": null,
-      "totalXp": 4538256,
+      "totalXp": 4539194,
       "serverRank": 15,
       "topLevel": 20
     },
@@ -239,6 +239,20 @@
       "topLevel": 20
     },
     {
+      "id": "weirdo",
+      "name": "WEIRDO",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 11,
+      "topLevel": 20,
+      "totalXp": 3880777,
+      "serverRank": 17
+    },
+    {
       "id": "akatsuki",
       "name": "Akatsuki",
       "tag": null,
@@ -250,22 +264,8 @@
       "members": 24,
       "avgLevel": null,
       "totalXp": 3844614,
-      "serverRank": 17,
+      "serverRank": 18,
       "topLevel": 20
-    },
-    {
-      "id": "weirdo",
-      "name": "WEIRDO",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 11,
-      "topLevel": 20,
-      "totalXp": 3808646,
-      "serverRank": 18
     },
     {
       "id": "world-of-claudecraft",
@@ -307,7 +307,7 @@
       "created": null,
       "members": 16,
       "topLevel": 20,
-      "totalXp": 2848345,
+      "totalXp": 2867376,
       "serverRank": 21
     },
     {
@@ -366,7 +366,7 @@
       "created": null,
       "members": 8,
       "avgLevel": null,
-      "totalXp": 2046568,
+      "totalXp": 2053487,
       "serverRank": 25,
       "topLevel": 20
     },
@@ -386,21 +386,6 @@
       "topLevel": 20
     },
     {
-      "id": "woc-pumpfun",
-      "name": "WOC PUMPFUN",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 12,
-      "avgLevel": null,
-      "totalXp": 1769143,
-      "serverRank": 27,
-      "topLevel": 20
-    },
-    {
       "id": "aanar",
       "name": "Aanar",
       "tag": null,
@@ -412,7 +397,7 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 1737755,
-      "serverRank": 28,
+      "serverRank": 27,
       "topLevel": 20
     },
     {
@@ -427,8 +412,22 @@
       "members": 15,
       "avgLevel": null,
       "totalXp": 1681507,
-      "serverRank": 29,
+      "serverRank": 28,
       "topLevel": 20
+    },
+    {
+      "id": "nagas-in-paris",
+      "name": "Nagas In Paris",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 6,
+      "topLevel": 20,
+      "totalXp": 1662740,
+      "serverRank": 29
     },
     {
       "id": "goon-squad",
@@ -461,20 +460,6 @@
       "topLevel": 20
     },
     {
-      "id": "nagas-in-paris",
-      "name": "Nagas In Paris",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 5,
-      "topLevel": 20,
-      "totalXp": 1517672,
-      "serverRank": 32
-    },
-    {
       "id": "the-citadel",
       "name": "The Citadel",
       "tag": null,
@@ -485,7 +470,22 @@
       "created": null,
       "members": 2,
       "avgLevel": null,
-      "totalXp": 1478002,
+      "totalXp": 1514187,
+      "serverRank": 32,
+      "topLevel": 20
+    },
+    {
+      "id": "woc-pumpfun",
+      "name": "WOC PUMPFUN",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 9,
+      "avgLevel": null,
+      "totalXp": 1504726,
       "serverRank": 33,
       "topLevel": 20
     },
@@ -513,9 +513,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 8,
+      "members": 10,
       "topLevel": 20,
-      "totalXp": 1179565,
+      "totalXp": 1219723,
       "serverRank": 35
     },
     {
