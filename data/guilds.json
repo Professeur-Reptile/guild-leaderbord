@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 89,
+      "members": 90,
       "avgLevel": null,
-      "totalXp": 54109827,
+      "totalXp": 54385883,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 52503494,
+      "totalXp": 52653752,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 39843672,
+      "totalXp": 39904906,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,23 +57,9 @@
       "created": null,
       "members": 94,
       "avgLevel": null,
-      "totalXp": 37060432,
+      "totalXp": 37083808,
       "serverRank": 4,
       "topLevel": 20
-    },
-    {
-      "id": "vis-absoluta",
-      "name": "Vis Absoluta",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 45,
-      "topLevel": 20,
-      "totalXp": 18756747,
-      "serverRank": 5
     },
     {
       "id": "ehren-nuggets",
@@ -86,9 +72,23 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 15745561,
-      "serverRank": 6,
+      "totalXp": 15750706,
+      "serverRank": 5,
       "topLevel": 20
+    },
+    {
+      "id": "vis-absoluta",
+      "name": "Vis Absoluta",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 36,
+      "topLevel": 20,
+      "totalXp": 15150479,
+      "serverRank": 6
     },
     {
       "id": "la-clauderie",
@@ -99,7 +99,7 @@
       "serverRank": 7,
       "members": 42,
       "avgLevel": null,
-      "totalXp": 13084392,
+      "totalXp": 13088797,
       "created": null,
       "site": null,
       "motto": null,
@@ -116,7 +116,7 @@
       "created": null,
       "members": 53,
       "topLevel": 20,
-      "totalXp": 12071147,
+      "totalXp": 12071437,
       "serverRank": 8
     },
     {
@@ -145,7 +145,7 @@
       "created": null,
       "members": 21,
       "topLevel": 20,
-      "totalXp": 8865962,
+      "totalXp": 8866252,
       "serverRank": 10
     },
     {
@@ -224,20 +224,6 @@
       "topLevel": 20
     },
     {
-      "id": "weirdo",
-      "name": "WEIRDO",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 12,
-      "topLevel": 20,
-      "totalXp": 4392646,
-      "serverRank": 16
-    },
-    {
       "id": "hispania",
       "name": "Hispania",
       "tag": null,
@@ -249,8 +235,22 @@
       "members": 26,
       "avgLevel": null,
       "totalXp": 4177911,
-      "serverRank": 17,
+      "serverRank": 16,
       "topLevel": 20
+    },
+    {
+      "id": "weirdo",
+      "name": "WEIRDO",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 11,
+      "topLevel": 20,
+      "totalXp": 4149927,
+      "serverRank": 17
     },
     {
       "id": "akatsuki",
@@ -321,7 +321,7 @@
       "created": null,
       "members": 16,
       "avgLevel": null,
-      "totalXp": 2710654,
+      "totalXp": 2725154,
       "serverRank": 22,
       "topLevel": 20
     },
@@ -401,6 +401,20 @@
       "topLevel": 20
     },
     {
+      "id": "horde-gauloise",
+      "name": "Horde Gauloise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 10,
+      "topLevel": 20,
+      "totalXp": 1700194,
+      "serverRank": 28
+    },
+    {
       "id": "nagas-in-paris",
       "name": "Nagas In Paris",
       "tag": null,
@@ -412,7 +426,7 @@
       "members": 6,
       "topLevel": 20,
       "totalXp": 1665239,
-      "serverRank": 28
+      "serverRank": 29
     },
     {
       "id": "goon-squad",
@@ -426,7 +440,7 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1609899,
-      "serverRank": 29,
+      "serverRank": 30,
       "topLevel": 20
     },
     {
@@ -441,7 +455,7 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1548232,
-      "serverRank": 30,
+      "serverRank": 31,
       "topLevel": 20
     },
     {
@@ -456,7 +470,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 1520762,
-      "serverRank": 31,
+      "serverRank": 32,
       "topLevel": 20
     },
     {
@@ -471,22 +485,8 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1504726,
-      "serverRank": 32,
+      "serverRank": 33,
       "topLevel": 20
-    },
-    {
-      "id": "horde-gauloise",
-      "name": "Horde Gauloise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 10,
-      "topLevel": 20,
-      "totalXp": 1478541,
-      "serverRank": 33
     },
     {
       "id": "brasil-war",
@@ -559,7 +559,7 @@
       "created": null,
       "members": 3,
       "avgLevel": null,
-      "totalXp": 941786,
+      "totalXp": 944244,
       "serverRank": 38,
       "topLevel": 20
     },
@@ -810,7 +810,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 448615,
+      "totalXp": 450261,
       "serverRank": 55
     },
     {
@@ -927,7 +927,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 306985,
+      "totalXp": 307147,
       "serverRank": 63
     },
     {
@@ -1553,6 +1553,20 @@
       "topLevel": 12
     },
     {
+      "id": "warchief",
+      "name": "Warchief",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 12,
+      "totalXp": 50897,
+      "serverRank": 107
+    },
+    {
       "id": "laughing-coffin",
       "name": "Laughing Coffin",
       "tag": null,
@@ -1564,22 +1578,8 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 49490,
-      "serverRank": 107,
+      "serverRank": 108,
       "topLevel": 10
-    },
-    {
-      "id": "warchief",
-      "name": "Warchief",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 12,
-      "totalXp": 48156,
-      "serverRank": 108
     },
     {
       "id": "lourd",
