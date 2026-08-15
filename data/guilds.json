@@ -12,7 +12,7 @@
       "created": null,
       "members": 89,
       "avgLevel": null,
-      "totalXp": 54003095,
+      "totalXp": 54027018,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 52211854,
+      "totalXp": 52282919,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 96,
       "avgLevel": null,
-      "totalXp": 40008238,
+      "totalXp": 40097142,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 94,
       "avgLevel": null,
-      "totalXp": 36852781,
+      "totalXp": 37007634,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 45,
       "topLevel": 20,
-      "totalXp": 18744511,
+      "totalXp": 18749712,
       "serverRank": 5
     },
     {
@@ -130,7 +130,7 @@
       "created": null,
       "members": 34,
       "avgLevel": null,
-      "totalXp": 9092162,
+      "totalXp": 9106939,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -145,7 +145,7 @@
       "created": null,
       "members": 21,
       "topLevel": 20,
-      "totalXp": 8817653,
+      "totalXp": 8865570,
       "serverRank": 10
     },
     {
@@ -194,6 +194,21 @@
       "topLevel": 20
     },
     {
+      "id": "gameover",
+      "name": "GameOver",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 15,
+      "avgLevel": null,
+      "totalXp": 4586927,
+      "serverRank": 14,
+      "topLevel": 20
+    },
+    {
       "id": "cool-people",
       "name": "Cool People",
       "tag": null,
@@ -205,21 +220,6 @@
       "members": 41,
       "avgLevel": null,
       "totalXp": 4550387,
-      "serverRank": 14,
-      "topLevel": 20
-    },
-    {
-      "id": "gameover",
-      "name": "GameOver",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 15,
-      "avgLevel": null,
-      "totalXp": 4539676,
       "serverRank": 15,
       "topLevel": 20
     },
@@ -234,7 +234,7 @@
       "created": null,
       "members": 12,
       "topLevel": 20,
-      "totalXp": 4311189,
+      "totalXp": 4320127,
       "serverRank": 16
     },
     {
@@ -278,7 +278,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 3300897,
+      "totalXp": 3312773,
       "serverRank": 19
     },
     {
@@ -475,6 +475,20 @@
       "topLevel": 20
     },
     {
+      "id": "horde-gauloise",
+      "name": "Horde Gauloise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 10,
+      "topLevel": 20,
+      "totalXp": 1478541,
+      "serverRank": 33
+    },
+    {
       "id": "brasil-war",
       "name": "Brasil War",
       "tag": null,
@@ -486,7 +500,7 @@
       "members": 6,
       "avgLevel": null,
       "totalXp": 1463065,
-      "serverRank": 33,
+      "serverRank": 34,
       "topLevel": 20
     },
     {
@@ -501,22 +515,8 @@
       "members": 17,
       "avgLevel": null,
       "totalXp": 1430466,
-      "serverRank": 34,
+      "serverRank": 35,
       "topLevel": 20
-    },
-    {
-      "id": "horde-gauloise",
-      "name": "Horde Gauloise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 10,
-      "topLevel": 20,
-      "totalXp": 1409455,
-      "serverRank": 35
     },
     {
       "id": "vision",
@@ -957,7 +957,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 287021,
+      "totalXp": 292250,
       "serverRank": 65
     },
     {
@@ -1150,7 +1150,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 227085,
+      "totalXp": 227281,
       "serverRank": 78
     },
     {
@@ -1568,6 +1568,20 @@
       "topLevel": 10
     },
     {
+      "id": "warchief",
+      "name": "Warchief",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 12,
+      "totalXp": 48156,
+      "serverRank": 108
+    },
+    {
       "id": "lourd",
       "name": "Lourd",
       "tag": null,
@@ -1579,7 +1593,7 @@
       "members": 2,
       "topLevel": 9,
       "totalXp": 46094,
-      "serverRank": 108
+      "serverRank": 109
     },
     {
       "id": "amr",
@@ -1593,7 +1607,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 44199,
-      "serverRank": 109,
+      "serverRank": 110,
       "topLevel": 8
     },
     {
@@ -1608,7 +1622,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 41424,
-      "serverRank": 110,
+      "serverRank": 111,
       "topLevel": 11
     },
     {
@@ -1623,7 +1637,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 39001,
-      "serverRank": 111,
+      "serverRank": 112,
       "topLevel": 9
     },
     {
@@ -1638,22 +1652,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 36713,
-      "serverRank": 112,
+      "serverRank": 113,
       "topLevel": 11
-    },
-    {
-      "id": "warchief",
-      "name": "Warchief",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 11,
-      "totalXp": 36297,
-      "serverRank": 113
     },
     {
       "id": "kek",
