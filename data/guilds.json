@@ -12,7 +12,7 @@
       "created": null,
       "members": 89,
       "avgLevel": null,
-      "totalXp": 54331606,
+      "totalXp": 54356431,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 96,
       "avgLevel": null,
-      "totalXp": 52365229,
+      "totalXp": 52528862,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 44348461,
+      "totalXp": 44364214,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 91,
+      "members": 89,
       "avgLevel": null,
-      "totalXp": 36953298,
+      "totalXp": 36345347,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 41,
       "topLevel": 20,
-      "totalXp": 16355838,
+      "totalXp": 16384477,
       "serverRank": 5
     },
     {
@@ -86,7 +86,7 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 15772839,
+      "totalXp": 15777356,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -144,7 +144,7 @@
       "created": null,
       "members": 34,
       "avgLevel": null,
-      "totalXp": 9147553,
+      "totalXp": 9154429,
       "serverRank": 10,
       "topLevel": 20
     },
@@ -189,7 +189,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 5789852,
+      "totalXp": 5800199,
       "serverRank": 13
     },
     {
@@ -278,7 +278,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 3795167,
+      "totalXp": 3806479,
       "serverRank": 19
     },
     {
@@ -311,21 +311,6 @@
       "topLevel": 20
     },
     {
-      "id": "state-alchemist",
-      "name": "State Alchemist",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 22,
-      "avgLevel": null,
-      "totalXp": 2947933,
-      "serverRank": 22,
-      "topLevel": 20
-    },
-    {
       "id": "not-monarchs",
       "name": "NOT MONARCHS",
       "tag": null,
@@ -337,7 +322,7 @@
       "members": 16,
       "avgLevel": null,
       "totalXp": 2796043,
-      "serverRank": 23,
+      "serverRank": 22,
       "topLevel": 20
     },
     {
@@ -351,8 +336,8 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 2526858,
-      "serverRank": 24
+      "totalXp": 2527026,
+      "serverRank": 23
     },
     {
       "id": "aura",
@@ -366,7 +351,7 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 2514313,
-      "serverRank": 25,
+      "serverRank": 24,
       "topLevel": 20
     },
     {
@@ -381,6 +366,21 @@
       "members": 8,
       "avgLevel": null,
       "totalXp": 2342100,
+      "serverRank": 25,
+      "topLevel": 20
+    },
+    {
+      "id": "state-alchemist",
+      "name": "State Alchemist",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 21,
+      "avgLevel": null,
+      "totalXp": 2243387,
       "serverRank": 26,
       "topLevel": 20
     },
@@ -1418,6 +1418,20 @@
       "topLevel": 16
     },
     {
+      "id": "warchief",
+      "name": "Warchief",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 16,
+      "totalXp": 94779,
+      "serverRank": 97
+    },
+    {
       "id": "ritter-der-kokusnuss",
       "name": "RITTER DER KOKUSNUSS",
       "tag": null,
@@ -1429,20 +1443,6 @@
       "members": 2,
       "topLevel": 12,
       "totalXp": 80228,
-      "serverRank": 97
-    },
-    {
-      "id": "warchief",
-      "name": "Warchief",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 14,
-      "totalXp": 72721,
       "serverRank": 98
     },
     {
