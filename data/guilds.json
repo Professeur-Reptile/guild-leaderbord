@@ -12,7 +12,7 @@
       "created": null,
       "members": 94,
       "avgLevel": null,
-      "totalXp": 51997821,
+      "totalXp": 52047106,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 81,
       "avgLevel": null,
-      "totalXp": 51780277,
+      "totalXp": 51782145,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 99,
       "avgLevel": null,
-      "totalXp": 45238546,
+      "totalXp": 45343633,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 92,
       "avgLevel": null,
-      "totalXp": 37699969,
+      "totalXp": 37702762,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -70,9 +70,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 41,
+      "members": 42,
       "topLevel": 20,
-      "totalXp": 16509865,
+      "totalXp": 16799727,
       "serverRank": 5
     },
     {
@@ -99,9 +99,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 52,
+      "members": 51,
       "topLevel": 20,
-      "totalXp": 12346629,
+      "totalXp": 12173620,
       "serverRank": 7
     },
     {
@@ -130,7 +130,7 @@
       "created": null,
       "members": 26,
       "topLevel": 20,
-      "totalXp": 9975446,
+      "totalXp": 9976664,
       "serverRank": 9
     },
     {
@@ -174,7 +174,7 @@
       "created": null,
       "members": 30,
       "avgLevel": null,
-      "totalXp": 6653871,
+      "totalXp": 6663099,
       "serverRank": 12,
       "topLevel": 20
     },
@@ -189,7 +189,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 6249306,
+      "totalXp": 6270691,
       "serverRank": 13
     },
     {
@@ -268,6 +268,21 @@
       "topLevel": 20
     },
     {
+      "id": "not-monarchs",
+      "name": "NOT MONARCHS",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 17,
+      "avgLevel": null,
+      "totalXp": 4113223,
+      "serverRank": 19,
+      "topLevel": 20
+    },
+    {
       "id": "akatsuki",
       "name": "Akatsuki",
       "tag": null,
@@ -279,7 +294,7 @@
       "members": 24,
       "avgLevel": null,
       "totalXp": 3844614,
-      "serverRank": 19,
+      "serverRank": 20,
       "topLevel": 20
     },
     {
@@ -294,7 +309,7 @@
       "members": 9,
       "topLevel": 20,
       "totalXp": 3839537,
-      "serverRank": 20
+      "serverRank": 21
     },
     {
       "id": "weirdo",
@@ -308,7 +323,7 @@
       "members": 10,
       "topLevel": 20,
       "totalXp": 3401098,
-      "serverRank": 21
+      "serverRank": 22
     },
     {
       "id": "ehren-nuggets-academy",
@@ -322,21 +337,6 @@
       "members": 31,
       "avgLevel": null,
       "totalXp": 3209829,
-      "serverRank": 22,
-      "topLevel": 20
-    },
-    {
-      "id": "not-monarchs",
-      "name": "NOT MONARCHS",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 16,
-      "avgLevel": null,
-      "totalXp": 2846837,
       "serverRank": 23,
       "topLevel": 20
     },
@@ -351,7 +351,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 2594614,
+      "totalXp": 2602143,
       "serverRank": 24
     },
     {
@@ -395,7 +395,7 @@
       "created": null,
       "members": 8,
       "avgLevel": null,
-      "totalXp": 2057106,
+      "totalXp": 2057697,
       "serverRank": 27,
       "topLevel": 20
     },
@@ -410,7 +410,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 2016482,
+      "totalXp": 2021628,
       "serverRank": 28
     },
     {
@@ -572,7 +572,7 @@
       "created": null,
       "members": 3,
       "avgLevel": null,
-      "totalXp": 951828,
+      "totalXp": 952523,
       "serverRank": 39,
       "topLevel": 20
     },
@@ -1254,6 +1254,20 @@
       "serverRank": 85
     },
     {
+      "id": "the-void",
+      "name": "The void",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 214573,
+      "serverRank": 86
+    },
+    {
       "id": "united-states-of-america",
       "name": "United States of America",
       "tag": null,
@@ -1265,20 +1279,6 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 214553,
-      "serverRank": 86
-    },
-    {
-      "id": "the-void",
-      "name": "The void",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 214545,
       "serverRank": 87
     },
     {
