@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 98,
+      "members": 100,
       "avgLevel": null,
-      "totalXp": 56300782,
+      "totalXp": 56650703,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 82,
       "avgLevel": null,
-      "totalXp": 52560552,
+      "totalXp": 52595641,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 45867239,
+      "totalXp": 45883425,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 38329908,
+      "totalXp": 38330546,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -159,7 +159,7 @@
       "created": null,
       "members": 30,
       "avgLevel": null,
-      "totalXp": 6938513,
+      "totalXp": 6957086,
       "serverRank": 11,
       "topLevel": 20
     },
@@ -351,7 +351,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 2695092,
+      "totalXp": 2708303,
       "serverRank": 24
     },
     {
@@ -1711,6 +1711,20 @@
       "topLevel": 9
     },
     {
+      "id": "security",
+      "name": "Security",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 11,
+      "totalXp": 38099,
+      "serverRank": 118
+    },
+    {
       "id": "dasgefaelltsuns",
       "name": "DasGefaelltsUns",
       "tag": null,
@@ -1722,7 +1736,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 36713,
-      "serverRank": 118,
+      "serverRank": 119,
       "topLevel": 11
     },
     {
@@ -1737,7 +1751,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 34617,
-      "serverRank": 119,
+      "serverRank": 120,
       "topLevel": 9
     },
     {
@@ -1752,7 +1766,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 34283,
-      "serverRank": 120,
+      "serverRank": 121,
       "topLevel": 10
     },
     {
@@ -1767,7 +1781,7 @@
       "members": 4,
       "topLevel": 8,
       "totalXp": 33992,
-      "serverRank": 121
+      "serverRank": 122
     },
     {
       "id": "secretgovernment",
@@ -1781,7 +1795,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 33629,
-      "serverRank": 122,
+      "serverRank": 123,
       "topLevel": 10
     },
     {
@@ -1796,7 +1810,7 @@
       "members": 3,
       "topLevel": 7,
       "totalXp": 33576,
-      "serverRank": 123
+      "serverRank": 124
     },
     {
       "id": "mancave",
@@ -1810,22 +1824,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 33491,
-      "serverRank": 124,
+      "serverRank": 125,
       "topLevel": 10
-    },
-    {
-      "id": "security",
-      "name": "Security",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 10,
-      "totalXp": 31734,
-      "serverRank": 125
     },
     {
       "id": "bier-um-fear",
