@@ -12,7 +12,7 @@
       "created": null,
       "members": 96,
       "avgLevel": null,
-      "totalXp": 56923916,
+      "totalXp": 56975589,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 83,
       "avgLevel": null,
-      "totalXp": 53746727,
+      "totalXp": 53757995,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 46295398,
+      "totalXp": 46358903,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 38947389,
+      "totalXp": 38972099,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 42,
       "topLevel": 20,
-      "totalXp": 17296235,
+      "totalXp": 17496223,
       "serverRank": 5
     },
     {
@@ -86,7 +86,7 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 15921960,
+      "totalXp": 15937657,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -130,7 +130,7 @@
       "created": null,
       "members": 26,
       "topLevel": 20,
-      "totalXp": 10026528,
+      "totalXp": 10029209,
       "serverRank": 9
     },
     {
@@ -159,23 +159,8 @@
       "created": null,
       "members": 31,
       "avgLevel": null,
-      "totalXp": 7923688,
+      "totalXp": 7939963,
       "serverRank": 11,
-      "topLevel": 20
-    },
-    {
-      "id": "peasants",
-      "name": "Peasants",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 29,
-      "avgLevel": null,
-      "totalXp": 6746840,
-      "serverRank": 12,
       "topLevel": 20
     },
     {
@@ -189,8 +174,23 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 6710712,
-      "serverRank": 13
+      "totalXp": 6855341,
+      "serverRank": 12
+    },
+    {
+      "id": "peasants",
+      "name": "Peasants",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 29,
+      "avgLevel": null,
+      "totalXp": 6746840,
+      "serverRank": 13,
+      "topLevel": 20
     },
     {
       "id": "glorious",
@@ -336,7 +336,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 2994248,
+      "totalXp": 3009848,
       "serverRank": 23
     },
     {
@@ -385,6 +385,20 @@
       "topLevel": 20
     },
     {
+      "id": "kos",
+      "name": "KOS",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 10,
+      "topLevel": 20,
+      "totalXp": 2086669,
+      "serverRank": 27
+    },
+    {
       "id": "horde-gauloise",
       "name": "Horde Gauloise",
       "tag": null,
@@ -395,8 +409,8 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 2067117,
-      "serverRank": 27
+      "totalXp": 2068167,
+      "serverRank": 28
     },
     {
       "id": "amen",
@@ -410,22 +424,8 @@
       "members": 8,
       "avgLevel": null,
       "totalXp": 2059594,
-      "serverRank": 28,
+      "serverRank": 29,
       "topLevel": 20
-    },
-    {
-      "id": "kos",
-      "name": "KOS",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 9,
-      "topLevel": 20,
-      "totalXp": 1970616,
-      "serverRank": 29
     },
     {
       "id": "exe",
@@ -555,9 +555,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 3,
+      "members": 4,
       "topLevel": 20,
-      "totalXp": 1265098,
+      "totalXp": 1456892,
       "serverRank": 38
     },
     {
@@ -590,21 +590,6 @@
       "topLevel": 20
     },
     {
-      "id": "fortuna-guild",
-      "name": "Fortuna Guild",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 3,
-      "avgLevel": null,
-      "totalXp": 954756,
-      "serverRank": 41,
-      "topLevel": 20
-    },
-    {
       "id": "cheaters",
       "name": "Cheaters",
       "tag": null,
@@ -615,8 +600,23 @@
       "created": null,
       "members": 4,
       "topLevel": 20,
-      "totalXp": 951814,
-      "serverRank": 42
+      "totalXp": 958378,
+      "serverRank": 41
+    },
+    {
+      "id": "fortuna-guild",
+      "name": "Fortuna Guild",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "avgLevel": null,
+      "totalXp": 955827,
+      "serverRank": 42,
+      "topLevel": 20
     },
     {
       "id": "the-watchers",
@@ -1292,7 +1292,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 219612,
+      "totalXp": 219906,
       "serverRank": 88
     },
     {
