@@ -12,7 +12,7 @@
       "created": null,
       "members": 96,
       "avgLevel": null,
-      "totalXp": 57071809,
+      "totalXp": 57088634,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 83,
       "avgLevel": null,
-      "totalXp": 53895432,
+      "totalXp": 53932087,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 46382129,
+      "totalXp": 46389729,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 39067334,
+      "totalXp": 39079298,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 42,
       "topLevel": 20,
-      "totalXp": 17505881,
+      "totalXp": 17518865,
       "serverRank": 5
     },
     {
@@ -159,7 +159,7 @@
       "created": null,
       "members": 34,
       "avgLevel": null,
-      "totalXp": 8522892,
+      "totalXp": 8531754,
       "serverRank": 11,
       "topLevel": 20
     },
@@ -174,7 +174,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 6857973,
+      "totalXp": 6873789,
       "serverRank": 12
     },
     {
@@ -307,7 +307,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 3429400,
+      "totalXp": 3429735,
       "serverRank": 21
     },
     {
@@ -395,7 +395,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 2214505,
+      "totalXp": 2338649,
       "serverRank": 27
     },
     {
@@ -517,6 +517,20 @@
       "topLevel": 20
     },
     {
+      "id": "horde",
+      "name": "HORDE",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 4,
+      "topLevel": 20,
+      "totalXp": 1521316,
+      "serverRank": 36
+    },
+    {
       "id": "woc-pumpfun",
       "name": "WOC PUMPFUN",
       "tag": null,
@@ -528,22 +542,8 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1504726,
-      "serverRank": 36,
+      "serverRank": 37,
       "topLevel": 20
-    },
-    {
-      "id": "horde",
-      "name": "HORDE",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 4,
-      "topLevel": 20,
-      "totalXp": 1485328,
-      "serverRank": 37
     },
     {
       "id": "brasil-war",
@@ -571,7 +571,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 1061317,
+      "totalXp": 1061373,
       "serverRank": 39
     },
     {
@@ -614,7 +614,7 @@
       "created": null,
       "members": 3,
       "avgLevel": null,
-      "totalXp": 955827,
+      "totalXp": 956268,
       "serverRank": 42,
       "topLevel": 20
     },
@@ -629,7 +629,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 934137,
+      "totalXp": 934962,
       "serverRank": 43
     },
     {
@@ -1189,7 +1189,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 241221,
+      "totalXp": 241662,
       "serverRank": 81
     },
     {
@@ -1381,6 +1381,20 @@
       "topLevel": 20
     },
     {
+      "id": "taiwan",
+      "name": "Taiwan",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "topLevel": 20,
+      "totalXp": 188444,
+      "serverRank": 95
+    },
+    {
       "id": "artificial-stupidity",
       "name": "Artificial Stupidity",
       "tag": null,
@@ -1392,8 +1406,23 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 184475,
-      "serverRank": 95,
+      "serverRank": 96,
       "topLevel": 16
+    },
+    {
+      "id": "staff",
+      "name": "STAFF",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "avgLevel": null,
+      "totalXp": 167310,
+      "serverRank": 97,
+      "topLevel": 20
     },
     {
       "id": "domik-ebki",
@@ -1407,7 +1436,7 @@
       "members": 6,
       "avgLevel": null,
       "totalXp": 167200,
-      "serverRank": 96,
+      "serverRank": 98,
       "topLevel": 20
     },
     {
@@ -1422,7 +1451,7 @@
       "members": 1,
       "topLevel": 19,
       "totalXp": 162117,
-      "serverRank": 97
+      "serverRank": 99
     },
     {
       "id": "swk",
@@ -1436,7 +1465,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 153817,
-      "serverRank": 98,
+      "serverRank": 100,
       "topLevel": 17
     },
     {
@@ -1451,7 +1480,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 133612,
-      "serverRank": 99,
+      "serverRank": 101,
       "topLevel": 15
     },
     {
@@ -1466,7 +1495,7 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 126229,
-      "serverRank": 100,
+      "serverRank": 102,
       "topLevel": 10
     },
     {
@@ -1481,7 +1510,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 118917,
-      "serverRank": 101,
+      "serverRank": 103,
       "topLevel": 13
     },
     {
@@ -1496,22 +1525,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 111825,
-      "serverRank": 102,
+      "serverRank": 104,
       "topLevel": 17
-    },
-    {
-      "id": "taiwan",
-      "name": "Taiwan",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 3,
-      "topLevel": 16,
-      "totalXp": 105029,
-      "serverRank": 103
     },
     {
       "id": "world-of-angels",
@@ -1525,7 +1540,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 103743,
-      "serverRank": 104,
+      "serverRank": 105,
       "topLevel": 13
     },
     {
@@ -1540,7 +1555,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 103198,
-      "serverRank": 105,
+      "serverRank": 106,
       "topLevel": 16
     },
     {
@@ -1555,7 +1570,7 @@
       "members": 2,
       "topLevel": 13,
       "totalXp": 88034,
-      "serverRank": 106
+      "serverRank": 107
     },
     {
       "id": "yuuk-and-friends",
@@ -1569,7 +1584,7 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 72549,
-      "serverRank": 107,
+      "serverRank": 108,
       "topLevel": 9
     },
     {
@@ -1584,7 +1599,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 67726,
-      "serverRank": 108,
+      "serverRank": 109,
       "topLevel": 12
     },
     {
@@ -1599,23 +1614,8 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 61321,
-      "serverRank": 109,
-      "topLevel": 10
-    },
-    {
-      "id": "staff",
-      "name": "STAFF",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "avgLevel": null,
-      "totalXp": 61321,
       "serverRank": 110,
-      "topLevel": 13
+      "topLevel": 10
     },
     {
       "id": "smokeybot",
