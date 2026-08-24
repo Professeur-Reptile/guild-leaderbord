@@ -79,7 +79,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 45,
-      "lifetimeXp": 2563241,
+      "lifetimeXp": 2566168,
       "prestigeRank": 79,
       "title": "prog_mythic"
     },
@@ -99,7 +99,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 44,
-      "lifetimeXp": 2291926,
+      "lifetimeXp": 2292268,
       "prestigeRank": 88,
       "title": "prog_paragon"
     },
@@ -269,7 +269,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1370006,
+      "lifetimeXp": 1370118,
       "prestigeRank": 0,
       "title": null
     },
@@ -569,7 +569,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 982455,
+      "lifetimeXp": 985317,
       "prestigeRank": 0,
       "title": "prog_grandmaster_weaponcrafting"
     },
@@ -645,6 +645,16 @@
     },
     {
       "rank": 65,
+      "name": "Diabloww",
+      "cls": "mage",
+      "level": 20,
+      "virtualLevel": 35,
+      "lifetimeXp": 934137,
+      "prestigeRank": 32,
+      "title": "col_reliquary_rank_4"
+    },
+    {
+      "rank": 66,
       "name": "Lady Aleena",
       "cls": "hunter",
       "level": 20,
@@ -654,7 +664,7 @@
       "title": null
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "TUXA",
       "cls": "warrior",
       "level": 20,
@@ -662,16 +672,6 @@
       "lifetimeXp": 926983,
       "prestigeRank": 32,
       "title": "prog_champion"
-    },
-    {
-      "rank": 67,
-      "name": "Diabloww",
-      "cls": "mage",
-      "level": 20,
-      "virtualLevel": 35,
-      "lifetimeXp": 926852,
-      "prestigeRank": 32,
-      "title": "col_reliquary_rank_4"
     },
     {
       "rank": 68,
@@ -739,7 +739,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 888114,
+      "lifetimeXp": 888373,
       "prestigeRank": 0,
       "title": "prog_grandmaster_alchemy"
     },
@@ -749,8 +749,8 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 886451,
-      "prestigeRank": 30,
+      "lifetimeXp": 886563,
+      "prestigeRank": 31,
       "title": null
     },
     {
@@ -825,6 +825,16 @@
     },
     {
       "rank": 83,
+      "name": "ouson",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 854476,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 84,
       "name": "Klerc",
       "cls": "paladin",
       "level": 20,
@@ -834,7 +844,7 @@
       "title": null
     },
     {
-      "rank": 84,
+      "rank": 85,
       "name": "Lest",
       "cls": "hunter",
       "level": 20,
@@ -844,7 +854,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 85,
+      "rank": 86,
       "name": "Candyman",
       "cls": "warrior",
       "level": 20,
@@ -852,16 +862,6 @@
       "lifetimeXp": 853021,
       "prestigeRank": 0,
       "title": "cmb_thunzharr_unbroken"
-    },
-    {
-      "rank": 86,
-      "name": "ouson",
-      "cls": "hunter",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 852908,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 87,
@@ -1625,6 +1625,16 @@
     },
     {
       "rank": 163,
+      "name": "Jocph",
+      "cls": "warlock",
+      "level": 20,
+      "virtualLevel": 32,
+      "lifetimeXp": 687248,
+      "prestigeRank": 22,
+      "title": "prog_grandmaster_alchemy"
+    },
+    {
+      "rank": 164,
       "name": "Seven Twenty",
       "cls": "warrior",
       "level": 20,
@@ -1632,16 +1642,6 @@
       "lifetimeXp": 686461,
       "prestigeRank": 0,
       "title": "dgn_korzul_flawless"
-    },
-    {
-      "rank": 164,
-      "name": "Jocph",
-      "cls": "warlock",
-      "level": 20,
-      "virtualLevel": 32,
-      "lifetimeXp": 684197,
-      "prestigeRank": 22,
-      "title": "prog_grandmaster_alchemy"
     },
     {
       "rank": 165,
@@ -1959,7 +1959,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 31,
-      "lifetimeXp": 609138,
+      "lifetimeXp": 611207,
       "prestigeRank": 0,
       "title": null
     },
