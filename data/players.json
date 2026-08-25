@@ -29,7 +29,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 4138422,
+      "lifetimeXp": 4138450,
       "prestigeRank": 170,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -59,7 +59,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 47,
-      "lifetimeXp": 2999703,
+      "lifetimeXp": 3021153,
       "prestigeRank": 98,
       "title": "col_reliquary_rank_4"
     },
@@ -139,7 +139,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 42,
-      "lifetimeXp": 1870621,
+      "lifetimeXp": 1871741,
       "prestigeRank": 71,
       "title": null
     },
@@ -149,7 +149,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 41,
-      "lifetimeXp": 1768555,
+      "lifetimeXp": 1769605,
       "prestigeRank": 0,
       "title": null
     },
@@ -195,6 +195,16 @@
     },
     {
       "rank": 20,
+      "name": "Aldey",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 40,
+      "lifetimeXp": 1533528,
+      "prestigeRank": 0,
+      "title": "pvp_vcup_wins_25"
+    },
+    {
+      "rank": 21,
       "name": "thirteen",
       "cls": "shaman",
       "level": 20,
@@ -204,27 +214,27 @@
       "title": null
     },
     {
-      "rank": 21,
-      "name": "Aldey",
-      "cls": "hunter",
-      "level": 20,
-      "virtualLevel": 40,
-      "lifetimeXp": 1508178,
-      "prestigeRank": 0,
-      "title": "pvp_vcup_wins_25"
-    },
-    {
       "rank": 22,
       "name": "Ahap",
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1451691,
+      "lifetimeXp": 1451996,
       "prestigeRank": 10,
       "title": null
     },
     {
       "rank": 23,
+      "name": "jhons",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 39,
+      "lifetimeXp": 1444702,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 24,
       "name": "SirChargeALot",
       "cls": "warrior",
       "level": 20,
@@ -232,16 +242,6 @@
       "lifetimeXp": 1411730,
       "prestigeRank": 53,
       "title": "prog_paragon"
-    },
-    {
-      "rank": 24,
-      "name": "jhons",
-      "cls": "hunter",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1406352,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 25,
@@ -309,7 +309,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1265017,
+      "lifetimeXp": 1272705,
       "prestigeRank": 0,
       "title": "prog_paragon"
     },
@@ -355,6 +355,16 @@
     },
     {
       "rank": 36,
+      "name": "ogoro",
+      "cls": "shaman",
+      "level": 20,
+      "virtualLevel": 37,
+      "lifetimeXp": 1203827,
+      "prestigeRank": 34,
+      "title": "prog_champion"
+    },
+    {
+      "rank": 37,
       "name": "annihilator",
       "cls": "hunter",
       "level": 20,
@@ -364,7 +374,7 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "HanzoKai",
       "cls": "mage",
       "level": 20,
@@ -374,7 +384,7 @@
       "title": "exp_world_traveler"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "Summus",
       "cls": "mage",
       "level": 20,
@@ -382,16 +392,6 @@
       "lifetimeXp": 1181687,
       "prestigeRank": 43,
       "title": "prog_paragon"
-    },
-    {
-      "rank": 39,
-      "name": "ogoro",
-      "cls": "shaman",
-      "level": 20,
-      "virtualLevel": 37,
-      "lifetimeXp": 1176777,
-      "prestigeRank": 34,
-      "title": "prog_champion"
     },
     {
       "rank": 40,
@@ -449,7 +449,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1122974,
+      "lifetimeXp": 1123002,
       "prestigeRank": 40,
       "title": null
     },
@@ -509,7 +509,7 @@
       "cls": "warlock",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1061373,
+      "lifetimeXp": 1067399,
       "prestigeRank": 5,
       "title": "prog_grandmaster_tailoring"
     },
@@ -569,7 +569,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1011635,
+      "lifetimeXp": 1011747,
       "prestigeRank": 0,
       "title": "prog_grandmaster_weaponcrafting"
     },
@@ -589,7 +589,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 982121,
+      "lifetimeXp": 982149,
       "prestigeRank": 34,
       "title": "dgn_nythraxis_deathless"
     },
@@ -779,7 +779,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 872426,
+      "lifetimeXp": 875036,
       "prestigeRank": 0,
       "title": null
     },
@@ -909,7 +909,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 842863,
+      "lifetimeXp": 842919,
       "prestigeRank": 28,
       "title": null
     },
@@ -1099,7 +1099,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 771777,
+      "lifetimeXp": 780059,
       "prestigeRank": 24,
       "title": null
     },
@@ -1189,7 +1189,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 755524,
+      "lifetimeXp": 755587,
       "prestigeRank": 23,
       "title": null
     },
@@ -1229,7 +1229,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 750759,
+      "lifetimeXp": 750899,
       "prestigeRank": 0,
       "title": null
     },
@@ -1295,6 +1295,16 @@
     },
     {
       "rank": 130,
+      "name": "Aop",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 32,
+      "lifetimeXp": 735088,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 131,
       "name": "Curastiny",
       "cls": "druid",
       "level": 20,
@@ -1302,16 +1312,6 @@
       "lifetimeXp": 735006,
       "prestigeRank": 0,
       "title": "prog_champion"
-    },
-    {
-      "rank": 131,
-      "name": "Aop",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 32,
-      "lifetimeXp": 734948,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 132,
