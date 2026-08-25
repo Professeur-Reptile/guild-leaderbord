@@ -12,7 +12,7 @@
       "created": null,
       "members": 98,
       "avgLevel": null,
-      "totalXp": 57388739,
+      "totalXp": 57431099,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 83,
       "avgLevel": null,
-      "totalXp": 54186188,
+      "totalXp": 54216553,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 46604279,
+      "totalXp": 46641080,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 39172956,
+      "totalXp": 39183300,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 42,
       "topLevel": 20,
-      "totalXp": 17536147,
+      "totalXp": 17540611,
       "serverRank": 5
     },
     {
@@ -159,7 +159,7 @@
       "created": null,
       "members": 34,
       "avgLevel": null,
-      "totalXp": 8592240,
+      "totalXp": 8683160,
       "serverRank": 11,
       "topLevel": 20
     },
@@ -174,7 +174,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 7072543,
+      "totalXp": 7076810,
       "serverRank": 12
     },
     {
@@ -248,7 +248,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 4260804,
+      "totalXp": 4261818,
       "serverRank": 17
     },
     {
@@ -307,7 +307,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 3433768,
+      "totalXp": 3434675,
       "serverRank": 21
     },
     {
@@ -350,9 +350,23 @@
       "created": null,
       "members": 16,
       "avgLevel": null,
-      "totalXp": 2998046,
+      "totalXp": 3000782,
       "serverRank": 24,
       "topLevel": 20
+    },
+    {
+      "id": "kos",
+      "name": "KOS",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 12,
+      "topLevel": 20,
+      "totalXp": 2967899,
+      "serverRank": 25
     },
     {
       "id": "aura",
@@ -366,22 +380,8 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 2514313,
-      "serverRank": 25,
+      "serverRank": 26,
       "topLevel": 20
-    },
-    {
-      "id": "kos",
-      "name": "KOS",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 10,
-      "topLevel": 20,
-      "totalXp": 2384938,
-      "serverRank": 26
     },
     {
       "id": "smoked-meat-log",
@@ -487,6 +487,20 @@
       "topLevel": 20
     },
     {
+      "id": "horde",
+      "name": "HORDE",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 4,
+      "topLevel": 20,
+      "totalXp": 1584171,
+      "serverRank": 34
+    },
+    {
       "id": "the-citadel",
       "name": "The Citadel",
       "tag": null,
@@ -498,7 +512,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 1551997,
-      "serverRank": 34,
+      "serverRank": 35,
       "topLevel": 20
     },
     {
@@ -513,22 +527,8 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1548232,
-      "serverRank": 35,
+      "serverRank": 36,
       "topLevel": 20
-    },
-    {
-      "id": "horde",
-      "name": "HORDE",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 4,
-      "topLevel": 20,
-      "totalXp": 1539019,
-      "serverRank": 36
     },
     {
       "id": "woc-pumpfun",
@@ -571,7 +571,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 1068699,
+      "totalXp": 1092499,
       "serverRank": 39
     },
     {
@@ -600,7 +600,7 @@
       "created": null,
       "members": 4,
       "topLevel": 20,
-      "totalXp": 998907,
+      "totalXp": 1000974,
       "serverRank": 41
     },
     {
@@ -629,7 +629,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 937972,
+      "totalXp": 938650,
       "serverRank": 43
     },
     {
@@ -818,7 +818,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 538863,
+      "totalXp": 540420,
       "serverRank": 56
     },
     {
@@ -892,7 +892,7 @@
       "created": null,
       "members": 4,
       "topLevel": 18,
-      "totalXp": 457258,
+      "totalXp": 458070,
       "serverRank": 61
     },
     {
@@ -1348,7 +1348,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 214553,
+      "totalXp": 216033,
       "serverRank": 92
     },
     {
