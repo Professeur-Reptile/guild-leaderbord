@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 99,
+      "members": 98,
       "avgLevel": null,
-      "totalXp": 58727597,
+      "totalXp": 58508558,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 83,
       "avgLevel": null,
-      "totalXp": 54417992,
+      "totalXp": 54441319,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 46801525,
+      "totalXp": 46802575,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 39246792,
+      "totalXp": 39293582,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -86,7 +86,7 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 16072374,
+      "totalXp": 16072810,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -130,7 +130,7 @@
       "created": null,
       "members": 26,
       "topLevel": 20,
-      "totalXp": 10033367,
+      "totalXp": 10039652,
       "serverRank": 9
     },
     {
@@ -159,7 +159,7 @@
       "created": null,
       "members": 34,
       "avgLevel": null,
-      "totalXp": 8687773,
+      "totalXp": 8688224,
       "serverRank": 11,
       "topLevel": 20
     },
@@ -174,7 +174,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 7138702,
+      "totalXp": 7156438,
       "serverRank": 12
     },
     {
@@ -297,6 +297,20 @@
       "topLevel": 20
     },
     {
+      "id": "legio-x-equestris",
+      "name": "Legio X Equestris",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 15,
+      "topLevel": 20,
+      "totalXp": 3719557,
+      "serverRank": 21
+    },
+    {
       "id": "weirdo",
       "name": "WEIRDO",
       "tag": null,
@@ -307,8 +321,8 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 3444093,
-      "serverRank": 21
+      "totalXp": 3444339,
+      "serverRank": 22
     },
     {
       "id": "kos",
@@ -322,7 +336,7 @@
       "members": 13,
       "topLevel": 20,
       "totalXp": 3426181,
-      "serverRank": 22
+      "serverRank": 23
     },
     {
       "id": "ehren-nuggets-academy",
@@ -336,22 +350,8 @@
       "members": 31,
       "avgLevel": null,
       "totalXp": 3209829,
-      "serverRank": 23,
+      "serverRank": 24,
       "topLevel": 20
-    },
-    {
-      "id": "legio-x-equestris",
-      "name": "Legio X Equestris",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 10,
-      "topLevel": 20,
-      "totalXp": 3146861,
-      "serverRank": 24
     },
     {
       "id": "not-monarchs",
@@ -472,20 +472,6 @@
       "topLevel": 20
     },
     {
-      "id": "horde",
-      "name": "HORDE",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 4,
-      "topLevel": 20,
-      "totalXp": 1635155,
-      "serverRank": 33
-    },
-    {
       "id": "goon-squad",
       "name": "Goon Squad",
       "tag": null,
@@ -497,7 +483,7 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1610334,
-      "serverRank": 34,
+      "serverRank": 33,
       "topLevel": 20
     },
     {
@@ -512,7 +498,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 1551997,
-      "serverRank": 35,
+      "serverRank": 34,
       "topLevel": 20
     },
     {
@@ -527,7 +513,7 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1548232,
-      "serverRank": 36,
+      "serverRank": 35,
       "topLevel": 20
     },
     {
@@ -542,7 +528,7 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1504726,
-      "serverRank": 37,
+      "serverRank": 36,
       "topLevel": 20
     },
     {
@@ -557,8 +543,22 @@
       "members": 6,
       "avgLevel": null,
       "totalXp": 1463355,
-      "serverRank": 38,
+      "serverRank": 37,
       "topLevel": 20
+    },
+    {
+      "id": "horde",
+      "name": "HORDE",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "topLevel": 20,
+      "totalXp": 1280825,
+      "serverRank": 38
     },
     {
       "id": "skyfore",
@@ -1024,7 +1024,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 312017,
+      "totalXp": 313167,
       "serverRank": 70
     },
     {
