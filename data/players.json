@@ -19,7 +19,7 @@
       "cls": "warlock",
       "level": 20,
       "virtualLevel": 53,
-      "lifetimeXp": 5358430,
+      "lifetimeXp": 5359580,
       "prestigeRank": 220,
       "title": "prog_eternal"
     },
@@ -119,7 +119,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 43,
-      "lifetimeXp": 2074090,
+      "lifetimeXp": 2074493,
       "prestigeRank": 82,
       "title": "prog_paragon"
     },
@@ -139,7 +139,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 42,
-      "lifetimeXp": 1898099,
+      "lifetimeXp": 1902282,
       "prestigeRank": 0,
       "title": null
     },
@@ -219,7 +219,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1525621,
+      "lifetimeXp": 1527258,
       "prestigeRank": 13,
       "title": null
     },
@@ -229,7 +229,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1462574,
+      "lifetimeXp": 1469224,
       "prestigeRank": 10,
       "title": null
     },
@@ -259,7 +259,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1394845,
+      "lifetimeXp": 1397476,
       "prestigeRank": 50,
       "title": "prog_grandmaster_enchanting"
     },
@@ -319,7 +319,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1265327,
+      "lifetimeXp": 1272433,
       "prestigeRank": 34,
       "title": "prog_champion"
     },
@@ -359,7 +359,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1214873,
+      "lifetimeXp": 1219988,
       "prestigeRank": 15,
       "title": "prog_veteran"
     },
@@ -459,7 +459,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1131854,
+      "lifetimeXp": 1156733,
       "prestigeRank": 14,
       "title": null
     },
@@ -488,8 +488,8 @@
       "name": "eerreee",
       "cls": "rogue",
       "level": 20,
-      "virtualLevel": 36,
-      "lifetimeXp": 1107194,
+      "virtualLevel": 37,
+      "lifetimeXp": 1108062,
       "prestigeRank": 37,
       "title": null
     },
@@ -509,7 +509,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1089417,
+      "lifetimeXp": 1089641,
       "prestigeRank": 0,
       "title": null
     },
@@ -595,6 +595,16 @@
     },
     {
       "rank": 60,
+      "name": "Gundula",
+      "cls": "shaman",
+      "level": 20,
+      "virtualLevel": 35,
+      "lifetimeXp": 996186,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 61,
       "name": "strelomet",
       "cls": "hunter",
       "level": 20,
@@ -604,17 +614,17 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "name": "Lady Aleena",
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 975993,
+      "lifetimeXp": 976067,
       "prestigeRank": 0,
       "title": null
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "Kalasag",
       "cls": "paladin",
       "level": 20,
@@ -624,7 +634,7 @@
       "title": null
     },
     {
-      "rank": 63,
+      "rank": 64,
       "name": "PALF",
       "cls": "paladin",
       "level": 20,
@@ -634,7 +644,7 @@
       "title": null
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "PUNKCU",
       "cls": "mage",
       "level": 20,
@@ -644,7 +654,7 @@
       "title": null
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "AlexSacer",
       "cls": "priest",
       "level": 20,
@@ -652,16 +662,6 @@
       "lifetimeXp": 949946,
       "prestigeRank": 0,
       "title": "col_reliquary_rank_4"
-    },
-    {
-      "rank": 66,
-      "name": "Gundula",
-      "cls": "shaman",
-      "level": 20,
-      "virtualLevel": 35,
-      "lifetimeXp": 941363,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 67,
@@ -755,6 +755,16 @@
     },
     {
       "rank": 76,
+      "name": "Candyman",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 895488,
+      "prestigeRank": 0,
+      "title": "cmb_thunzharr_unbroken"
+    },
+    {
+      "rank": 77,
       "name": "KISSMYSWORD",
       "cls": "warrior",
       "level": 20,
@@ -764,7 +774,7 @@
       "title": "dgn_korzul_flawless"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "name": "Wicca",
       "cls": "druid",
       "level": 20,
@@ -772,16 +782,6 @@
       "lifetimeXp": 892855,
       "prestigeRank": 31,
       "title": null
-    },
-    {
-      "rank": 78,
-      "name": "Candyman",
-      "cls": "warrior",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 888952,
-      "prestigeRank": 0,
-      "title": "cmb_thunzharr_unbroken"
     },
     {
       "rank": 79,
@@ -845,22 +845,22 @@
     },
     {
       "rank": 85,
+      "name": "Yascra",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 859341,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 86,
       "name": "Lovecoil",
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 34,
       "lifetimeXp": 859224,
       "prestigeRank": 29,
-      "title": null
-    },
-    {
-      "rank": 86,
-      "name": "Yascra",
-      "cls": "hunter",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 858437,
-      "prestigeRank": 0,
       "title": null
     },
     {
@@ -890,7 +890,7 @@
       "level": 20,
       "virtualLevel": 34,
       "lifetimeXp": 853878,
-      "prestigeRank": 27,
+      "prestigeRank": 29,
       "title": "col_reliquary_rank_4"
     },
     {
@@ -1009,7 +1009,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 808618,
+      "lifetimeXp": 810171,
       "prestigeRank": 27,
       "title": "dgn_nythraxis_deathless"
     },
@@ -1205,6 +1205,16 @@
     },
     {
       "rank": 121,
+      "name": "Uriah",
+      "cls": "mage",
+      "level": 20,
+      "virtualLevel": 33,
+      "lifetimeXp": 755235,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 122,
       "name": "SIR Sugar",
       "cls": "paladin",
       "level": 20,
@@ -1214,17 +1224,17 @@
       "title": "col_discovery_150"
     },
     {
-      "rank": 122,
+      "rank": 123,
       "name": "Paladream",
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 751739,
+      "lifetimeXp": 751823,
       "prestigeRank": 0,
       "title": null
     },
     {
-      "rank": 123,
+      "rank": 124,
       "name": "Heknowsone",
       "cls": "rogue",
       "level": 20,
@@ -1234,7 +1244,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 124,
+      "rank": 125,
       "name": "PUMIKETINE",
       "cls": "druid",
       "level": 20,
@@ -1244,7 +1254,7 @@
       "title": null
     },
     {
-      "rank": 125,
+      "rank": 126,
       "name": "deHumanize",
       "cls": "warrior",
       "level": 20,
@@ -1254,7 +1264,7 @@
       "title": null
     },
     {
-      "rank": 126,
+      "rank": 127,
       "name": "xSPx",
       "cls": "rogue",
       "level": 20,
@@ -1264,22 +1274,12 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 127,
+      "rank": 128,
       "name": "HeavyMetal",
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 33,
       "lifetimeXp": 749055,
-      "prestigeRank": 0,
-      "title": null
-    },
-    {
-      "rank": 128,
-      "name": "Uriah",
-      "cls": "mage",
-      "level": 20,
-      "virtualLevel": 33,
-      "lifetimeXp": 748799,
       "prestigeRank": 0,
       "title": null
     },
@@ -1329,22 +1329,32 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 740066,
+      "lifetimeXp": 740122,
       "prestigeRank": 0,
       "title": null
     },
     {
       "rank": 134,
-      "name": "Aop",
-      "cls": "paladin",
+      "name": "KINDER",
+      "cls": "warlock",
       "level": 20,
-      "virtualLevel": 32,
-      "lifetimeXp": 735872,
-      "prestigeRank": 0,
+      "virtualLevel": 33,
+      "lifetimeXp": 738286,
+      "prestigeRank": 23,
       "title": null
     },
     {
       "rank": 135,
+      "name": "Aop",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 32,
+      "lifetimeXp": 735900,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 136,
       "name": "Curastiny",
       "cls": "druid",
       "level": 20,
@@ -1354,23 +1364,13 @@
       "title": "prog_champion"
     },
     {
-      "rank": 136,
+      "rank": 137,
       "name": "porkguy",
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 32,
       "lifetimeXp": 733558,
       "prestigeRank": 0,
-      "title": null
-    },
-    {
-      "rank": 137,
-      "name": "KINDER",
-      "cls": "warlock",
-      "level": 20,
-      "virtualLevel": 32,
-      "lifetimeXp": 732804,
-      "prestigeRank": 23,
       "title": null
     },
     {
@@ -1589,7 +1589,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 32,
-      "lifetimeXp": 708701,
+      "lifetimeXp": 709142,
       "prestigeRank": 0,
       "title": null
     },
@@ -1719,7 +1719,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 32,
-      "lifetimeXp": 690228,
+      "lifetimeXp": 691012,
       "prestigeRank": 20,
       "title": null
     },
@@ -1859,7 +1859,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 31,
-      "lifetimeXp": 660725,
+      "lifetimeXp": 661453,
       "prestigeRank": 20,
       "title": null
     },
@@ -1895,6 +1895,16 @@
     },
     {
       "rank": 190,
+      "name": "Quarterleg",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 31,
+      "lifetimeXp": 650187,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 191,
       "name": "rozane-a",
       "cls": "warrior",
       "level": 20,
@@ -1904,7 +1914,17 @@
       "title": null
     },
     {
-      "rank": 191,
+      "rank": 192,
+      "name": "Streeczech",
+      "cls": "warlock",
+      "level": 20,
+      "virtualLevel": 31,
+      "lifetimeXp": 647546,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 193,
       "name": "zarmy-b",
       "cls": "warrior",
       "level": 20,
@@ -1914,7 +1934,7 @@
       "title": null
     },
     {
-      "rank": 192,
+      "rank": 194,
       "name": "deadtool",
       "cls": "warrior",
       "level": 20,
@@ -1924,7 +1944,7 @@
       "title": null
     },
     {
-      "rank": 193,
+      "rank": 195,
       "name": "CandyKing",
       "cls": "paladin",
       "level": 20,
@@ -1934,7 +1954,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 194,
+      "rank": 196,
       "name": "Kyubi",
       "cls": "warrior",
       "level": 20,
@@ -1944,7 +1964,7 @@
       "title": "prog_champion"
     },
     {
-      "rank": 195,
+      "rank": 197,
       "name": "Warmastaa",
       "cls": "warrior",
       "level": 20,
@@ -1954,7 +1974,7 @@
       "title": null
     },
     {
-      "rank": 196,
+      "rank": 198,
       "name": "zarmya",
       "cls": "warrior",
       "level": 20,
@@ -1964,7 +1984,7 @@
       "title": null
     },
     {
-      "rank": 197,
+      "rank": 199,
       "name": "Ronyribi",
       "cls": "warrior",
       "level": 20,
@@ -1974,7 +1994,7 @@
       "title": "prog_champion"
     },
     {
-      "rank": 198,
+      "rank": 200,
       "name": "Mammit",
       "cls": "mage",
       "level": 20,
@@ -1982,26 +2002,6 @@
       "lifetimeXp": 630722,
       "prestigeRank": 3,
       "title": null
-    },
-    {
-      "rank": 199,
-      "name": "dUMPLINGS MAN",
-      "cls": "warlock",
-      "level": 20,
-      "virtualLevel": 31,
-      "lifetimeXp": 628555,
-      "prestigeRank": 19,
-      "title": null
-    },
-    {
-      "rank": 200,
-      "name": "CandyLord",
-      "cls": "mage",
-      "level": 20,
-      "virtualLevel": 31,
-      "lifetimeXp": 627934,
-      "prestigeRank": 0,
-      "title": "soc_market_magnate"
     }
   ]
 }
