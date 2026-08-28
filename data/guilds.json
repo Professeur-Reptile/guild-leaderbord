@@ -12,7 +12,7 @@
       "created": null,
       "members": 90,
       "avgLevel": null,
-      "totalXp": 55911605,
+      "totalXp": 56057362,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 89,
       "avgLevel": null,
-      "totalXp": 54339732,
+      "totalXp": 54615672,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 99,
       "avgLevel": null,
-      "totalXp": 46724232,
+      "totalXp": 46733429,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -55,9 +55,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 95,
+      "members": 100,
       "avgLevel": null,
-      "totalXp": 42322157,
+      "totalXp": 43371280,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -72,7 +72,7 @@
       "created": null,
       "members": 43,
       "topLevel": 20,
-      "totalXp": 17807491,
+      "totalXp": 17820036,
       "serverRank": 5
     },
     {
@@ -86,7 +86,7 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 16208434,
+      "totalXp": 16231788,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -99,7 +99,7 @@
       "serverRank": 7,
       "members": 45,
       "avgLevel": null,
-      "totalXp": 12216911,
+      "totalXp": 12620607,
       "created": null,
       "site": null,
       "motto": null,
@@ -128,9 +128,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 28,
+      "members": 29,
       "topLevel": 20,
-      "totalXp": 10086691,
+      "totalXp": 10157258,
       "serverRank": 9
     },
     {
@@ -159,7 +159,7 @@
       "created": null,
       "members": 31,
       "avgLevel": null,
-      "totalXp": 7943878,
+      "totalXp": 7964180,
       "serverRank": 11,
       "topLevel": 20
     },
@@ -174,7 +174,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 7263375,
+      "totalXp": 7432485,
       "serverRank": 12
     },
     {
@@ -193,6 +193,20 @@
       "topLevel": 20
     },
     {
+      "id": "cheaters",
+      "name": "Cheaters",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 20,
+      "topLevel": 20,
+      "totalXp": 6404165,
+      "serverRank": 14
+    },
+    {
       "id": "glorious",
       "name": "Glorious",
       "tag": null,
@@ -203,8 +217,8 @@
       "created": null,
       "members": 27,
       "avgLevel": null,
-      "totalXp": 5981459,
-      "serverRank": 14,
+      "totalXp": 5981543,
+      "serverRank": 15,
       "topLevel": 20
     },
     {
@@ -219,7 +233,7 @@
       "members": 64,
       "avgLevel": null,
       "totalXp": 5477864,
-      "serverRank": 15,
+      "serverRank": 16,
       "topLevel": 20
     },
     {
@@ -234,7 +248,7 @@
       "members": 14,
       "topLevel": 20,
       "totalXp": 4930320,
-      "serverRank": 16
+      "serverRank": 17
     },
     {
       "id": "cool-people",
@@ -248,22 +262,8 @@
       "members": 41,
       "avgLevel": null,
       "totalXp": 4560074,
-      "serverRank": 17,
+      "serverRank": 18,
       "topLevel": 20
-    },
-    {
-      "id": "cheaters",
-      "name": "Cheaters",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 15,
-      "topLevel": 20,
-      "totalXp": 4478260,
-      "serverRank": 18
     },
     {
       "id": "gameover",
@@ -321,7 +321,7 @@
       "created": null,
       "members": 16,
       "topLevel": 20,
-      "totalXp": 3827006,
+      "totalXp": 3833273,
       "serverRank": 22
     },
     {
@@ -335,7 +335,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 3451745,
+      "totalXp": 3461210,
       "serverRank": 23
     },
     {
@@ -364,7 +364,7 @@
       "created": null,
       "members": 16,
       "avgLevel": null,
-      "totalXp": 3183823,
+      "totalXp": 3186217,
       "serverRank": 25,
       "topLevel": 20
     },
@@ -379,7 +379,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 2756290,
+      "totalXp": 2758963,
       "serverRank": 26
     },
     {
@@ -413,20 +413,6 @@
       "topLevel": 20
     },
     {
-      "id": "horde-gauloise",
-      "name": "Horde Gauloise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 11,
-      "topLevel": 20,
-      "totalXp": 2200521,
-      "serverRank": 29
-    },
-    {
       "id": "amen",
       "name": "AMEN",
       "tag": null,
@@ -438,8 +424,22 @@
       "members": 8,
       "avgLevel": null,
       "totalXp": 2060893,
-      "serverRank": 30,
+      "serverRank": 29,
       "topLevel": 20
+    },
+    {
+      "id": "horde-gauloise",
+      "name": "Horde Gauloise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 10,
+      "topLevel": 20,
+      "totalXp": 2059398,
+      "serverRank": 30
     },
     {
       "id": "exe",
@@ -471,6 +471,20 @@
       "serverRank": 32
     },
     {
+      "id": "bulgaria",
+      "name": "BULGARIA",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "topLevel": 20,
+      "totalXp": 1750985,
+      "serverRank": 33
+    },
+    {
       "id": "aanar",
       "name": "Aanar",
       "tag": null,
@@ -482,22 +496,8 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 1740137,
-      "serverRank": 33,
+      "serverRank": 34,
       "topLevel": 20
-    },
-    {
-      "id": "bulgaria",
-      "name": "BULGARIA",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 3,
-      "topLevel": 20,
-      "totalXp": 1738910,
-      "serverRank": 34
     },
     {
       "id": "goon-squad",
@@ -614,7 +614,7 @@
       "created": null,
       "members": 3,
       "avgLevel": null,
-      "totalXp": 959416,
+      "totalXp": 960157,
       "serverRank": 42,
       "topLevel": 20
     },
@@ -715,7 +715,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 753171,
+      "totalXp": 757780,
       "serverRank": 49
     },
     {
@@ -758,7 +758,7 @@
       "created": null,
       "members": 4,
       "avgLevel": null,
-      "totalXp": 683114,
+      "totalXp": 699502,
       "serverRank": 52,
       "topLevel": 20
     },
@@ -818,7 +818,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 548494,
+      "totalXp": 556436,
       "serverRank": 56
     },
     {
@@ -892,7 +892,7 @@
       "created": null,
       "members": 4,
       "topLevel": 18,
-      "totalXp": 461737,
+      "totalXp": 464049,
       "serverRank": 61
     },
     {
@@ -911,6 +911,20 @@
       "topLevel": 20
     },
     {
+      "id": "suhi-tempura-jp",
+      "name": "SUHI TEMPURA JP",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 453892,
+      "serverRank": 63
+    },
+    {
       "id": "only-dots",
       "name": "Only Dots",
       "tag": null,
@@ -922,22 +936,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 435869,
-      "serverRank": 63,
+      "serverRank": 64,
       "topLevel": 20
-    },
-    {
-      "id": "suhi-tempura-jp",
-      "name": "SUHI TEMPURA JP",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 431672,
-      "serverRank": 64
     },
     {
       "id": "taiwan",
@@ -1112,7 +1112,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 268614,
+      "totalXp": 268628,
       "serverRank": 76
     },
     {
