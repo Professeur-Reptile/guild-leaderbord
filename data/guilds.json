@@ -12,7 +12,7 @@
       "created": null,
       "members": 90,
       "avgLevel": null,
-      "totalXp": 56263699,
+      "totalXp": 56264583,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 92,
       "avgLevel": null,
-      "totalXp": 55432656,
+      "totalXp": 55501715,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 99,
       "avgLevel": null,
-      "totalXp": 46795579,
+      "totalXp": 46795741,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 41903844,
+      "totalXp": 42183487,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -86,7 +86,7 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 16267138,
+      "totalXp": 16267538,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -99,7 +99,7 @@
       "serverRank": 7,
       "members": 47,
       "avgLevel": null,
-      "totalXp": 13596897,
+      "totalXp": 13617960,
       "created": null,
       "site": null,
       "motto": null,
@@ -130,7 +130,7 @@
       "created": null,
       "members": 29,
       "topLevel": 20,
-      "totalXp": 10369145,
+      "totalXp": 10437152,
       "serverRank": 9
     },
     {
@@ -159,7 +159,7 @@
       "created": null,
       "members": 25,
       "topLevel": 20,
-      "totalXp": 8355788,
+      "totalXp": 8366406,
       "serverRank": 11
     },
     {
@@ -173,7 +173,7 @@
       "created": null,
       "members": 31,
       "avgLevel": null,
-      "totalXp": 8091253,
+      "totalXp": 8091589,
       "serverRank": 12,
       "topLevel": 20
     },
@@ -281,6 +281,20 @@
       "topLevel": 20
     },
     {
+      "id": "legio-x-equestris",
+      "name": "Legio X Equestris",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 21,
+      "topLevel": 20,
+      "totalXp": 4235181,
+      "serverRank": 20
+    },
+    {
       "id": "hispania",
       "name": "Hispania",
       "tag": null,
@@ -292,22 +306,8 @@
       "members": 26,
       "avgLevel": null,
       "totalXp": 4178034,
-      "serverRank": 20,
+      "serverRank": 21,
       "topLevel": 20
-    },
-    {
-      "id": "legio-x-equestris",
-      "name": "Legio X Equestris",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 18,
-      "topLevel": 20,
-      "totalXp": 4084657,
-      "serverRank": 21
     },
     {
       "id": "akatsuki",
@@ -379,7 +379,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 2766755,
+      "totalXp": 2767677,
       "serverRank": 26
     },
     {
@@ -539,7 +539,7 @@
       "created": null,
       "members": 2,
       "avgLevel": null,
-      "totalXp": 1551997,
+      "totalXp": 1552217,
       "serverRank": 37,
       "topLevel": 20
     },
@@ -715,7 +715,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 788390,
+      "totalXp": 791342,
       "serverRank": 49
     },
     {
@@ -2639,6 +2639,21 @@
       "topLevel": 1
     },
     {
+      "id": "no-controle",
+      "name": "NO CONTROLE",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "avgLevel": null,
+      "totalXp": 511,
+      "serverRank": 181,
+      "topLevel": 2
+    },
+    {
       "id": "aggro",
       "name": "Aggro",
       "tag": null,
@@ -2650,21 +2665,6 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 495,
-      "serverRank": 181,
-      "topLevel": 2
-    },
-    {
-      "id": "no-controle",
-      "name": "NO CONTROLE",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "avgLevel": null,
-      "totalXp": 456,
       "serverRank": 182,
       "topLevel": 2
     },
