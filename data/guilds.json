@@ -12,7 +12,7 @@
       "created": null,
       "members": 90,
       "avgLevel": null,
-      "totalXp": 56392020,
+      "totalXp": 56430238,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 99,
       "avgLevel": null,
-      "totalXp": 46852808,
+      "totalXp": 46867431,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,9 +42,23 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 43066366,
+      "totalXp": 43078647,
       "serverRank": 3,
       "topLevel": 20
+    },
+    {
+      "id": "sovereign",
+      "name": "Sovereign",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 48,
+      "topLevel": 20,
+      "totalXp": 20273973,
+      "serverRank": 4
     },
     {
       "id": "vis-absoluta",
@@ -55,10 +69,10 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 44,
+      "members": 45,
       "topLevel": 20,
-      "totalXp": 18347236,
-      "serverRank": 4
+      "totalXp": 18606138,
+      "serverRank": 5
     },
     {
       "id": "ehren-nuggets",
@@ -71,23 +85,9 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 16287975,
-      "serverRank": 5,
+      "totalXp": 16294363,
+      "serverRank": 6,
       "topLevel": 20
-    },
-    {
-      "id": "sovereign",
-      "name": "Sovereign",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 39,
-      "topLevel": 20,
-      "totalXp": 14658143,
-      "serverRank": 6
     },
     {
       "id": "la-clauderie",
@@ -96,9 +96,9 @@
       "region": null,
       "lang": null,
       "serverRank": 7,
-      "members": 47,
+      "members": 49,
       "avgLevel": null,
-      "totalXp": 13661683,
+      "totalXp": 13676400,
       "created": null,
       "site": null,
       "motto": null,
@@ -113,9 +113,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 31,
+      "members": 30,
       "topLevel": 20,
-      "totalXp": 10645387,
+      "totalXp": 10872792,
       "serverRank": 8
     },
     {
@@ -158,7 +158,7 @@
       "created": null,
       "members": 26,
       "topLevel": 20,
-      "totalXp": 9130571,
+      "totalXp": 9152457,
       "serverRank": 11
     },
     {
@@ -186,7 +186,7 @@
       "created": null,
       "members": 30,
       "avgLevel": null,
-      "totalXp": 7349120,
+      "totalXp": 7350174,
       "serverRank": 13,
       "topLevel": 20
     },
@@ -214,9 +214,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 27,
+      "members": 26,
       "avgLevel": null,
-      "totalXp": 6402919,
+      "totalXp": 5655403,
       "serverRank": 15,
       "topLevel": 20
     },
@@ -246,7 +246,7 @@
       "created": null,
       "members": 15,
       "topLevel": 20,
-      "totalXp": 5021097,
+      "totalXp": 5042086,
       "serverRank": 17
     },
     {
@@ -260,7 +260,7 @@
       "created": null,
       "members": 41,
       "avgLevel": null,
-      "totalXp": 4563705,
+      "totalXp": 4567886,
       "serverRank": 18,
       "topLevel": 20
     },
@@ -273,25 +273,10 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 21,
+      "members": 22,
       "topLevel": 20,
-      "totalXp": 4442060,
+      "totalXp": 4505019,
       "serverRank": 19
-    },
-    {
-      "id": "gameover",
-      "name": "GameOver",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 14,
-      "avgLevel": null,
-      "totalXp": 4245254,
-      "serverRank": 20,
-      "topLevel": 20
     },
     {
       "id": "hispania",
@@ -305,7 +290,7 @@
       "members": 26,
       "avgLevel": null,
       "totalXp": 4178048,
-      "serverRank": 21,
+      "serverRank": 20,
       "topLevel": 20
     },
     {
@@ -320,6 +305,21 @@
       "members": 24,
       "avgLevel": null,
       "totalXp": 3845372,
+      "serverRank": 21,
+      "topLevel": 20
+    },
+    {
+      "id": "gameover",
+      "name": "GameOver",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 13,
+      "avgLevel": null,
+      "totalXp": 3428532,
       "serverRank": 22,
       "topLevel": 20
     },
@@ -334,7 +334,7 @@
       "created": null,
       "members": 16,
       "avgLevel": null,
-      "totalXp": 3284796,
+      "totalXp": 3285702,
       "serverRank": 23,
       "topLevel": 20
     },
@@ -364,7 +364,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 3086876,
+      "totalXp": 3092292,
       "serverRank": 25
     },
     {
@@ -393,7 +393,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 2453697,
+      "totalXp": 2460184,
       "serverRank": 27
     },
     {
@@ -407,7 +407,7 @@
       "created": null,
       "members": 14,
       "topLevel": 20,
-      "totalXp": 2367253,
+      "totalXp": 2368038,
       "serverRank": 28
     },
     {
@@ -454,21 +454,6 @@
       "serverRank": 31
     },
     {
-      "id": "amen",
-      "name": "AMEN",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 7,
-      "avgLevel": null,
-      "totalXp": 1866814,
-      "serverRank": 32,
-      "topLevel": 20
-    },
-    {
       "id": "exe",
       "name": "EXE",
       "tag": null,
@@ -480,7 +465,7 @@
       "members": 8,
       "avgLevel": null,
       "totalXp": 1863465,
-      "serverRank": 33,
+      "serverRank": 32,
       "topLevel": 20
     },
     {
@@ -495,6 +480,20 @@
       "members": 6,
       "topLevel": 20,
       "totalXp": 1855945,
+      "serverRank": 33
+    },
+    {
+      "id": "mayonnaise",
+      "name": "Mayonnaise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 19,
+      "topLevel": 20,
+      "totalXp": 1845825,
       "serverRank": 34
     },
     {
@@ -527,18 +526,19 @@
       "topLevel": 20
     },
     {
-      "id": "mayonnaise",
-      "name": "Mayonnaise",
+      "id": "amen",
+      "name": "AMEN",
       "tag": null,
       "region": null,
       "lang": null,
       "site": null,
       "motto": null,
       "created": null,
-      "members": 5,
-      "topLevel": 20,
-      "totalXp": 1727198,
-      "serverRank": 37
+      "members": 6,
+      "avgLevel": null,
+      "totalXp": 1620867,
+      "serverRank": 37,
+      "topLevel": 20
     },
     {
       "id": "goon-squad",
@@ -655,7 +655,7 @@
       "created": null,
       "members": 3,
       "avgLevel": null,
-      "totalXp": 961918,
+      "totalXp": 965007,
       "serverRank": 45,
       "topLevel": 20
     },
@@ -771,7 +771,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 798735,
+      "totalXp": 806153,
       "serverRank": 53
     },
     {
@@ -1129,6 +1129,20 @@
       "topLevel": 16
     },
     {
+      "id": "the-void",
+      "name": "The void",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 281812,
+      "serverRank": 78
+    },
+    {
       "id": "league-of-shadow-angel",
       "name": "League of shadow angel",
       "tag": null,
@@ -1140,22 +1154,8 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 281070,
-      "serverRank": 78,
+      "serverRank": 79,
       "topLevel": 20
-    },
-    {
-      "id": "the-void",
-      "name": "The void",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 279692,
-      "serverRank": 79
     },
     {
       "id": "fim-de-papo",
@@ -1276,6 +1276,20 @@
       "topLevel": 16
     },
     {
+      "id": "horde",
+      "name": "HORDE",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 243514,
+      "serverRank": 88
+    },
+    {
       "id": "deutschland",
       "name": "DEUTSCHLAND",
       "tag": null,
@@ -1287,22 +1301,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 243423,
-      "serverRank": 88,
+      "serverRank": 89,
       "topLevel": 20
-    },
-    {
-      "id": "horde",
-      "name": "HORDE",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 242161,
-      "serverRank": 89
     },
     {
       "id": "templar",
@@ -1408,6 +1408,20 @@
       "topLevel": 20
     },
     {
+      "id": "aureon",
+      "name": "Aureon",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 2,
+      "topLevel": 20,
+      "totalXp": 219616,
+      "serverRank": 97
+    },
+    {
       "id": "la-caracola-magica",
       "name": "La Caracola Magica",
       "tag": null,
@@ -1419,7 +1433,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 217287,
-      "serverRank": 97
+      "serverRank": 98
     },
     {
       "id": "quality-assurance",
@@ -1433,7 +1447,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 211898,
-      "serverRank": 98
+      "serverRank": 99
     },
     {
       "id": "honey-badgers",
@@ -1447,7 +1461,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 206394,
-      "serverRank": 99
+      "serverRank": 100
     },
     {
       "id": "warchief",
@@ -1461,7 +1475,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 201634,
-      "serverRank": 100
+      "serverRank": 101
     },
     {
       "id": "irgloop",
@@ -1475,7 +1489,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 189444,
-      "serverRank": 101,
+      "serverRank": 102,
       "topLevel": 20
     },
     {
@@ -1490,7 +1504,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 188833,
-      "serverRank": 102,
+      "serverRank": 103,
       "topLevel": 20
     },
     {
@@ -1505,22 +1519,8 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 184475,
-      "serverRank": 103,
+      "serverRank": 104,
       "topLevel": 16
-    },
-    {
-      "id": "aureon",
-      "name": "Aureon",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 2,
-      "topLevel": 18,
-      "totalXp": 174100,
-      "serverRank": 104
     },
     {
       "id": "domik-ebki",
