@@ -79,7 +79,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 46,
-      "lifetimeXp": 2896051,
+      "lifetimeXp": 2905559,
       "prestigeRank": 79,
       "title": "prog_mythic"
     },
@@ -89,7 +89,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 44,
-      "lifetimeXp": 2415662,
+      "lifetimeXp": 2416004,
       "prestigeRank": 88,
       "title": "prog_paragon"
     },
@@ -109,7 +109,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 44,
-      "lifetimeXp": 2314608,
+      "lifetimeXp": 2314720,
       "prestigeRank": 91,
       "title": "prog_paragon"
     },
@@ -139,7 +139,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 42,
-      "lifetimeXp": 1948191,
+      "lifetimeXp": 1948999,
       "prestigeRank": 76,
       "title": null
     },
@@ -219,7 +219,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1619784,
+      "lifetimeXp": 1621053,
       "prestigeRank": 10,
       "title": null
     },
@@ -239,7 +239,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1546448,
+      "lifetimeXp": 1547198,
       "prestigeRank": 13,
       "title": null
     },
@@ -309,7 +309,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1365398,
+      "lifetimeXp": 1365426,
       "prestigeRank": 14,
       "title": null
     },
@@ -359,7 +359,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1256933,
+      "lifetimeXp": 1257571,
       "prestigeRank": 15,
       "title": "prog_veteran"
     },
@@ -419,7 +419,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1208892,
+      "lifetimeXp": 1216838,
       "prestigeRank": 42,
       "title": "col_reliquary_rank_2"
     },
@@ -759,7 +759,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 907267,
+      "lifetimeXp": 907407,
       "prestigeRank": 0,
       "title": null
     },
@@ -1149,7 +1149,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 785662,
+      "lifetimeXp": 785802,
       "prestigeRank": 0,
       "title": null
     },
@@ -1259,7 +1259,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 761780,
+      "lifetimeXp": 763650,
       "prestigeRank": 20,
       "title": null
     },
@@ -1365,6 +1365,16 @@
     },
     {
       "rank": 137,
+      "name": "Aop",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 33,
+      "lifetimeXp": 749681,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 138,
       "name": "SaintZeb",
       "cls": "paladin",
       "level": 20,
@@ -1372,16 +1382,6 @@
       "lifetimeXp": 749530,
       "prestigeRank": 24,
       "title": "cmb_thunzharr_unbroken"
-    },
-    {
-      "rank": 138,
-      "name": "Aop",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 33,
-      "lifetimeXp": 749513,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 139,
@@ -1409,7 +1409,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 744224,
+      "lifetimeXp": 744364,
       "prestigeRank": 0,
       "title": null
     },
@@ -1555,6 +1555,16 @@
     },
     {
       "rank": 156,
+      "name": "Jocph",
+      "cls": "warlock",
+      "level": 20,
+      "virtualLevel": 32,
+      "lifetimeXp": 724160,
+      "prestigeRank": 23,
+      "title": "prog_grandmaster_alchemy"
+    },
+    {
+      "rank": 157,
       "name": "HanzoKal",
       "cls": "rogue",
       "level": 20,
@@ -1562,16 +1572,6 @@
       "lifetimeXp": 724119,
       "prestigeRank": 0,
       "title": "dgn_nythraxis_deathless"
-    },
-    {
-      "rank": 157,
-      "name": "Jocph",
-      "cls": "warlock",
-      "level": 20,
-      "virtualLevel": 32,
-      "lifetimeXp": 722113,
-      "prestigeRank": 23,
-      "title": "prog_grandmaster_alchemy"
     },
     {
       "rank": 158,
@@ -1805,6 +1805,16 @@
     },
     {
       "rank": 181,
+      "name": "eree",
+      "cls": "rogue",
+      "level": 20,
+      "virtualLevel": 32,
+      "lifetimeXp": 694159,
+      "prestigeRank": 20,
+      "title": null
+    },
+    {
+      "rank": 182,
       "name": "MAISE",
       "cls": "mage",
       "level": 20,
@@ -1812,16 +1822,6 @@
       "lifetimeXp": 692559,
       "prestigeRank": 0,
       "title": "prog_guildsworn"
-    },
-    {
-      "rank": 182,
-      "name": "eree",
-      "cls": "rogue",
-      "level": 20,
-      "virtualLevel": 32,
-      "lifetimeXp": 692123,
-      "prestigeRank": 20,
-      "title": null
     },
     {
       "rank": 183,
@@ -1945,6 +1945,16 @@
     },
     {
       "rank": 195,
+      "name": "Soywin",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 32,
+      "lifetimeXp": 669510,
+      "prestigeRank": 19,
+      "title": "cmb_thunzharr_unbroken"
+    },
+    {
+      "rank": 196,
       "name": "CandyKing",
       "cls": "paladin",
       "level": 20,
@@ -1954,7 +1964,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 196,
+      "rank": 197,
       "name": "OromE",
       "cls": "hunter",
       "level": 20,
@@ -1962,16 +1972,6 @@
       "lifetimeXp": 660866,
       "prestigeRank": 0,
       "title": "soc_market_magnate"
-    },
-    {
-      "rank": 197,
-      "name": "Soywin",
-      "cls": "warrior",
-      "level": 20,
-      "virtualLevel": 31,
-      "lifetimeXp": 657999,
-      "prestigeRank": 19,
-      "title": "cmb_thunzharr_unbroken"
     },
     {
       "rank": 198,
@@ -1985,6 +1985,16 @@
     },
     {
       "rank": 199,
+      "name": "Zyzz",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 31,
+      "lifetimeXp": 652488,
+      "prestigeRank": 17,
+      "title": "soc_market_magnate"
+    },
+    {
+      "rank": 200,
       "name": "Quarterleg",
       "cls": "paladin",
       "level": 20,
@@ -1992,16 +2002,6 @@
       "lifetimeXp": 650187,
       "prestigeRank": 0,
       "title": null
-    },
-    {
-      "rank": 200,
-      "name": "Zyzz",
-      "cls": "warrior",
-      "level": 20,
-      "virtualLevel": 31,
-      "lifetimeXp": 648742,
-      "prestigeRank": 17,
-      "title": "soc_market_magnate"
     }
   ]
 }
