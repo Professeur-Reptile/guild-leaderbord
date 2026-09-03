@@ -12,7 +12,7 @@
       "created": null,
       "members": 90,
       "avgLevel": null,
-      "totalXp": 50289904,
+      "totalXp": 50304108,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 46324891,
+      "totalXp": 46332572,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -40,9 +40,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 100,
+      "members": 99,
       "avgLevel": null,
-      "totalXp": 42330171,
+      "totalXp": 40949688,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -57,7 +57,7 @@
       "created": null,
       "members": 96,
       "topLevel": 20,
-      "totalXp": 35277565,
+      "totalXp": 35354572,
       "serverRank": 4
     },
     {
@@ -129,7 +129,7 @@
       "created": null,
       "members": 47,
       "topLevel": 20,
-      "totalXp": 10538362,
+      "totalXp": 10598426,
       "serverRank": 9
     },
     {
@@ -158,7 +158,7 @@
       "created": null,
       "members": 25,
       "topLevel": 20,
-      "totalXp": 8507621,
+      "totalXp": 8510731,
       "serverRank": 11
     },
     {
@@ -216,7 +216,7 @@
       "created": null,
       "members": 26,
       "avgLevel": null,
-      "totalXp": 5842082,
+      "totalXp": 5884166,
       "serverRank": 15,
       "topLevel": 20
     },
@@ -246,7 +246,7 @@
       "created": null,
       "members": 27,
       "topLevel": 20,
-      "totalXp": 5454740,
+      "totalXp": 5457176,
       "serverRank": 17
     },
     {
@@ -260,7 +260,7 @@
       "created": null,
       "members": 15,
       "topLevel": 20,
-      "totalXp": 5117269,
+      "totalXp": 5118963,
       "serverRank": 18
     },
     {
@@ -279,6 +279,20 @@
       "topLevel": 20
     },
     {
+      "id": "beastmode",
+      "name": "Beastmode",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 45,
+      "topLevel": 20,
+      "totalXp": 4918433,
+      "serverRank": 20
+    },
+    {
       "id": "mayonnaise",
       "name": "Mayonnaise",
       "tag": null,
@@ -289,21 +303,7 @@
       "created": null,
       "members": 40,
       "topLevel": 20,
-      "totalXp": 4690583,
-      "serverRank": 20
-    },
-    {
-      "id": "beastmode",
-      "name": "Beastmode",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 43,
-      "topLevel": 20,
-      "totalXp": 4570165,
+      "totalXp": 4826156,
       "serverRank": 21
     },
     {
@@ -362,7 +362,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 3313938,
+      "totalXp": 3323201,
       "serverRank": 25
     },
     {
@@ -406,7 +406,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 3199574,
+      "totalXp": 3208467,
       "serverRank": 28
     },
     {
@@ -439,20 +439,6 @@
       "topLevel": 20
     },
     {
-      "id": "kos",
-      "name": "KOS",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 10,
-      "topLevel": 20,
-      "totalXp": 2469703,
-      "serverRank": 31
-    },
-    {
       "id": "smoked-meat-log",
       "name": "Smoked Meat Log",
       "tag": null,
@@ -464,8 +450,22 @@
       "members": 8,
       "avgLevel": null,
       "totalXp": 2342100,
-      "serverRank": 32,
+      "serverRank": 31,
       "topLevel": 20
+    },
+    {
+      "id": "kos",
+      "name": "KOS",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 9,
+      "topLevel": 20,
+      "totalXp": 2258289,
+      "serverRank": 32
     },
     {
       "id": "horde-gauloise",
@@ -506,7 +506,7 @@
       "created": null,
       "members": 8,
       "avgLevel": null,
-      "totalXp": 1863465,
+      "totalXp": 1870675,
       "serverRank": 35,
       "topLevel": 20
     },
@@ -813,7 +813,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 753189,
+      "totalXp": 754621,
       "serverRank": 56
     },
     {
@@ -1230,6 +1230,20 @@
       "serverRank": 84
     },
     {
+      "id": "horde",
+      "name": "HORDE",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 249769,
+      "serverRank": 85
+    },
+    {
       "id": "mythos",
       "name": "Mythos",
       "tag": null,
@@ -1241,22 +1255,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 248896,
-      "serverRank": 85,
+      "serverRank": 86,
       "topLevel": 20
-    },
-    {
-      "id": "horde",
-      "name": "HORDE",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 247820,
-      "serverRank": 86
     },
     {
       "id": "aposikiciler",
@@ -1577,7 +1577,7 @@
       "created": null,
       "members": 2,
       "topLevel": 17,
-      "totalXp": 141629,
+      "totalXp": 143025,
       "serverRank": 108
     },
     {
