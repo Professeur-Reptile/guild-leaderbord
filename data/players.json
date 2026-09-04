@@ -99,7 +99,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 44,
-      "lifetimeXp": 2413971,
+      "lifetimeXp": 2420220,
       "prestigeRank": 95,
       "title": "prog_paragon"
     },
@@ -229,7 +229,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1619442,
+      "lifetimeXp": 1634766,
       "prestigeRank": 14,
       "title": "prog_veteran"
     },
@@ -239,7 +239,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1565025,
+      "lifetimeXp": 1568924,
       "prestigeRank": 0,
       "title": null
     },
@@ -269,7 +269,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1439899,
+      "lifetimeXp": 1443609,
       "prestigeRank": 54,
       "title": "prog_paragon"
     },
@@ -455,6 +455,16 @@
     },
     {
       "rank": 46,
+      "name": "Sir-G",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 37,
+      "lifetimeXp": 1191944,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 47,
       "name": "annihilator",
       "cls": "hunter",
       "level": 20,
@@ -464,7 +474,7 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "Marinda",
       "cls": "warlock",
       "level": 20,
@@ -474,7 +484,7 @@
       "title": "prog_grandmaster_tailoring"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "BigDamage",
       "cls": "warrior",
       "level": 20,
@@ -482,16 +492,6 @@
       "lifetimeXp": 1185390,
       "prestigeRank": 43,
       "title": "col_reliquary_rank_4"
-    },
-    {
-      "rank": 49,
-      "name": "Sir-G",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 37,
-      "lifetimeXp": 1184677,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 50,
@@ -559,7 +559,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1053053,
+      "lifetimeXp": 1053395,
       "prestigeRank": 27,
       "title": "col_reliquary_rank_4"
     },
@@ -625,6 +625,16 @@
     },
     {
       "rank": 63,
+      "name": "TriLinkle",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 35,
+      "lifetimeXp": 987518,
+      "prestigeRank": 35,
+      "title": "col_reliquary_rank_4"
+    },
+    {
+      "rank": 64,
       "name": "strelomet",
       "cls": "hunter",
       "level": 20,
@@ -634,22 +644,12 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 64,
-      "name": "TriLinkle",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 35,
-      "lifetimeXp": 977153,
-      "prestigeRank": 33,
-      "title": "col_reliquary_rank_4"
-    },
-    {
       "rank": 65,
       "name": "Dashing",
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 971576,
+      "lifetimeXp": 976069,
       "prestigeRank": 34,
       "title": "col_reliquary_rank_4"
     },
@@ -699,7 +699,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 937632,
+      "lifetimeXp": 937777,
       "prestigeRank": 30,
       "title": "col_reliquary_illum_nythraxis_heroic"
     },
@@ -745,6 +745,16 @@
     },
     {
       "rank": 75,
+      "name": "Aeonax",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 35,
+      "lifetimeXp": 916528,
+      "prestigeRank": 19,
+      "title": "col_reliquary_rank_2"
+    },
+    {
+      "rank": 76,
       "name": "ouson",
       "cls": "hunter",
       "level": 20,
@@ -754,7 +764,7 @@
       "title": null
     },
     {
-      "rank": 76,
+      "rank": 77,
       "name": "Yycaruz",
       "cls": "druid",
       "level": 20,
@@ -762,16 +772,6 @@
       "lifetimeXp": 913047,
       "prestigeRank": 31,
       "title": "col_reliquary_illum_thunzharr"
-    },
-    {
-      "rank": 77,
-      "name": "Aeonax",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 35,
-      "lifetimeXp": 912684,
-      "prestigeRank": 19,
-      "title": "col_reliquary_rank_2"
     },
     {
       "rank": 78,
@@ -1099,7 +1099,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 798658,
+      "lifetimeXp": 801474,
       "prestigeRank": 0,
       "title": null
     },
@@ -1159,7 +1159,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 789967,
+      "lifetimeXp": 790079,
       "prestigeRank": 0,
       "title": null
     },
@@ -1359,7 +1359,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 751512,
+      "lifetimeXp": 751624,
       "prestigeRank": 0,
       "title": null
     },
@@ -1419,7 +1419,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 745764,
+      "lifetimeXp": 745876,
       "prestigeRank": 0,
       "title": null
     },
@@ -1689,7 +1689,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 32,
-      "lifetimeXp": 714816,
+      "lifetimeXp": 714939,
       "prestigeRank": 23,
       "title": "dgn_nythraxis_deathless"
     },
@@ -1795,6 +1795,16 @@
     },
     {
       "rank": 180,
+      "name": "Jorix",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 32,
+      "lifetimeXp": 703620,
+      "prestigeRank": 0,
+      "title": "dlv_nhalia_bells"
+    },
+    {
+      "rank": 181,
       "name": "MagicFire",
       "cls": "mage",
       "level": 20,
@@ -1804,7 +1814,7 @@
       "title": null
     },
     {
-      "rank": 181,
+      "rank": 182,
       "name": "SeniorJaeger",
       "cls": "hunter",
       "level": 20,
@@ -1814,7 +1824,7 @@
       "title": "dlv_nhalia_bells"
     },
     {
-      "rank": 182,
+      "rank": 183,
       "name": "Ickoness",
       "cls": "paladin",
       "level": 20,
@@ -1824,7 +1834,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 183,
+      "rank": 184,
       "name": "Gandalfre",
       "cls": "mage",
       "level": 20,
@@ -1832,16 +1842,6 @@
       "lifetimeXp": 698658,
       "prestigeRank": 0,
       "title": null
-    },
-    {
-      "rank": 184,
-      "name": "Jorix",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 32,
-      "lifetimeXp": 698652,
-      "prestigeRank": 0,
-      "title": "dlv_nhalia_bells"
     },
     {
       "rank": 185,
