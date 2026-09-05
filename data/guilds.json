@@ -12,7 +12,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 50671161,
+      "totalXp": 50683901,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 46397350,
+      "totalXp": 46400038,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 100,
       "topLevel": 20,
-      "totalXp": 41551282,
+      "totalXp": 41810907,
       "serverRank": 3
     },
     {
@@ -54,9 +54,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 96,
+      "members": 85,
       "avgLevel": null,
-      "totalXp": 39984427,
+      "totalXp": 37146572,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -71,7 +71,7 @@
       "created": null,
       "members": 45,
       "topLevel": 20,
-      "totalXp": 18748096,
+      "totalXp": 18749803,
       "serverRank": 5
     },
     {
@@ -133,6 +133,20 @@
       "serverRank": 9
     },
     {
+      "id": "cheaters",
+      "name": "Cheaters",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 31,
+      "topLevel": 20,
+      "totalXp": 9925889,
+      "serverRank": 10
+    },
+    {
       "id": "otuken",
       "name": "OTUKEN",
       "tag": null,
@@ -144,22 +158,8 @@
       "members": 34,
       "avgLevel": null,
       "totalXp": 9198565,
-      "serverRank": 10,
+      "serverRank": 11,
       "topLevel": 20
-    },
-    {
-      "id": "cheaters",
-      "name": "Cheaters",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 27,
-      "topLevel": 20,
-      "totalXp": 9024252,
-      "serverRank": 11
     },
     {
       "id": "world-of-claudecraft",
@@ -184,9 +184,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 32,
+      "members": 33,
       "avgLevel": null,
-      "totalXp": 7680798,
+      "totalXp": 7710418,
       "serverRank": 13,
       "topLevel": 20
     },
@@ -216,7 +216,7 @@
       "created": null,
       "members": 46,
       "topLevel": 20,
-      "totalXp": 6214911,
+      "totalXp": 6350643,
       "serverRank": 15
     },
     {
@@ -230,7 +230,7 @@
       "created": null,
       "members": 53,
       "topLevel": 20,
-      "totalXp": 6029355,
+      "totalXp": 6114453,
       "serverRank": 16
     },
     {
@@ -244,7 +244,7 @@
       "created": null,
       "members": 29,
       "topLevel": 20,
-      "totalXp": 5950741,
+      "totalXp": 5962203,
       "serverRank": 17
     },
     {
@@ -322,6 +322,20 @@
       "topLevel": 20
     },
     {
+      "id": "bulgaria",
+      "name": "BULGARIA",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 10,
+      "topLevel": 20,
+      "totalXp": 3865364,
+      "serverRank": 23
+    },
+    {
       "id": "akatsuki",
       "name": "Akatsuki",
       "tag": null,
@@ -333,36 +347,8 @@
       "members": 24,
       "avgLevel": null,
       "totalXp": 3845372,
-      "serverRank": 23,
+      "serverRank": 24,
       "topLevel": 20
-    },
-    {
-      "id": "bulgaria",
-      "name": "BULGARIA",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 10,
-      "topLevel": 20,
-      "totalXp": 3633346,
-      "serverRank": 24
-    },
-    {
-      "id": "raiders-united-ii",
-      "name": "Raiders United II",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 19,
-      "topLevel": 20,
-      "totalXp": 3445997,
-      "serverRank": 25
     },
     {
       "id": "gameover",
@@ -376,7 +362,7 @@
       "members": 13,
       "avgLevel": null,
       "totalXp": 3428532,
-      "serverRank": 26,
+      "serverRank": 25,
       "topLevel": 20
     },
     {
@@ -390,9 +376,23 @@
       "created": null,
       "members": 16,
       "avgLevel": null,
-      "totalXp": 3302531,
-      "serverRank": 27,
+      "totalXp": 3308043,
+      "serverRank": 26,
       "topLevel": 20
+    },
+    {
+      "id": "raiders-united-ii",
+      "name": "Raiders United II",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 18,
+      "topLevel": 20,
+      "totalXp": 3273103,
+      "serverRank": 27
     },
     {
       "id": "zakon-swiatla",
@@ -403,9 +403,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 11,
+      "members": 10,
       "topLevel": 20,
-      "totalXp": 3218939,
+      "totalXp": 3216097,
       "serverRank": 28
     },
     {
@@ -872,7 +872,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 604599,
+      "totalXp": 604662,
       "serverRank": 60,
       "topLevel": 20
     },
