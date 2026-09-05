@@ -9,7 +9,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6786092,
+      "lifetimeXp": 6790367,
       "prestigeRank": 280,
       "title": "prog_eternal"
     },
@@ -89,9 +89,9 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 45,
-      "lifetimeXp": 2495508,
-      "prestigeRank": 99,
-      "title": "prog_paragon"
+      "lifetimeXp": 2502123,
+      "prestigeRank": 100,
+      "title": "prog_mythic"
     },
     {
       "rank": 10,
@@ -189,7 +189,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 41,
-      "lifetimeXp": 1722421,
+      "lifetimeXp": 1726318,
       "prestigeRank": 14,
       "title": "prog_veteran"
     },
@@ -199,7 +199,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 41,
-      "lifetimeXp": 1680957,
+      "lifetimeXp": 1681560,
       "prestigeRank": 10,
       "title": null
     },
@@ -489,7 +489,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1185390,
+      "lifetimeXp": 1185502,
       "prestigeRank": 43,
       "title": "col_reliquary_rank_4"
     },
@@ -599,7 +599,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1023394,
+      "lifetimeXp": 1023709,
       "prestigeRank": 36,
       "title": "prog_paragon"
     },
@@ -779,7 +779,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 910790,
+      "lifetimeXp": 911070,
       "prestigeRank": 0,
       "title": null
     },
@@ -825,6 +825,16 @@
     },
     {
       "rank": 83,
+      "name": "xSPx",
+      "cls": "rogue",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 883405,
+      "prestigeRank": 0,
+      "title": "dgn_nythraxis_deathless"
+    },
+    {
+      "rank": 84,
       "name": "czH",
       "cls": "hunter",
       "level": 20,
@@ -834,7 +844,7 @@
       "title": null
     },
     {
-      "rank": 84,
+      "rank": 85,
       "name": "Samos",
       "cls": "mage",
       "level": 20,
@@ -844,7 +854,7 @@
       "title": null
     },
     {
-      "rank": 85,
+      "rank": 86,
       "name": "Tekfrog Warson",
       "cls": "warrior",
       "level": 20,
@@ -854,7 +864,7 @@
       "title": null
     },
     {
-      "rank": 86,
+      "rank": 87,
       "name": "APOI",
       "cls": "mage",
       "level": 20,
@@ -864,7 +874,7 @@
       "title": "prog_veteran"
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "Lovecoil",
       "cls": "warrior",
       "level": 20,
@@ -874,7 +884,7 @@
       "title": null
     },
     {
-      "rank": 88,
+      "rank": 89,
       "name": "Franny Blessed",
       "cls": "priest",
       "level": 20,
@@ -884,7 +894,7 @@
       "title": "col_discovery_150"
     },
     {
-      "rank": 89,
+      "rank": 90,
       "name": "Streeczech",
       "cls": "warlock",
       "level": 20,
@@ -894,7 +904,7 @@
       "title": "exp_world_traveler"
     },
     {
-      "rank": 90,
+      "rank": 91,
       "name": "Klerc",
       "cls": "paladin",
       "level": 20,
@@ -904,7 +914,7 @@
       "title": null
     },
     {
-      "rank": 91,
+      "rank": 92,
       "name": "Lest",
       "cls": "hunter",
       "level": 20,
@@ -914,7 +924,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "name": "HanzoKay",
       "cls": "priest",
       "level": 20,
@@ -922,16 +932,6 @@
       "lifetimeXp": 853324,
       "prestigeRank": 29,
       "title": "col_reliquary_illum_thunzharr"
-    },
-    {
-      "rank": 93,
-      "name": "xSPx",
-      "cls": "rogue",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 851396,
-      "prestigeRank": 0,
-      "title": "dgn_nythraxis_deathless"
     },
     {
       "rank": 94,
@@ -1105,6 +1105,16 @@
     },
     {
       "rank": 111,
+      "name": "TwoPly",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 33,
+      "lifetimeXp": 797897,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 112,
       "name": "Marssu",
       "cls": "warlock",
       "level": 20,
@@ -1114,22 +1124,12 @@
       "title": null
     },
     {
-      "rank": 112,
+      "rank": 113,
       "name": "Karlos",
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
       "lifetimeXp": 793990,
-      "prestigeRank": 0,
-      "title": null
-    },
-    {
-      "rank": 113,
-      "name": "TwoPly",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 33,
-      "lifetimeXp": 793719,
       "prestigeRank": 0,
       "title": null
     },
@@ -1169,7 +1169,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 790611,
+      "lifetimeXp": 790695,
       "prestigeRank": 0,
       "title": null
     },
@@ -1369,7 +1369,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 752240,
+      "lifetimeXp": 752296,
       "prestigeRank": 0,
       "title": null
     },
@@ -1429,7 +1429,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 746464,
+      "lifetimeXp": 746520,
       "prestigeRank": 0,
       "title": null
     },
@@ -1479,7 +1479,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 737447,
+      "lifetimeXp": 737503,
       "prestigeRank": 0,
       "title": null
     },
@@ -1705,6 +1705,16 @@
     },
     {
       "rank": 171,
+      "name": "Grhoth",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 32,
+      "lifetimeXp": 716814,
+      "prestigeRank": 23,
+      "title": "dgn_nythraxis_deathless"
+    },
+    {
+      "rank": 172,
       "name": "thuyduongne",
       "cls": "rogue",
       "level": 20,
@@ -1714,7 +1724,7 @@
       "title": null
     },
     {
-      "rank": 172,
+      "rank": 173,
       "name": "Abac",
       "cls": "shaman",
       "level": 20,
@@ -1724,7 +1734,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 173,
+      "rank": 174,
       "name": "Abad",
       "cls": "shaman",
       "level": 20,
@@ -1734,7 +1744,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 174,
+      "rank": 175,
       "name": "Jorix",
       "cls": "druid",
       "level": 20,
@@ -1742,16 +1752,6 @@
       "lifetimeXp": 715140,
       "prestigeRank": 0,
       "title": "dlv_nhalia_bells"
-    },
-    {
-      "rank": 175,
-      "name": "Grhoth",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 32,
-      "lifetimeXp": 714939,
-      "prestigeRank": 23,
-      "title": "dgn_nythraxis_deathless"
     },
     {
       "rank": 176,
