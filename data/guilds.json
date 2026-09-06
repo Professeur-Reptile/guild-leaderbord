@@ -12,7 +12,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 50778644,
+      "totalXp": 50806003,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 97,
       "avgLevel": null,
-      "totalXp": 46473510,
+      "totalXp": 46541745,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -42,7 +42,7 @@
       "created": null,
       "members": 94,
       "topLevel": 20,
-      "totalXp": 42122322,
+      "totalXp": 42319672,
       "serverRank": 3
     },
     {
@@ -56,7 +56,7 @@
       "created": null,
       "members": 79,
       "avgLevel": null,
-      "totalXp": 36216827,
+      "totalXp": 35539126,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -85,7 +85,7 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 16383226,
+      "totalXp": 16388908,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -143,7 +143,7 @@
       "created": null,
       "members": 33,
       "topLevel": 20,
-      "totalXp": 10487909,
+      "totalXp": 10489205,
       "serverRank": 10
     },
     {
@@ -186,7 +186,7 @@
       "created": null,
       "members": 33,
       "avgLevel": null,
-      "totalXp": 7722632,
+      "totalXp": 7722967,
       "serverRank": 13,
       "topLevel": 20
     },
@@ -199,9 +199,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 63,
+      "members": 67,
       "topLevel": 20,
-      "totalXp": 6920012,
+      "totalXp": 7099118,
       "serverRank": 14
     },
     {
@@ -213,10 +213,24 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 33,
+      "members": 37,
       "topLevel": 20,
-      "totalXp": 6756805,
+      "totalXp": 6919553,
       "serverRank": 15
+    },
+    {
+      "id": "mayonnaise",
+      "name": "Mayonnaise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 47,
+      "topLevel": 20,
+      "totalXp": 6909349,
+      "serverRank": 16
     },
     {
       "id": "peasants",
@@ -230,22 +244,8 @@
       "members": 29,
       "avgLevel": null,
       "totalXp": 6746840,
-      "serverRank": 16,
+      "serverRank": 17,
       "topLevel": 20
-    },
-    {
-      "id": "mayonnaise",
-      "name": "Mayonnaise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 46,
-      "topLevel": 20,
-      "totalXp": 6724426,
-      "serverRank": 17
     },
     {
       "id": "glorious",
@@ -317,7 +317,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 4209054,
+      "totalXp": 4222787,
       "serverRank": 22
     },
     {
@@ -361,7 +361,7 @@
       "created": null,
       "members": 19,
       "topLevel": 20,
-      "totalXp": 3445194,
+      "totalXp": 3516922,
       "serverRank": 25
     },
     {
@@ -390,7 +390,7 @@
       "created": null,
       "members": 16,
       "avgLevel": null,
-      "totalXp": 3309072,
+      "totalXp": 3309515,
       "serverRank": 27,
       "topLevel": 20
     },
@@ -813,7 +813,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 756619,
+      "totalXp": 762575,
       "serverRank": 56
     },
     {
@@ -1363,6 +1363,20 @@
       "serverRank": 93
     },
     {
+      "id": "united-states-of-america",
+      "name": "United States of America",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 228032,
+      "serverRank": 94
+    },
+    {
       "id": "eastside",
       "name": "eastside",
       "tag": null,
@@ -1374,22 +1388,8 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 225751,
-      "serverRank": 94,
+      "serverRank": 95,
       "topLevel": 14
-    },
-    {
-      "id": "united-states-of-america",
-      "name": "United States of America",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 224063,
-      "serverRank": 95
     },
     {
       "id": "woc",
