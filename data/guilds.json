@@ -12,7 +12,7 @@
       "created": null,
       "members": 91,
       "avgLevel": null,
-      "totalXp": 50897583,
+      "totalXp": 50936674,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 47187199,
+      "totalXp": 47204099,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -40,9 +40,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 96,
+      "members": 95,
       "topLevel": 20,
-      "totalXp": 41794957,
+      "totalXp": 41805551,
       "serverRank": 3
     },
     {
@@ -56,7 +56,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 36169604,
+      "totalXp": 36255512,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -69,9 +69,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 49,
+      "members": 51,
       "topLevel": 20,
-      "totalXp": 19620115,
+      "totalXp": 19893855,
       "serverRank": 5
     },
     {
@@ -96,9 +96,9 @@
       "region": null,
       "lang": null,
       "serverRank": 7,
-      "members": 59,
+      "members": 58,
       "avgLevel": null,
-      "totalXp": 12761974,
+      "totalXp": 11972744,
       "created": null,
       "site": null,
       "motto": null,
@@ -115,7 +115,7 @@
       "created": null,
       "members": 30,
       "topLevel": 20,
-      "totalXp": 11653014,
+      "totalXp": 11654139,
       "serverRank": 8
     },
     {
@@ -129,7 +129,7 @@
       "created": null,
       "members": 34,
       "topLevel": 20,
-      "totalXp": 10767467,
+      "totalXp": 10775118,
       "serverRank": 9
     },
     {
@@ -170,9 +170,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 38,
+      "members": 35,
       "topLevel": 20,
-      "totalXp": 8742543,
+      "totalXp": 9018680,
       "serverRank": 12
     },
     {
@@ -200,8 +200,22 @@
       "created": null,
       "members": 50,
       "topLevel": 20,
-      "totalXp": 7886596,
+      "totalXp": 7930453,
       "serverRank": 14
+    },
+    {
+      "id": "beastmode",
+      "name": "Beastmode",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 69,
+      "topLevel": 20,
+      "totalXp": 7817113,
+      "serverRank": 15
     },
     {
       "id": "state-alchemist",
@@ -215,22 +229,8 @@
       "members": 33,
       "avgLevel": null,
       "totalXp": 7770846,
-      "serverRank": 15,
+      "serverRank": 16,
       "topLevel": 20
-    },
-    {
-      "id": "beastmode",
-      "name": "Beastmode",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 69,
-      "topLevel": 20,
-      "totalXp": 7694080,
-      "serverRank": 16
     },
     {
       "id": "peasants",
@@ -263,6 +263,20 @@
       "topLevel": 20
     },
     {
+      "id": "raiders-united-ii",
+      "name": "Raiders United II",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 32,
+      "topLevel": 20,
+      "totalXp": 5525646,
+      "serverRank": 19
+    },
+    {
       "id": "dubwise",
       "name": "Dubwise",
       "tag": null,
@@ -273,8 +287,8 @@
       "created": null,
       "members": 16,
       "topLevel": 20,
-      "totalXp": 5484427,
-      "serverRank": 19
+      "totalXp": 5507185,
+      "serverRank": 20
     },
     {
       "id": "ofp",
@@ -288,22 +302,22 @@
       "members": 64,
       "avgLevel": null,
       "totalXp": 5480264,
-      "serverRank": 20,
+      "serverRank": 21,
       "topLevel": 20
     },
     {
-      "id": "raiders-united-ii",
-      "name": "Raiders United II",
+      "id": "bulgaria",
+      "name": "BULGARIA",
       "tag": null,
       "region": null,
       "lang": null,
       "site": null,
       "motto": null,
       "created": null,
-      "members": 34,
+      "members": 13,
       "topLevel": 20,
-      "totalXp": 5462944,
-      "serverRank": 21
+      "totalXp": 5013688,
+      "serverRank": 22
     },
     {
       "id": "cool-people",
@@ -317,22 +331,8 @@
       "members": 42,
       "avgLevel": null,
       "totalXp": 4918918,
-      "serverRank": 22,
+      "serverRank": 23,
       "topLevel": 20
-    },
-    {
-      "id": "bulgaria",
-      "name": "BULGARIA",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 11,
-      "topLevel": 20,
-      "totalXp": 4543514,
-      "serverRank": 23
     },
     {
       "id": "hispania",
@@ -375,7 +375,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 3558815,
+      "totalXp": 3704252,
       "serverRank": 26
     },
     {
@@ -464,7 +464,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 2274236,
+      "totalXp": 2274540,
       "serverRank": 32
     },
     {
@@ -742,7 +742,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 850212,
+      "totalXp": 851380,
       "serverRank": 51
     },
     {
@@ -799,7 +799,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 779577,
+      "totalXp": 780821,
       "serverRank": 55
     },
     {
@@ -1094,7 +1094,7 @@
       "created": null,
       "members": 21,
       "avgLevel": null,
-      "totalXp": 299266,
+      "totalXp": 300156,
       "serverRank": 75,
       "topLevel": 20
     },
