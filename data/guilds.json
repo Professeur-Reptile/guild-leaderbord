@@ -12,7 +12,7 @@
       "created": null,
       "members": 98,
       "topLevel": 20,
-      "totalXp": 52860399,
+      "totalXp": 53089273,
       "serverRank": 1
     },
     {
@@ -26,7 +26,7 @@
       "created": null,
       "members": 87,
       "avgLevel": null,
-      "totalXp": 48608449,
+      "totalXp": 48609429,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -41,7 +41,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 47252811,
+      "totalXp": 47269177,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -56,7 +56,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 34380140,
+      "totalXp": 34385380,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -98,7 +98,7 @@
       "serverRank": 7,
       "members": 58,
       "avgLevel": null,
-      "totalXp": 11980373,
+      "totalXp": 11982645,
       "created": null,
       "site": null,
       "motto": null,
@@ -129,7 +129,7 @@
       "created": null,
       "members": 36,
       "topLevel": 20,
-      "totalXp": 11482416,
+      "totalXp": 11483072,
       "serverRank": 9
     },
     {
@@ -143,7 +143,7 @@
       "created": null,
       "members": 43,
       "topLevel": 20,
-      "totalXp": 10835212,
+      "totalXp": 10861697,
       "serverRank": 10
     },
     {
@@ -161,6 +161,20 @@
       "serverRank": 11
     },
     {
+      "id": "mayonnaise",
+      "name": "Mayonnaise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 58,
+      "topLevel": 20,
+      "totalXp": 9889831,
+      "serverRank": 12
+    },
+    {
       "id": "otuken",
       "name": "OTUKEN",
       "tag": null,
@@ -172,7 +186,7 @@
       "members": 34,
       "avgLevel": null,
       "totalXp": 9198565,
-      "serverRank": 12,
+      "serverRank": 13,
       "topLevel": 20
     },
     {
@@ -186,21 +200,7 @@
       "created": null,
       "members": 92,
       "topLevel": 20,
-      "totalXp": 8988478,
-      "serverRank": 13
-    },
-    {
-      "id": "mayonnaise",
-      "name": "Mayonnaise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 53,
-      "topLevel": 20,
-      "totalXp": 8878272,
+      "totalXp": 9006249,
       "serverRank": 14
     },
     {
@@ -258,7 +258,7 @@
       "created": null,
       "members": 37,
       "topLevel": 20,
-      "totalXp": 6461378,
+      "totalXp": 6481458,
       "serverRank": 18
     },
     {
@@ -272,9 +272,23 @@
       "created": null,
       "members": 26,
       "avgLevel": null,
-      "totalXp": 6141760,
+      "totalXp": 6143292,
       "serverRank": 19,
       "topLevel": 20
+    },
+    {
+      "id": "dubwise",
+      "name": "Dubwise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 16,
+      "topLevel": 20,
+      "totalXp": 5557983,
+      "serverRank": 20
     },
     {
       "id": "bulgaria",
@@ -288,20 +302,6 @@
       "members": 16,
       "topLevel": 20,
       "totalXp": 5557667,
-      "serverRank": 20
-    },
-    {
-      "id": "dubwise",
-      "name": "Dubwise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 16,
-      "topLevel": 20,
-      "totalXp": 5553468,
       "serverRank": 21
     },
     {
@@ -746,6 +746,20 @@
       "topLevel": 20
     },
     {
+      "id": "the-sung-guild",
+      "name": "The Sung Guild",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "topLevel": 20,
+      "totalXp": 901575,
+      "serverRank": 52
+    },
+    {
       "id": "send-newbs",
       "name": "Send Newbs",
       "tag": null,
@@ -757,7 +771,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 871771,
-      "serverRank": 52
+      "serverRank": 53
     },
     {
       "id": "private",
@@ -771,7 +785,7 @@
       "members": 2,
       "topLevel": 20,
       "totalXp": 856883,
-      "serverRank": 53
+      "serverRank": 54
     },
     {
       "id": "midnight-smoke-circle",
@@ -785,7 +799,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 846042,
-      "serverRank": 54
+      "serverRank": 55
     },
     {
       "id": "avalon",
@@ -799,22 +813,8 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 810269,
-      "serverRank": 55,
+      "serverRank": 56,
       "topLevel": 20
-    },
-    {
-      "id": "the-sung-guild",
-      "name": "The Sung guild",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 3,
-      "topLevel": 20,
-      "totalXp": 803307,
-      "serverRank": 56
     },
     {
       "id": "deadlysins",
@@ -827,7 +827,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 791736,
+      "totalXp": 794236,
       "serverRank": 57
     },
     {

@@ -89,7 +89,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 45,
-      "lifetimeXp": 2591790,
+      "lifetimeXp": 2592518,
       "prestigeRank": 100,
       "title": "prog_mythic"
     },
@@ -519,7 +519,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1125083,
+      "lifetimeXp": 1125673,
       "prestigeRank": 41,
       "title": "prog_paragon"
     },
@@ -679,7 +679,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 968696,
+      "lifetimeXp": 970308,
       "prestigeRank": 0,
       "title": "col_reliquary_rank_4"
     },
@@ -769,7 +769,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 917559,
+      "lifetimeXp": 919171,
       "prestigeRank": 0,
       "title": null
     },
@@ -805,6 +805,16 @@
     },
     {
       "rank": 81,
+      "name": "xSPx",
+      "cls": "rogue",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 902141,
+      "prestigeRank": 0,
+      "title": "prog_champion"
+    },
+    {
+      "rank": 82,
       "name": "KISSMYSWORD",
       "cls": "warrior",
       "level": 20,
@@ -812,16 +822,6 @@
       "lifetimeXp": 895083,
       "prestigeRank": 28,
       "title": "dgn_korzul_flawless"
-    },
-    {
-      "rank": 82,
-      "name": "xSPx",
-      "cls": "rogue",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 892591,
-      "prestigeRank": 0,
-      "title": "dgn_nythraxis_deathless"
     },
     {
       "rank": 83,
@@ -859,7 +859,7 @@
       "cls": "warlock",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 880007,
+      "lifetimeXp": 880553,
       "prestigeRank": 30,
       "title": "cmb_thunzharr_unbroken"
     },
@@ -879,8 +879,8 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 872739,
-      "prestigeRank": 28,
+      "lifetimeXp": 873475,
+      "prestigeRank": 30,
       "title": "col_reliquary_rank_4"
     },
     {
@@ -1055,6 +1055,16 @@
     },
     {
       "rank": 106,
+      "name": "Uriah",
+      "cls": "mage",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 830186,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 107,
       "name": "Hastuur",
       "cls": "shaman",
       "level": 20,
@@ -1062,16 +1072,6 @@
       "lifetimeXp": 827476,
       "prestigeRank": 28,
       "title": "dgn_nythraxis_deathless"
-    },
-    {
-      "rank": 107,
-      "name": "Uriah",
-      "cls": "mage",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 827146,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 108,
@@ -1189,7 +1189,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 795657,
+      "lifetimeXp": 795797,
       "prestigeRank": 0,
       "title": null
     },
@@ -1365,21 +1365,21 @@
     },
     {
       "rank": 137,
-      "name": "JackeyLove",
-      "cls": "mage",
+      "name": "Aop",
+      "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 755920,
+      "lifetimeXp": 755955,
       "prestigeRank": 0,
       "title": null
     },
     {
       "rank": 138,
-      "name": "Aop",
-      "cls": "paladin",
+      "name": "JackeyLove",
+      "cls": "mage",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 755815,
+      "lifetimeXp": 755920,
       "prestigeRank": 0,
       "title": null
     },
@@ -1449,7 +1449,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 749321,
+      "lifetimeXp": 749461,
       "prestigeRank": 0,
       "title": null
     },
@@ -1475,6 +1475,16 @@
     },
     {
       "rank": 148,
+      "name": "Jorix",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 33,
+      "lifetimeXp": 745702,
+      "prestigeRank": 15,
+      "title": "dlv_nhalia_bells"
+    },
+    {
+      "rank": 149,
       "name": "Ambassador",
       "cls": "warrior",
       "level": 20,
@@ -1482,16 +1492,6 @@
       "lifetimeXp": 745217,
       "prestigeRank": 0,
       "title": null
-    },
-    {
-      "rank": 149,
-      "name": "Jorix",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 33,
-      "lifetimeXp": 744926,
-      "prestigeRank": 0,
-      "title": "dlv_nhalia_bells"
     },
     {
       "rank": 150,
@@ -1519,7 +1519,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 33,
-      "lifetimeXp": 740304,
+      "lifetimeXp": 740444,
       "prestigeRank": 0,
       "title": null
     },
@@ -1689,7 +1689,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 32,
-      "lifetimeXp": 729770,
+      "lifetimeXp": 729980,
       "prestigeRank": 0,
       "title": null
     },
