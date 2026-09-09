@@ -12,7 +12,7 @@
       "created": null,
       "members": 98,
       "topLevel": 20,
-      "totalXp": 55260133,
+      "totalXp": 55329566,
       "serverRank": 1
     },
     {
@@ -26,7 +26,7 @@
       "created": null,
       "members": 87,
       "avgLevel": null,
-      "totalXp": 48641875,
+      "totalXp": 48659053,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -41,7 +41,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 47284203,
+      "totalXp": 47288928,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -54,9 +54,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 81,
+      "members": 80,
       "avgLevel": null,
-      "totalXp": 35263979,
+      "totalXp": 34538386,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -71,7 +71,7 @@
       "created": null,
       "members": 54,
       "topLevel": 20,
-      "totalXp": 20786160,
+      "totalXp": 20789785,
       "serverRank": 5
     },
     {
@@ -85,7 +85,7 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 16421046,
+      "totalXp": 16421154,
       "serverRank": 6,
       "topLevel": 20
     },
@@ -115,7 +115,7 @@
       "created": null,
       "members": 37,
       "topLevel": 20,
-      "totalXp": 11798218,
+      "totalXp": 11805873,
       "serverRank": 8
     },
     {
@@ -141,10 +141,24 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 43,
+      "members": 45,
       "topLevel": 20,
-      "totalXp": 11010375,
+      "totalXp": 11370600,
       "serverRank": 10
+    },
+    {
+      "id": "mayonnaise",
+      "name": "Mayonnaise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 59,
+      "topLevel": 20,
+      "totalXp": 10774298,
+      "serverRank": 11
     },
     {
       "id": "holy-order",
@@ -158,20 +172,6 @@
       "members": 46,
       "topLevel": 20,
       "totalXp": 10533038,
-      "serverRank": 11
-    },
-    {
-      "id": "mayonnaise",
-      "name": "Mayonnaise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 59,
-      "topLevel": 20,
-      "totalXp": 10515920,
       "serverRank": 12
     },
     {
@@ -185,7 +185,7 @@
       "created": null,
       "members": 95,
       "topLevel": 20,
-      "totalXp": 9632800,
+      "totalXp": 9739848,
       "serverRank": 13
     },
     {
@@ -241,9 +241,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 36,
+      "members": 35,
       "topLevel": 20,
-      "totalXp": 6839531,
+      "totalXp": 6867651,
       "serverRank": 17
     },
     {
@@ -277,6 +277,20 @@
       "topLevel": 20
     },
     {
+      "id": "bulgaria",
+      "name": "BULGARIA",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 18,
+      "topLevel": 20,
+      "totalXp": 5589179,
+      "serverRank": 20
+    },
+    {
       "id": "dubwise",
       "name": "Dubwise",
       "tag": null,
@@ -287,21 +301,7 @@
       "created": null,
       "members": 16,
       "topLevel": 20,
-      "totalXp": 5559664,
-      "serverRank": 20
-    },
-    {
-      "id": "bulgaria",
-      "name": "BULGARIA",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 17,
-      "topLevel": 20,
-      "totalXp": 5559167,
+      "totalXp": 5559705,
       "serverRank": 21
     },
     {
@@ -330,7 +330,7 @@
       "created": null,
       "members": 42,
       "avgLevel": null,
-      "totalXp": 4918918,
+      "totalXp": 4918947,
       "serverRank": 23,
       "topLevel": 20
     },
@@ -434,7 +434,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 3152468,
+      "totalXp": 3152719,
       "serverRank": 30
     },
     {
@@ -492,7 +492,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 2329401,
+      "totalXp": 2329605,
       "serverRank": 34
     },
     {
@@ -716,6 +716,20 @@
       "topLevel": 20
     },
     {
+      "id": "the-sung-guild",
+      "name": "The Sung Guild",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "topLevel": 20,
+      "totalXp": 964415,
+      "serverRank": 50
+    },
+    {
       "id": "the-watchers",
       "name": "The Watchers",
       "tag": null,
@@ -727,7 +741,7 @@
       "members": 38,
       "avgLevel": null,
       "totalXp": 928030,
-      "serverRank": 50,
+      "serverRank": 51,
       "topLevel": 20
     },
     {
@@ -742,22 +756,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 904504,
-      "serverRank": 51,
+      "serverRank": 52,
       "topLevel": 20
-    },
-    {
-      "id": "the-sung-guild",
-      "name": "The Sung Guild",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 3,
-      "topLevel": 20,
-      "totalXp": 901720,
-      "serverRank": 52
     },
     {
       "id": "send-newbs",
