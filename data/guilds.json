@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 100,
+      "members": 102,
       "topLevel": 20,
-      "totalXp": 55603853,
+      "totalXp": 56117884,
       "serverRank": 1
     },
     {
@@ -26,7 +26,7 @@
       "created": null,
       "members": 87,
       "avgLevel": null,
-      "totalXp": 48675888,
+      "totalXp": 48678745,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -41,7 +41,7 @@
       "created": null,
       "members": 100,
       "avgLevel": null,
-      "totalXp": 47292308,
+      "totalXp": 47302603,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -56,7 +56,7 @@
       "created": null,
       "members": 78,
       "avgLevel": null,
-      "totalXp": 33348562,
+      "totalXp": 33351434,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -71,7 +71,7 @@
       "created": null,
       "members": 54,
       "topLevel": 20,
-      "totalXp": 21018085,
+      "totalXp": 21030330,
       "serverRank": 5
     },
     {
@@ -141,9 +141,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 45,
+      "members": 44,
       "topLevel": 20,
-      "totalXp": 11520848,
+      "totalXp": 11342371,
       "serverRank": 10
     },
     {
@@ -169,9 +169,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 58,
+      "members": 60,
       "topLevel": 20,
-      "totalXp": 10153293,
+      "totalXp": 10427988,
       "serverRank": 12
     },
     {
@@ -183,9 +183,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 94,
+      "members": 93,
       "topLevel": 20,
-      "totalXp": 9672650,
+      "totalXp": 9633326,
       "serverRank": 13
     },
     {
@@ -243,7 +243,7 @@
       "created": null,
       "members": 35,
       "topLevel": 20,
-      "totalXp": 6900291,
+      "totalXp": 6913175,
       "serverRank": 17
     },
     {
@@ -272,7 +272,7 @@
       "created": null,
       "members": 26,
       "avgLevel": null,
-      "totalXp": 6312415,
+      "totalXp": 6345200,
       "serverRank": 19,
       "topLevel": 20
     },
@@ -287,7 +287,7 @@
       "created": null,
       "members": 18,
       "topLevel": 20,
-      "totalXp": 5601266,
+      "totalXp": 5601964,
       "serverRank": 20
     },
     {
@@ -301,7 +301,7 @@
       "created": null,
       "members": 16,
       "topLevel": 20,
-      "totalXp": 5566049,
+      "totalXp": 5574594,
       "serverRank": 21
     },
     {
@@ -394,21 +394,6 @@
       "topLevel": 20
     },
     {
-      "id": "not-monarchs",
-      "name": "NOT MONARCHS",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 16,
-      "avgLevel": null,
-      "totalXp": 3332517,
-      "serverRank": 28,
-      "topLevel": 20
-    },
-    {
       "id": "ehren-nuggets-academy",
       "name": "Ehren Nuggets Academy",
       "tag": null,
@@ -420,7 +405,7 @@
       "members": 31,
       "avgLevel": null,
       "totalXp": 3209829,
-      "serverRank": 29,
+      "serverRank": 28,
       "topLevel": 20
     },
     {
@@ -435,7 +420,22 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 3152719,
-      "serverRank": 30
+      "serverRank": 29
+    },
+    {
+      "id": "not-monarchs",
+      "name": "NOT MONARCHS",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 15,
+      "avgLevel": null,
+      "totalXp": 3056995,
+      "serverRank": 30,
+      "topLevel": 20
     },
     {
       "id": "aura",
@@ -668,7 +668,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 1346283,
+      "totalXp": 1348978,
       "serverRank": 46
     },
     {
@@ -700,6 +700,20 @@
       "serverRank": 48
     },
     {
+      "id": "the-sung-guild",
+      "name": "The Sung Guild",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "topLevel": 20,
+      "totalXp": 1052935,
+      "serverRank": 49
+    },
+    {
       "id": "journey-back",
       "name": "Journey Back",
       "tag": null,
@@ -711,22 +725,8 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 1008571,
-      "serverRank": 49,
+      "serverRank": 50,
       "topLevel": 20
-    },
-    {
-      "id": "the-sung-guild",
-      "name": "The Sung Guild",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 3,
-      "topLevel": 20,
-      "totalXp": 985780,
-      "serverRank": 50
     },
     {
       "id": "fortuna-guild",
@@ -1211,7 +1211,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 266880,
+      "totalXp": 266929,
       "serverRank": 83
     },
     {
