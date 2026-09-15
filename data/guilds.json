@@ -10,25 +10,10 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 131,
+      "members": 132,
       "topLevel": 20,
-      "totalXp": 62154545,
+      "totalXp": 62782825,
       "serverRank": 1
-    },
-    {
-      "id": "monarchs",
-      "name": "Monarchs",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 84,
-      "avgLevel": null,
-      "totalXp": 46945168,
-      "serverRank": 2,
-      "topLevel": 20
     },
     {
       "id": "raiders-united",
@@ -41,7 +26,22 @@
       "created": null,
       "members": 144,
       "avgLevel": null,
-      "totalXp": 46866879,
+      "totalXp": 47275485,
+      "serverRank": 2,
+      "topLevel": 20
+    },
+    {
+      "id": "monarchs",
+      "name": "Monarchs",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 84,
+      "avgLevel": null,
+      "totalXp": 46952736,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -61,6 +61,20 @@
       "topLevel": 20
     },
     {
+      "id": "cheaters",
+      "name": "Cheaters",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 56,
+      "topLevel": 20,
+      "totalXp": 21655465,
+      "serverRank": 5
+    },
+    {
       "id": "vis-absoluta",
       "name": "Vis Absoluta",
       "tag": null,
@@ -71,21 +85,7 @@
       "created": null,
       "members": 54,
       "topLevel": 20,
-      "totalXp": 21424437,
-      "serverRank": 5
-    },
-    {
-      "id": "cheaters",
-      "name": "Cheaters",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 55,
-      "topLevel": 20,
-      "totalXp": 21379570,
+      "totalXp": 21437910,
       "serverRank": 6
     },
     {
@@ -114,7 +114,7 @@
       "created": null,
       "members": 61,
       "topLevel": 20,
-      "totalXp": 15198963,
+      "totalXp": 15240649,
       "serverRank": 8
     },
     {
@@ -128,7 +128,7 @@
       "created": null,
       "members": 75,
       "topLevel": 20,
-      "totalXp": 13433412,
+      "totalXp": 13553904,
       "serverRank": 9
     },
     {
@@ -171,7 +171,7 @@
       "created": null,
       "members": 87,
       "topLevel": 20,
-      "totalXp": 10585584,
+      "totalXp": 10587491,
       "serverRank": 12
     },
     {
@@ -183,9 +183,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 46,
+      "members": 45,
       "topLevel": 20,
-      "totalXp": 10533038,
+      "totalXp": 10139652,
       "serverRank": 13
     },
     {
@@ -228,7 +228,7 @@
       "created": null,
       "members": 33,
       "avgLevel": null,
-      "totalXp": 7927450,
+      "totalXp": 7946668,
       "serverRank": 16,
       "topLevel": 20
     },
@@ -273,7 +273,7 @@
       "created": null,
       "members": 18,
       "topLevel": 20,
-      "totalXp": 6122860,
+      "totalXp": 6134783,
       "serverRank": 19
     },
     {
@@ -287,7 +287,7 @@
       "created": null,
       "members": 19,
       "topLevel": 20,
-      "totalXp": 5816573,
+      "totalXp": 5836733,
       "serverRank": 20
     },
     {
@@ -301,7 +301,7 @@
       "created": null,
       "members": 48,
       "topLevel": 20,
-      "totalXp": 5565813,
+      "totalXp": 5572026,
       "serverRank": 21
     },
     {
@@ -330,7 +330,7 @@
       "created": null,
       "members": 42,
       "avgLevel": null,
-      "totalXp": 4935744,
+      "totalXp": 4937538,
       "serverRank": 23,
       "topLevel": 20
     },
@@ -360,7 +360,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 3955896,
+      "totalXp": 3955924,
       "serverRank": 25
     },
     {
@@ -433,7 +433,7 @@
       "created": null,
       "members": 15,
       "avgLevel": null,
-      "totalXp": 3057247,
+      "totalXp": 3066497,
       "serverRank": 30,
       "topLevel": 20
     },
@@ -463,7 +463,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 2374660,
+      "totalXp": 2375449,
       "serverRank": 32
     },
     {
@@ -492,7 +492,7 @@
       "created": null,
       "members": 7,
       "topLevel": 20,
-      "totalXp": 2279660,
+      "totalXp": 2279831,
       "serverRank": 34
     },
     {
@@ -668,7 +668,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 1360569,
+      "totalXp": 1366498,
       "serverRank": 46
     },
     {
@@ -802,6 +802,20 @@
       "serverRank": 55
     },
     {
+      "id": "deadlysins",
+      "name": "DeadlySins",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "topLevel": 20,
+      "totalXp": 813024,
+      "serverRank": 56
+    },
+    {
       "id": "avalon",
       "name": "Avalon",
       "tag": null,
@@ -813,22 +827,8 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 810269,
-      "serverRank": 56,
+      "serverRank": 57,
       "topLevel": 20
-    },
-    {
-      "id": "deadlysins",
-      "name": "DeadlySins",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 3,
-      "topLevel": 20,
-      "totalXp": 805930,
-      "serverRank": 57
     },
     {
       "id": "legendary",
