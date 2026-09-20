@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 160,
+      "members": 164,
       "topLevel": 20,
-      "totalXp": 68340372,
+      "totalXp": 69765865,
       "serverRank": 1
     },
     {
@@ -24,9 +24,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 178,
+      "members": 181,
       "avgLevel": null,
-      "totalXp": 49651293,
+      "totalXp": 49854551,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -41,7 +41,7 @@
       "created": null,
       "members": 83,
       "avgLevel": null,
-      "totalXp": 45025440,
+      "totalXp": 45033344,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -71,7 +71,7 @@
       "created": null,
       "members": 59,
       "topLevel": 20,
-      "totalXp": 23037297,
+      "totalXp": 23078025,
       "serverRank": 5
     },
     {
@@ -85,7 +85,7 @@
       "created": null,
       "members": 55,
       "topLevel": 20,
-      "totalXp": 21880607,
+      "totalXp": 21880853,
       "serverRank": 6
     },
     {
@@ -99,7 +99,7 @@
       "created": null,
       "members": 73,
       "topLevel": 20,
-      "totalXp": 19737392,
+      "totalXp": 19839021,
       "serverRank": 7
     },
     {
@@ -113,7 +113,7 @@
       "created": null,
       "members": 138,
       "topLevel": 20,
-      "totalXp": 17633084,
+      "totalXp": 17773146,
       "serverRank": 8
     },
     {
@@ -127,7 +127,7 @@
       "created": null,
       "members": 95,
       "avgLevel": null,
-      "totalXp": 16454498,
+      "totalXp": 16454798,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -171,7 +171,7 @@
       "created": null,
       "members": 95,
       "topLevel": 20,
-      "totalXp": 11194876,
+      "totalXp": 11194929,
       "serverRank": 12
     },
     {
@@ -273,7 +273,7 @@
       "created": null,
       "members": 18,
       "topLevel": 20,
-      "totalXp": 6295420,
+      "totalXp": 6298540,
       "serverRank": 19
     },
     {
@@ -301,7 +301,7 @@
       "created": null,
       "members": 48,
       "topLevel": 20,
-      "totalXp": 5753226,
+      "totalXp": 5756296,
       "serverRank": 21
     },
     {
@@ -360,7 +360,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 4047867,
+      "totalXp": 4053814,
       "serverRank": 25
     },
     {
@@ -374,7 +374,7 @@
       "created": null,
       "members": 17,
       "topLevel": 20,
-      "totalXp": 4000777,
+      "totalXp": 4009745,
       "serverRank": 26
     },
     {
@@ -403,7 +403,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 3750227,
+      "totalXp": 3756395,
       "serverRank": 28
     },
     {
@@ -467,20 +467,6 @@
       "topLevel": 20
     },
     {
-      "id": "horde-gauloise",
-      "name": "Horde Gauloise",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 11,
-      "topLevel": 20,
-      "totalXp": 2415520,
-      "serverRank": 33
-    },
-    {
       "id": "smoked-meat-log",
       "name": "Smoked Meat Log",
       "tag": null,
@@ -492,7 +478,7 @@
       "members": 8,
       "avgLevel": null,
       "totalXp": 2342100,
-      "serverRank": 34,
+      "serverRank": 33,
       "topLevel": 20
     },
     {
@@ -507,7 +493,7 @@
       "members": 6,
       "topLevel": 20,
       "totalXp": 2247607,
-      "serverRank": 35
+      "serverRank": 34
     },
     {
       "id": "kos",
@@ -521,7 +507,7 @@
       "members": 8,
       "topLevel": 20,
       "totalXp": 1983778,
-      "serverRank": 36
+      "serverRank": 35
     },
     {
       "id": "exe",
@@ -535,7 +521,7 @@
       "members": 8,
       "avgLevel": null,
       "totalXp": 1870800,
-      "serverRank": 37,
+      "serverRank": 36,
       "topLevel": 20
     },
     {
@@ -550,7 +536,7 @@
       "members": 6,
       "topLevel": 20,
       "totalXp": 1861340,
-      "serverRank": 38
+      "serverRank": 37
     },
     {
       "id": "aanar",
@@ -564,7 +550,7 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 1740137,
-      "serverRank": 39,
+      "serverRank": 38,
       "topLevel": 20
     },
     {
@@ -579,7 +565,7 @@
       "members": 8,
       "topLevel": 20,
       "totalXp": 1727189,
-      "serverRank": 40
+      "serverRank": 39
     },
     {
       "id": "goon-squad",
@@ -593,8 +579,22 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1610334,
-      "serverRank": 41,
+      "serverRank": 40,
       "topLevel": 20
+    },
+    {
+      "id": "horde-gauloise",
+      "name": "Horde Gauloise",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 10,
+      "topLevel": 20,
+      "totalXp": 1609886,
+      "serverRank": 41
     },
     {
       "id": "the-citadel",
@@ -811,7 +811,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 817129,
+      "totalXp": 835743,
       "serverRank": 56
     },
     {
@@ -973,7 +973,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 489094,
+      "totalXp": 494436,
       "serverRank": 67
     },
     {
@@ -1135,7 +1135,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 302846,
+      "totalXp": 314829,
       "serverRank": 78
     },
     {
