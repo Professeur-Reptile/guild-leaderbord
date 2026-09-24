@@ -12,7 +12,7 @@
       "created": null,
       "members": 195,
       "topLevel": 20,
-      "totalXp": 73420722,
+      "totalXp": 73677641,
       "serverRank": 1
     },
     {
@@ -24,9 +24,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 180,
+      "members": 191,
       "avgLevel": null,
-      "totalXp": 54846291,
+      "totalXp": 55945543,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -41,7 +41,7 @@
       "created": null,
       "members": 83,
       "avgLevel": null,
-      "totalXp": 45093325,
+      "totalXp": 45094825,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -71,7 +71,7 @@
       "created": null,
       "members": 62,
       "topLevel": 20,
-      "totalXp": 24379652,
+      "totalXp": 24392693,
       "serverRank": 5
     },
     {
@@ -83,9 +83,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 55,
+      "members": 53,
       "topLevel": 20,
-      "totalXp": 22043787,
+      "totalXp": 20720988,
       "serverRank": 6
     },
     {
@@ -99,7 +99,7 @@
       "created": null,
       "members": 71,
       "topLevel": 20,
-      "totalXp": 20407486,
+      "totalXp": 20411274,
       "serverRank": 7
     },
     {
@@ -113,7 +113,7 @@
       "created": null,
       "members": 140,
       "topLevel": 20,
-      "totalXp": 18814150,
+      "totalXp": 18884085,
       "serverRank": 8
     },
     {
@@ -171,7 +171,7 @@
       "created": null,
       "members": 89,
       "topLevel": 20,
-      "totalXp": 10881974,
+      "totalXp": 10906647,
       "serverRank": 12
     },
     {
@@ -228,7 +228,7 @@
       "created": null,
       "members": 33,
       "avgLevel": null,
-      "totalXp": 8084739,
+      "totalXp": 8103847,
       "serverRank": 16,
       "topLevel": 20
     },
@@ -243,7 +243,7 @@
       "created": null,
       "members": 19,
       "topLevel": 20,
-      "totalXp": 6606888,
+      "totalXp": 6607173,
       "serverRank": 17
     },
     {
@@ -287,7 +287,7 @@
       "created": null,
       "members": 51,
       "topLevel": 20,
-      "totalXp": 6380453,
+      "totalXp": 6395376,
       "serverRank": 20
     },
     {
@@ -301,7 +301,7 @@
       "created": null,
       "members": 19,
       "topLevel": 20,
-      "totalXp": 6243889,
+      "totalXp": 6244138,
       "serverRank": 21
     },
     {
@@ -345,7 +345,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 4280020,
+      "totalXp": 4439544,
       "serverRank": 24
     },
     {
@@ -388,7 +388,7 @@
       "created": null,
       "members": 17,
       "topLevel": 20,
-      "totalXp": 4100069,
+      "totalXp": 4106709,
       "serverRank": 27
     },
     {
@@ -510,6 +510,20 @@
       "serverRank": 35
     },
     {
+      "id": "slayer",
+      "name": "Slayer",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 4,
+      "topLevel": 20,
+      "totalXp": 1948073,
+      "serverRank": 36
+    },
+    {
       "id": "exe",
       "name": "EXE",
       "tag": null,
@@ -521,7 +535,7 @@
       "members": 8,
       "avgLevel": null,
       "totalXp": 1870800,
-      "serverRank": 36,
+      "serverRank": 37,
       "topLevel": 20
     },
     {
@@ -536,20 +550,6 @@
       "members": 6,
       "topLevel": 20,
       "totalXp": 1861340,
-      "serverRank": 37
-    },
-    {
-      "id": "slayer",
-      "name": "Slayer",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 4,
-      "topLevel": 20,
-      "totalXp": 1784768,
       "serverRank": 38
     },
     {
@@ -853,7 +853,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 844348,
+      "totalXp": 844586,
       "serverRank": 59
     },
     {
@@ -1064,20 +1064,6 @@
       "topLevel": 20
     },
     {
-      "id": "horde",
-      "name": "HORDE",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 2,
-      "topLevel": 20,
-      "totalXp": 439966,
-      "serverRank": 74
-    },
-    {
       "id": "only-dots",
       "name": "Only Dots",
       "tag": null,
@@ -1089,7 +1075,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 435869,
-      "serverRank": 75,
+      "serverRank": 74,
       "topLevel": 20
     },
     {
@@ -1104,7 +1090,7 @@
       "members": 4,
       "topLevel": 20,
       "totalXp": 410936,
-      "serverRank": 76
+      "serverRank": 75
     },
     {
       "id": "knights-of-good",
@@ -1118,7 +1104,7 @@
       "members": 8,
       "avgLevel": null,
       "totalXp": 375461,
-      "serverRank": 77,
+      "serverRank": 76,
       "topLevel": 20
     },
     {
@@ -1133,7 +1119,7 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 372440,
-      "serverRank": 78,
+      "serverRank": 77,
       "topLevel": 20
     },
     {
@@ -1148,7 +1134,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 342264,
-      "serverRank": 79
+      "serverRank": 78
     },
     {
       "id": "wayfarer",
@@ -1162,7 +1148,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 326428,
-      "serverRank": 80,
+      "serverRank": 79,
       "topLevel": 20
     },
     {
@@ -1177,7 +1163,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 321191,
-      "serverRank": 81,
+      "serverRank": 80,
       "topLevel": 20
     },
     {
@@ -1192,7 +1178,7 @@
       "members": 21,
       "avgLevel": null,
       "totalXp": 300156,
-      "serverRank": 82,
+      "serverRank": 81,
       "topLevel": 20
     },
     {
@@ -1207,7 +1193,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 295058,
-      "serverRank": 83,
+      "serverRank": 82,
       "topLevel": 20
     },
     {
@@ -1222,6 +1208,20 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 283680,
+      "serverRank": 83
+    },
+    {
+      "id": "horde",
+      "name": "HORDE",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 283590,
       "serverRank": 84
     },
     {
