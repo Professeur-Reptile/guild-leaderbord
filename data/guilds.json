@@ -12,7 +12,7 @@
       "created": null,
       "members": 197,
       "topLevel": 20,
-      "totalXp": 79885997,
+      "totalXp": 80115907,
       "serverRank": 1
     },
     {
@@ -26,7 +26,7 @@
       "created": null,
       "members": 238,
       "avgLevel": null,
-      "totalXp": 66294352,
+      "totalXp": 67061962,
       "serverRank": 2,
       "topLevel": 20
     },
@@ -41,7 +41,7 @@
       "created": null,
       "members": 83,
       "avgLevel": null,
-      "totalXp": 45540484,
+      "totalXp": 45540629,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -71,7 +71,7 @@
       "created": null,
       "members": 64,
       "topLevel": 20,
-      "totalXp": 27187702,
+      "totalXp": 27520619,
       "serverRank": 5
     },
     {
@@ -85,7 +85,7 @@
       "created": null,
       "members": 69,
       "topLevel": 20,
-      "totalXp": 21274657,
+      "totalXp": 21347964,
       "serverRank": 6
     },
     {
@@ -99,7 +99,7 @@
       "created": null,
       "members": 52,
       "topLevel": 20,
-      "totalXp": 20363885,
+      "totalXp": 20376120,
       "serverRank": 7
     },
     {
@@ -111,9 +111,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 135,
+      "members": 136,
       "topLevel": 20,
-      "totalXp": 20204805,
+      "totalXp": 20220807,
       "serverRank": 8
     },
     {
@@ -127,7 +127,7 @@
       "created": null,
       "members": 94,
       "avgLevel": null,
-      "totalXp": 16366518,
+      "totalXp": 16366818,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -138,9 +138,9 @@
       "region": null,
       "lang": null,
       "serverRank": 10,
-      "members": 68,
+      "members": 71,
       "avgLevel": null,
-      "totalXp": 12337293,
+      "totalXp": 12356942,
       "created": null,
       "site": null,
       "motto": null,
@@ -161,6 +161,20 @@
       "serverRank": 11
     },
     {
+      "id": "beastmode",
+      "name": "Beastmode",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 86,
+      "topLevel": 20,
+      "totalXp": 10168170,
+      "serverRank": 12
+    },
+    {
       "id": "holy-order",
       "name": "Holy Order",
       "tag": null,
@@ -172,20 +186,6 @@
       "members": 45,
       "topLevel": 20,
       "totalXp": 10142401,
-      "serverRank": 12
-    },
-    {
-      "id": "beastmode",
-      "name": "Beastmode",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 86,
-      "topLevel": 20,
-      "totalXp": 10119292,
       "serverRank": 13
     },
     {
@@ -243,7 +243,7 @@
       "created": null,
       "members": 19,
       "topLevel": 20,
-      "totalXp": 7792664,
+      "totalXp": 7807362,
       "serverRank": 17
     },
     {
@@ -257,7 +257,7 @@
       "created": null,
       "members": 22,
       "topLevel": 20,
-      "totalXp": 7664763,
+      "totalXp": 7664910,
       "serverRank": 18
     },
     {
@@ -271,7 +271,7 @@
       "created": null,
       "members": 26,
       "avgLevel": null,
-      "totalXp": 6567274,
+      "totalXp": 6597946,
       "serverRank": 19,
       "topLevel": 20
     },
@@ -301,7 +301,7 @@
       "created": null,
       "members": 50,
       "topLevel": 20,
-      "totalXp": 6410660,
+      "totalXp": 6444195,
       "serverRank": 21
     },
     {
@@ -315,7 +315,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 5648559,
+      "totalXp": 5683435,
       "serverRank": 22
     },
     {
@@ -334,21 +334,6 @@
       "topLevel": 20
     },
     {
-      "id": "cool-people",
-      "name": "Cool People",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 42,
-      "avgLevel": null,
-      "totalXp": 5006044,
-      "serverRank": 24,
-      "topLevel": 20
-    },
-    {
       "id": "zakon-swiatla",
       "name": "Zakon Swiatla",
       "tag": null,
@@ -359,8 +344,23 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 4822267,
-      "serverRank": 25
+      "totalXp": 5025772,
+      "serverRank": 24
+    },
+    {
+      "id": "cool-people",
+      "name": "Cool People",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 42,
+      "avgLevel": null,
+      "totalXp": 5020183,
+      "serverRank": 25,
+      "topLevel": 20
     },
     {
       "id": "justice-league",
@@ -373,8 +373,22 @@
       "created": null,
       "members": 17,
       "topLevel": 20,
-      "totalXp": 4604235,
+      "totalXp": 4626201,
       "serverRank": 26
+    },
+    {
+      "id": "slayer",
+      "name": "Slayer",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 10,
+      "topLevel": 20,
+      "totalXp": 4349588,
+      "serverRank": 27
     },
     {
       "id": "hispania",
@@ -388,22 +402,8 @@
       "members": 26,
       "avgLevel": null,
       "totalXp": 4178048,
-      "serverRank": 27,
+      "serverRank": 28,
       "topLevel": 20
-    },
-    {
-      "id": "slayer",
-      "name": "Slayer",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 9,
-      "topLevel": 20,
-      "totalXp": 3968148,
-      "serverRank": 28
     },
     {
       "id": "akatsuki",
@@ -985,7 +985,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 590042,
+      "totalXp": 591131,
       "serverRank": 68
     },
     {
