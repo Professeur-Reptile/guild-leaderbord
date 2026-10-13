@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 253,
+      "members": 252,
       "avgLevel": null,
-      "totalXp": 87206675,
+      "totalXp": 86617510,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -25,9 +25,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 173,
+      "members": 165,
       "topLevel": 20,
-      "totalXp": 87202031,
+      "totalXp": 86542532,
       "serverRank": 2
     },
     {
@@ -41,7 +41,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 45091666,
+      "totalXp": 45167116,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -69,9 +69,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 127,
+      "members": 140,
       "topLevel": 20,
-      "totalXp": 23880573,
+      "totalXp": 23986479,
       "serverRank": 5
     },
     {
@@ -85,7 +85,7 @@
       "created": null,
       "members": 52,
       "topLevel": 20,
-      "totalXp": 21439438,
+      "totalXp": 21452611,
       "serverRank": 6
     },
     {
@@ -113,7 +113,7 @@
       "created": null,
       "members": 20,
       "topLevel": 20,
-      "totalXp": 17354391,
+      "totalXp": 17783639,
       "serverRank": 8
     },
     {
@@ -154,7 +154,7 @@
       "serverRank": 11,
       "members": 76,
       "avgLevel": null,
-      "totalXp": 12485765,
+      "totalXp": 12486672,
       "created": null,
       "site": null,
       "motto": null,
@@ -183,9 +183,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 19,
+      "members": 20,
       "topLevel": 20,
-      "totalXp": 10636594,
+      "totalXp": 10841779,
       "serverRank": 13
     },
     {
@@ -246,6 +246,20 @@
       "serverRank": 17
     },
     {
+      "id": "zooparty",
+      "name": "zooparty",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 9,
+      "topLevel": 20,
+      "totalXp": 8612008,
+      "serverRank": 18
+    },
+    {
       "id": "world-of-claudecraft",
       "name": "World of ClaudeCraft",
       "tag": null,
@@ -257,7 +271,7 @@
       "members": 10,
       "topLevel": 20,
       "totalXp": 8502833,
-      "serverRank": 18
+      "serverRank": 19
     },
     {
       "id": "zakon-swiatla",
@@ -270,8 +284,8 @@
       "created": null,
       "members": 12,
       "topLevel": 20,
-      "totalXp": 8150303,
-      "serverRank": 19
+      "totalXp": 8422914,
+      "serverRank": 20
     },
     {
       "id": "state-alchemist",
@@ -285,22 +299,8 @@
       "members": 33,
       "avgLevel": null,
       "totalXp": 8116359,
-      "serverRank": 20,
+      "serverRank": 21,
       "topLevel": 20
-    },
-    {
-      "id": "zooparty",
-      "name": "zooparty",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 8,
-      "topLevel": 20,
-      "totalXp": 7361803,
-      "serverRank": 21
     },
     {
       "id": "glorious",
@@ -357,7 +357,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 6238123,
+      "totalXp": 6331240,
       "serverRank": 25
     },
     {
@@ -444,7 +444,7 @@
       "created": null,
       "members": 12,
       "topLevel": 20,
-      "totalXp": 4014302,
+      "totalXp": 4043961,
       "serverRank": 31
     },
     {
@@ -488,7 +488,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 3279656,
+      "totalXp": 3304224,
       "serverRank": 34
     },
     {
@@ -765,7 +765,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 1435056,
+      "totalXp": 1444248,
       "serverRank": 53
     },
     {
@@ -1015,6 +1015,20 @@
       "topLevel": 20
     },
     {
+      "id": "claudeforever",
+      "name": "ClaudeForever",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "topLevel": 20,
+      "totalXp": 614578,
+      "serverRank": 71
+    },
+    {
       "id": "mythless",
       "name": "Mythless",
       "tag": null,
@@ -1026,7 +1040,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 604824,
-      "serverRank": 71,
+      "serverRank": 72,
       "topLevel": 20
     },
     {
@@ -1041,7 +1055,7 @@
       "members": 5,
       "avgLevel": null,
       "totalXp": 601587,
-      "serverRank": 72,
+      "serverRank": 73,
       "topLevel": 20
     },
     {
@@ -1055,21 +1069,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 594587,
-      "serverRank": 73
-    },
-    {
-      "id": "claudeforever",
-      "name": "ClaudeForever",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 3,
-      "topLevel": 20,
-      "totalXp": 561940,
+      "totalXp": 597987,
       "serverRank": 74
     },
     {
@@ -1613,7 +1613,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 195399,
+      "totalXp": 199999,
       "serverRank": 111,
       "topLevel": 20
     },
