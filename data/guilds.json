@@ -2,21 +2,6 @@
   "_help": "Registry of guilds on the Boards. serverRank/members/avgLevel/totalXp are synced automatically from the game's official leaderboard API by scripts/sync_guilds.py (3-hour cron, see update-guilds.yml) — do not edit them by hand. Editorial fields (tag, region, lang, site, motto, created) are managed via issues/PRs and never touched by the sync. null renders as '—' on the site.",
   "guilds": [
     {
-      "id": "raiders-united",
-      "name": "Raiders United",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 252,
-      "avgLevel": null,
-      "totalXp": 86617510,
-      "serverRank": 1,
-      "topLevel": 20
-    },
-    {
       "id": "sovereign",
       "name": "Sovereign",
       "tag": null,
@@ -27,8 +12,23 @@
       "created": null,
       "members": 165,
       "topLevel": 20,
-      "totalXp": 86542532,
-      "serverRank": 2
+      "totalXp": 86766101,
+      "serverRank": 1
+    },
+    {
+      "id": "raiders-united",
+      "name": "Raiders United",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 253,
+      "avgLevel": null,
+      "totalXp": 86441023,
+      "serverRank": 2,
+      "topLevel": 20
     },
     {
       "id": "monarchs",
@@ -41,7 +41,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 45167116,
+      "totalXp": 45194507,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -56,7 +56,7 @@
       "created": null,
       "members": 66,
       "avgLevel": null,
-      "totalXp": 32070896,
+      "totalXp": 32075525,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -71,7 +71,7 @@
       "created": null,
       "members": 140,
       "topLevel": 20,
-      "totalXp": 23986479,
+      "totalXp": 24258129,
       "serverRank": 5
     },
     {
@@ -85,7 +85,7 @@
       "created": null,
       "members": 52,
       "topLevel": 20,
-      "totalXp": 21452611,
+      "totalXp": 21478457,
       "serverRank": 6
     },
     {
@@ -113,7 +113,7 @@
       "created": null,
       "members": 20,
       "topLevel": 20,
-      "totalXp": 17783639,
+      "totalXp": 17858563,
       "serverRank": 8
     },
     {
@@ -152,9 +152,9 @@
       "region": null,
       "lang": null,
       "serverRank": 11,
-      "members": 76,
+      "members": 81,
       "avgLevel": null,
-      "totalXp": 12486672,
+      "totalXp": 12528110,
       "created": null,
       "site": null,
       "motto": null,
@@ -185,7 +185,7 @@
       "created": null,
       "members": 20,
       "topLevel": 20,
-      "totalXp": 10841779,
+      "totalXp": 10972655,
       "serverRank": 13
     },
     {
@@ -242,7 +242,7 @@
       "created": null,
       "members": 23,
       "topLevel": 20,
-      "totalXp": 9155309,
+      "totalXp": 9187000,
       "serverRank": 17
     },
     {
@@ -256,7 +256,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 8612008,
+      "totalXp": 8736394,
       "serverRank": 18
     },
     {
@@ -284,7 +284,7 @@
       "created": null,
       "members": 12,
       "topLevel": 20,
-      "totalXp": 8422914,
+      "totalXp": 8448384,
       "serverRank": 20
     },
     {
@@ -404,6 +404,20 @@
       "serverRank": 28
     },
     {
+      "id": "sparta",
+      "name": "SPARTA",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 14,
+      "topLevel": 20,
+      "totalXp": 4730231,
+      "serverRank": 29
+    },
+    {
       "id": "cool-people",
       "name": "Cool People",
       "tag": null,
@@ -415,7 +429,7 @@
       "members": 41,
       "avgLevel": null,
       "totalXp": 4572747,
-      "serverRank": 29,
+      "serverRank": 30,
       "topLevel": 20
     },
     {
@@ -430,22 +444,8 @@
       "members": 26,
       "avgLevel": null,
       "totalXp": 4178048,
-      "serverRank": 30,
+      "serverRank": 31,
       "topLevel": 20
-    },
-    {
-      "id": "sparta",
-      "name": "SPARTA",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 12,
-      "topLevel": 20,
-      "totalXp": 4043961,
-      "serverRank": 31
     },
     {
       "id": "akatsuki",
@@ -488,7 +488,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 3304224,
+      "totalXp": 3359883,
       "serverRank": 34
     },
     {
@@ -750,7 +750,7 @@
       "created": null,
       "members": 6,
       "avgLevel": null,
-      "totalXp": 1463355,
+      "totalXp": 1463500,
       "serverRank": 52,
       "topLevel": 20
     },
@@ -821,7 +821,7 @@
       "created": null,
       "members": 7,
       "topLevel": 20,
-      "totalXp": 1108804,
+      "totalXp": 1112743,
       "serverRank": 57
     },
     {
@@ -835,7 +835,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 1060427,
+      "totalXp": 1093340,
       "serverRank": 58
     },
     {
@@ -1000,6 +1000,20 @@
       "topLevel": 20
     },
     {
+      "id": "claudeforever",
+      "name": "ClaudeForever",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 3,
+      "topLevel": 20,
+      "totalXp": 630691,
+      "serverRank": 70
+    },
+    {
       "id": "spanish-inquisition",
       "name": "Spanish Inquisition",
       "tag": null,
@@ -1011,22 +1025,8 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 619619,
-      "serverRank": 70,
+      "serverRank": 71,
       "topLevel": 20
-    },
-    {
-      "id": "claudeforever",
-      "name": "ClaudeForever",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 3,
-      "topLevel": 20,
-      "totalXp": 614578,
-      "serverRank": 71
     },
     {
       "id": "mythless",
@@ -2299,6 +2299,20 @@
       "topLevel": 7
     },
     {
+      "id": "bhaltisis",
+      "name": "Bhaltisis",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 6,
+      "topLevel": 7,
+      "totalXp": 13635,
+      "serverRank": 159
+    },
+    {
       "id": "liability",
       "name": "Liability",
       "tag": null,
@@ -2310,22 +2324,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 13383,
-      "serverRank": 159,
+      "serverRank": 160,
       "topLevel": 7
-    },
-    {
-      "id": "bhaltisis",
-      "name": "Bhaltisis",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 6,
-      "topLevel": 7,
-      "totalXp": 13095,
-      "serverRank": 160
     },
     {
       "id": "nerf-herders",
