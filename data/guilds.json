@@ -2,6 +2,21 @@
   "_help": "Registry of guilds on the Boards. serverRank/members/avgLevel/totalXp are synced automatically from the game's official leaderboard API by scripts/sync_guilds.py (3-hour cron, see update-guilds.yml) — do not edit them by hand. Editorial fields (tag, region, lang, site, motto, created) are managed via issues/PRs and never touched by the sync. null renders as '—' on the site.",
   "guilds": [
     {
+      "id": "raiders-united",
+      "name": "Raiders United",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 253,
+      "avgLevel": null,
+      "totalXp": 87206675,
+      "serverRank": 1,
+      "topLevel": 20
+    },
+    {
       "id": "sovereign",
       "name": "Sovereign",
       "tag": null,
@@ -12,23 +27,8 @@
       "created": null,
       "members": 173,
       "topLevel": 20,
-      "totalXp": 87103847,
-      "serverRank": 1
-    },
-    {
-      "id": "raiders-united",
-      "name": "Raiders United",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 252,
-      "avgLevel": null,
-      "totalXp": 86681596,
-      "serverRank": 2,
-      "topLevel": 20
+      "totalXp": 87202031,
+      "serverRank": 2
     },
     {
       "id": "monarchs",
@@ -71,7 +71,7 @@
       "created": null,
       "members": 127,
       "topLevel": 20,
-      "totalXp": 23812129,
+      "totalXp": 23880573,
       "serverRank": 5
     },
     {
@@ -85,7 +85,7 @@
       "created": null,
       "members": 52,
       "topLevel": 20,
-      "totalXp": 21385765,
+      "totalXp": 21439438,
       "serverRank": 6
     },
     {
@@ -99,7 +99,7 @@
       "created": null,
       "members": 66,
       "topLevel": 20,
-      "totalXp": 19618292,
+      "totalXp": 19628682,
       "serverRank": 7
     },
     {
@@ -113,7 +113,7 @@
       "created": null,
       "members": 20,
       "topLevel": 20,
-      "totalXp": 17352851,
+      "totalXp": 17354391,
       "serverRank": 8
     },
     {
@@ -185,7 +185,7 @@
       "created": null,
       "members": 19,
       "topLevel": 20,
-      "totalXp": 10605474,
+      "totalXp": 10636594,
       "serverRank": 13
     },
     {
@@ -242,7 +242,7 @@
       "created": null,
       "members": 23,
       "topLevel": 20,
-      "totalXp": 9088734,
+      "totalXp": 9155309,
       "serverRank": 17
     },
     {
@@ -299,7 +299,7 @@
       "created": null,
       "members": 8,
       "topLevel": 20,
-      "totalXp": 7234311,
+      "totalXp": 7361803,
       "serverRank": 21
     },
     {
@@ -343,7 +343,7 @@
       "created": null,
       "members": 48,
       "topLevel": 20,
-      "totalXp": 6468945,
+      "totalXp": 6468987,
       "serverRank": 24
     },
     {
@@ -357,7 +357,7 @@
       "created": null,
       "members": 10,
       "topLevel": 20,
-      "totalXp": 6210694,
+      "totalXp": 6238123,
       "serverRank": 25
     },
     {
@@ -488,7 +488,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 3277434,
+      "totalXp": 3279656,
       "serverRank": 34
     },
     {
@@ -811,6 +811,20 @@
       "serverRank": 56
     },
     {
+      "id": "chan",
+      "name": "Chan",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 7,
+      "topLevel": 20,
+      "totalXp": 1108804,
+      "serverRank": 57
+    },
+    {
       "id": "midnight-cult",
       "name": "Midnight Cult",
       "tag": null,
@@ -822,20 +836,6 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 1060427,
-      "serverRank": 57
-    },
-    {
-      "id": "chan",
-      "name": "Chan",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 7,
-      "topLevel": 20,
-      "totalXp": 1055084,
       "serverRank": 58
     },
     {
