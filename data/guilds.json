@@ -2,6 +2,21 @@
   "_help": "Registry of guilds on the Boards. serverRank/members/avgLevel/totalXp are synced automatically from the game's official leaderboard API by scripts/sync_guilds.py (3-hour cron, see update-guilds.yml) — do not edit them by hand. Editorial fields (tag, region, lang, site, motto, created) are managed via issues/PRs and never touched by the sync. null renders as '—' on the site.",
   "guilds": [
     {
+      "id": "raiders-united",
+      "name": "Raiders United",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 256,
+      "avgLevel": null,
+      "totalXp": 87079490,
+      "serverRank": 1,
+      "topLevel": 20
+    },
+    {
       "id": "sovereign",
       "name": "Sovereign",
       "tag": null,
@@ -12,23 +27,8 @@
       "created": null,
       "members": 165,
       "topLevel": 20,
-      "totalXp": 86951785,
-      "serverRank": 1
-    },
-    {
-      "id": "raiders-united",
-      "name": "Raiders United",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 253,
-      "avgLevel": null,
-      "totalXp": 86763945,
-      "serverRank": 2,
-      "topLevel": 20
+      "totalXp": 87027000,
+      "serverRank": 2
     },
     {
       "id": "monarchs",
@@ -41,7 +41,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 45194507,
+      "totalXp": 45249770,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -56,7 +56,7 @@
       "created": null,
       "members": 66,
       "avgLevel": null,
-      "totalXp": 32075525,
+      "totalXp": 32075566,
       "serverRank": 4,
       "topLevel": 20
     },
@@ -69,24 +69,10 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 136,
+      "members": 133,
       "topLevel": 20,
-      "totalXp": 24443953,
+      "totalXp": 27150305,
       "serverRank": 5
-    },
-    {
-      "id": "cheaters",
-      "name": "Cheaters",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 52,
-      "topLevel": 20,
-      "totalXp": 21506820,
-      "serverRank": 6
     },
     {
       "id": "legio-x-equestris",
@@ -100,6 +86,20 @@
       "members": 66,
       "topLevel": 20,
       "totalXp": 19628682,
+      "serverRank": 6
+    },
+    {
+      "id": "cheaters",
+      "name": "Cheaters",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 47,
+      "topLevel": 20,
+      "totalXp": 19059572,
       "serverRank": 7
     },
     {
@@ -113,7 +113,7 @@
       "created": null,
       "members": 20,
       "topLevel": 20,
-      "totalXp": 17864933,
+      "totalXp": 18083920,
       "serverRank": 8
     },
     {
@@ -154,7 +154,7 @@
       "serverRank": 11,
       "members": 81,
       "avgLevel": null,
-      "totalXp": 12539886,
+      "totalXp": 12542360,
       "created": null,
       "site": null,
       "motto": null,
@@ -227,7 +227,7 @@
       "created": null,
       "members": 23,
       "topLevel": 20,
-      "totalXp": 9199102,
+      "totalXp": 9279873,
       "serverRank": 16
     },
     {
@@ -256,8 +256,22 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 8824011,
+      "totalXp": 8914054,
       "serverRank": 18
+    },
+    {
+      "id": "zakon-swiatla",
+      "name": "Zakon Swiatla",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 12,
+      "topLevel": 20,
+      "totalXp": 8711995,
+      "serverRank": 19
     },
     {
       "id": "world-of-claudecraft",
@@ -271,20 +285,6 @@
       "members": 10,
       "topLevel": 20,
       "totalXp": 8502833,
-      "serverRank": 19
-    },
-    {
-      "id": "zakon-swiatla",
-      "name": "Zakon Swiatla",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 12,
-      "topLevel": 20,
-      "totalXp": 8484475,
       "serverRank": 20
     },
     {
@@ -333,6 +333,20 @@
       "topLevel": 20
     },
     {
+      "id": "slayer",
+      "name": "Slayer",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 10,
+      "topLevel": 20,
+      "totalXp": 6474184,
+      "serverRank": 24
+    },
+    {
       "id": "raiders-united-ii",
       "name": "Raiders United II",
       "tag": null,
@@ -344,20 +358,6 @@
       "members": 48,
       "topLevel": 20,
       "totalXp": 6468987,
-      "serverRank": 24
-    },
-    {
-      "id": "slayer",
-      "name": "Slayer",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 10,
-      "topLevel": 20,
-      "totalXp": 6363998,
       "serverRank": 25
     },
     {
@@ -414,7 +414,7 @@
       "created": null,
       "members": 15,
       "topLevel": 20,
-      "totalXp": 4959378,
+      "totalXp": 5010579,
       "serverRank": 29
     },
     {
@@ -488,7 +488,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 3361562,
+      "totalXp": 3386506,
       "serverRank": 34
     },
     {
@@ -765,7 +765,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 1444248,
+      "totalXp": 1448123,
       "serverRank": 53
     },
     {
@@ -821,7 +821,7 @@
       "created": null,
       "members": 8,
       "topLevel": 20,
-      "totalXp": 1144905,
+      "totalXp": 1157641,
       "serverRank": 57
     },
     {
@@ -1010,7 +1010,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 630691,
+      "totalXp": 659056,
       "serverRank": 70
     },
     {
@@ -1561,6 +1561,21 @@
       "serverRank": 107
     },
     {
+      "id": "staff",
+      "name": "STAFF",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "avgLevel": null,
+      "totalXp": 213368,
+      "serverRank": 108,
+      "topLevel": 20
+    },
+    {
       "id": "death-squad",
       "name": "DEATH SQUAD",
       "tag": null,
@@ -1572,7 +1587,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 210885,
-      "serverRank": 108
+      "serverRank": 109
     },
     {
       "id": "honey-badgers",
@@ -1586,7 +1601,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 206394,
-      "serverRank": 109
+      "serverRank": 110
     },
     {
       "id": "turkey",
@@ -1600,22 +1615,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 206217,
-      "serverRank": 110
-    },
-    {
-      "id": "staff",
-      "name": "STAFF",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "avgLevel": null,
-      "totalXp": 204449,
-      "serverRank": 111,
-      "topLevel": 20
+      "serverRank": 111
     },
     {
       "id": "irgloop",
