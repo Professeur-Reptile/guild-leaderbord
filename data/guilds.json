@@ -12,7 +12,7 @@
       "created": null,
       "members": 256,
       "avgLevel": null,
-      "totalXp": 87357767,
+      "totalXp": 87470483,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 164,
       "topLevel": 20,
-      "totalXp": 86829907,
+      "totalXp": 87051172,
       "serverRank": 2
     },
     {
@@ -41,7 +41,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 45249824,
+      "totalXp": 45251402,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -71,7 +71,7 @@
       "created": null,
       "members": 135,
       "topLevel": 20,
-      "totalXp": 27196966,
+      "totalXp": 27321925,
       "serverRank": 5
     },
     {
@@ -99,7 +99,7 @@
       "created": null,
       "members": 47,
       "topLevel": 20,
-      "totalXp": 19059626,
+      "totalXp": 19093944,
       "serverRank": 7
     },
     {
@@ -113,7 +113,7 @@
       "created": null,
       "members": 20,
       "topLevel": 20,
-      "totalXp": 18239078,
+      "totalXp": 18245471,
       "serverRank": 8
     },
     {
@@ -142,7 +142,7 @@
       "created": null,
       "members": 44,
       "topLevel": 20,
-      "totalXp": 14949555,
+      "totalXp": 14950961,
       "serverRank": 10
     },
     {
@@ -154,7 +154,7 @@
       "serverRank": 11,
       "members": 81,
       "avgLevel": null,
-      "totalXp": 12542968,
+      "totalXp": 12547739,
       "created": null,
       "site": null,
       "motto": null,
@@ -185,7 +185,7 @@
       "created": null,
       "members": 20,
       "topLevel": 20,
-      "totalXp": 11089827,
+      "totalXp": 11146872,
       "serverRank": 13
     },
     {
@@ -227,7 +227,7 @@
       "created": null,
       "members": 23,
       "topLevel": 20,
-      "totalXp": 9303478,
+      "totalXp": 9347676,
       "serverRank": 16
     },
     {
@@ -256,7 +256,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 8923366,
+      "totalXp": 8940095,
       "serverRank": 18
     },
     {
@@ -270,7 +270,7 @@
       "created": null,
       "members": 12,
       "topLevel": 20,
-      "totalXp": 8711995,
+      "totalXp": 8723365,
       "serverRank": 19
     },
     {
@@ -414,7 +414,7 @@
       "created": null,
       "members": 15,
       "topLevel": 20,
-      "totalXp": 5030004,
+      "totalXp": 5034865,
       "serverRank": 29
     },
     {
@@ -488,7 +488,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 3390148,
+      "totalXp": 3391158,
       "serverRank": 34
     },
     {
@@ -633,7 +633,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 1757463,
+      "totalXp": 1763920,
       "serverRank": 44
     },
     {
@@ -779,7 +779,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 1448123,
+      "totalXp": 1450479,
       "serverRank": 54
     },
     {
@@ -825,6 +825,20 @@
       "serverRank": 57
     },
     {
+      "id": "midnight-cult",
+      "name": "Midnight Cult",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 1174742,
+      "serverRank": 58
+    },
+    {
       "id": "chan",
       "name": "Chan",
       "tag": null,
@@ -836,20 +850,6 @@
       "members": 8,
       "topLevel": 20,
       "totalXp": 1157641,
-      "serverRank": 58
-    },
-    {
-      "id": "midnight-cult",
-      "name": "Midnight Cult",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 1148701,
       "serverRank": 59
     },
     {
@@ -1043,6 +1043,20 @@
       "topLevel": 20
     },
     {
+      "id": "mercenary",
+      "name": "MERCENARY",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 617836,
+      "serverRank": 73
+    },
+    {
       "id": "mythless",
       "name": "Mythless",
       "tag": null,
@@ -1054,7 +1068,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 604824,
-      "serverRank": 73,
+      "serverRank": 74,
       "topLevel": 20
     },
     {
@@ -1069,22 +1083,8 @@
       "members": 5,
       "avgLevel": null,
       "totalXp": 601587,
-      "serverRank": 74,
+      "serverRank": 75,
       "topLevel": 20
-    },
-    {
-      "id": "mercenary",
-      "name": "MERCENARY",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 601508,
-      "serverRank": 75
     },
     {
       "id": "ottoman",
@@ -2179,6 +2179,20 @@
       "topLevel": 10
     },
     {
+      "id": "bhaltisis",
+      "name": "Bhaltisis",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 6,
+      "topLevel": 9,
+      "totalXp": 26096,
+      "serverRank": 151
+    },
+    {
       "id": "nicamo",
       "name": "nICAMO",
       "tag": null,
@@ -2190,7 +2204,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 22201,
-      "serverRank": 151,
+      "serverRank": 152,
       "topLevel": 9
     },
     {
@@ -2205,7 +2219,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 19915,
-      "serverRank": 152,
+      "serverRank": 153,
       "topLevel": 6
     },
     {
@@ -2220,7 +2234,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 19331,
-      "serverRank": 153,
+      "serverRank": 154,
       "topLevel": 8
     },
     {
@@ -2235,7 +2249,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 18308,
-      "serverRank": 154,
+      "serverRank": 155,
       "topLevel": 8
     },
     {
@@ -2250,22 +2264,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 17105,
-      "serverRank": 155,
+      "serverRank": 156,
       "topLevel": 8
-    },
-    {
-      "id": "bhaltisis",
-      "name": "Bhaltisis",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 6,
-      "topLevel": 8,
-      "totalXp": 16259,
-      "serverRank": 156
     },
     {
       "id": "crimson-fusion",
