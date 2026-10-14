@@ -219,7 +219,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 43,
-      "lifetimeXp": 2170355,
+      "lifetimeXp": 2170549,
       "prestigeRank": 0,
       "title": "chr_vale_chapter_iii"
     },
@@ -258,9 +258,9 @@
       "name": "Diabloww",
       "cls": "mage",
       "level": 20,
-      "virtualLevel": 42,
-      "lifetimeXp": 1962617,
-      "prestigeRank": 76,
+      "virtualLevel": 43,
+      "lifetimeXp": 2020836,
+      "prestigeRank": 79,
       "title": "prog_farming_100"
     },
     {
@@ -429,7 +429,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1593853,
+      "lifetimeXp": 1593954,
       "prestigeRank": 0,
       "title": null
     },
@@ -535,6 +535,16 @@
     },
     {
       "rank": 54,
+      "name": "Diablowww",
+      "cls": "shaman",
+      "level": 20,
+      "virtualLevel": 39,
+      "lifetimeXp": 1378160,
+      "prestigeRank": 44,
+      "title": "dgn_varkhul_flawless"
+    },
+    {
+      "rank": 55,
       "name": "Potanchy",
       "cls": "paladin",
       "level": 20,
@@ -544,7 +554,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "name": "Hooga",
       "cls": "hunter",
       "level": 20,
@@ -554,7 +564,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "eree",
       "cls": "rogue",
       "level": 20,
@@ -564,7 +574,7 @@
       "title": null
     },
     {
-      "rank": 57,
+      "rank": 58,
       "name": "Sweden",
       "cls": "hunter",
       "level": 20,
@@ -572,16 +582,6 @@
       "lifetimeXp": 1338887,
       "prestigeRank": 50,
       "title": null
-    },
-    {
-      "rank": 58,
-      "name": "Diablowww",
-      "cls": "shaman",
-      "level": 20,
-      "virtualLevel": 38,
-      "lifetimeXp": 1319666,
-      "prestigeRank": 44,
-      "title": "dgn_varkhul_flawless"
     },
     {
       "rank": 59,
@@ -635,6 +635,16 @@
     },
     {
       "rank": 64,
+      "name": "Slenderman",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 38,
+      "lifetimeXp": 1280899,
+      "prestigeRank": 40,
+      "title": null
+    },
+    {
+      "rank": 65,
       "name": "ogoro",
       "cls": "shaman",
       "level": 20,
@@ -642,16 +652,6 @@
       "lifetimeXp": 1275668,
       "prestigeRank": 34,
       "title": "prog_champion"
-    },
-    {
-      "rank": 65,
-      "name": "Slenderman",
-      "cls": "warrior",
-      "level": 20,
-      "virtualLevel": 38,
-      "lifetimeXp": 1267082,
-      "prestigeRank": 40,
-      "title": null
     },
     {
       "rank": 66,
@@ -1545,16 +1545,26 @@
     },
     {
       "rank": 155,
+      "name": "ZooLot",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 868071,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 156,
       "name": "Azechu",
       "cls": "priest",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 867222,
+      "lifetimeXp": 867740,
       "prestigeRank": 10,
       "title": "prog_grandmaster_enchanting"
     },
     {
-      "rank": 156,
+      "rank": 157,
       "name": "Fansar",
       "cls": "paladin",
       "level": 20,
@@ -1564,7 +1574,7 @@
       "title": null
     },
     {
-      "rank": 157,
+      "rank": 158,
       "name": "APOI",
       "cls": "mage",
       "level": 20,
@@ -1574,7 +1584,7 @@
       "title": "prog_veteran"
     },
     {
-      "rank": 158,
+      "rank": 159,
       "name": "zumbybr",
       "cls": "hunter",
       "level": 20,
@@ -1584,7 +1594,7 @@
       "title": null
     },
     {
-      "rank": 159,
+      "rank": 160,
       "name": "Pop Cap",
       "cls": "hunter",
       "level": 20,
@@ -1594,7 +1604,7 @@
       "title": "prog_grandmaster_weaponcrafting"
     },
     {
-      "rank": 160,
+      "rank": 161,
       "name": "Gameoverr",
       "cls": "warrior",
       "level": 20,
@@ -1604,23 +1614,13 @@
       "title": null
     },
     {
-      "rank": 161,
+      "rank": 162,
       "name": "Roots",
       "cls": "druid",
       "level": 20,
       "virtualLevel": 34,
       "lifetimeXp": 862864,
       "prestigeRank": 27,
-      "title": null
-    },
-    {
-      "rank": 162,
-      "name": "ZooLot",
-      "cls": "hunter",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 862071,
-      "prestigeRank": 0,
       "title": null
     },
     {
