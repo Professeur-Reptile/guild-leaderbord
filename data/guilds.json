@@ -12,7 +12,7 @@
       "created": null,
       "members": 256,
       "avgLevel": null,
-      "totalXp": 87588921,
+      "totalXp": 87778508,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 164,
       "topLevel": 20,
-      "totalXp": 87145060,
+      "totalXp": 87242276,
       "serverRank": 2
     },
     {
@@ -41,7 +41,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 45251402,
+      "totalXp": 45343136,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -69,9 +69,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 136,
+      "members": 137,
       "topLevel": 20,
-      "totalXp": 27682183,
+      "totalXp": 27755020,
       "serverRank": 5
     },
     {
@@ -99,7 +99,7 @@
       "created": null,
       "members": 47,
       "topLevel": 20,
-      "totalXp": 19098850,
+      "totalXp": 19154944,
       "serverRank": 7
     },
     {
@@ -113,7 +113,7 @@
       "created": null,
       "members": 20,
       "topLevel": 20,
-      "totalXp": 18249408,
+      "totalXp": 18486140,
       "serverRank": 8
     },
     {
@@ -185,7 +185,7 @@
       "created": null,
       "members": 20,
       "topLevel": 20,
-      "totalXp": 11176985,
+      "totalXp": 11239729,
       "serverRank": 13
     },
     {
@@ -227,7 +227,7 @@
       "created": null,
       "members": 23,
       "topLevel": 20,
-      "totalXp": 9375544,
+      "totalXp": 9506854,
       "serverRank": 16
     },
     {
@@ -256,7 +256,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 9040574,
+      "totalXp": 9133489,
       "serverRank": 18
     },
     {
@@ -270,7 +270,7 @@
       "created": null,
       "members": 12,
       "topLevel": 20,
-      "totalXp": 8723365,
+      "totalXp": 8927497,
       "serverRank": 19
     },
     {
@@ -318,6 +318,20 @@
       "topLevel": 20
     },
     {
+      "id": "slayer",
+      "name": "Slayer",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 10,
+      "topLevel": 20,
+      "totalXp": 6561495,
+      "serverRank": 23
+    },
+    {
       "id": "peasants",
       "name": "Peasants",
       "tag": null,
@@ -329,22 +343,8 @@
       "members": 28,
       "avgLevel": null,
       "totalXp": 6522095,
-      "serverRank": 23,
+      "serverRank": 24,
       "topLevel": 20
-    },
-    {
-      "id": "slayer",
-      "name": "Slayer",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 10,
-      "topLevel": 20,
-      "totalXp": 6510810,
-      "serverRank": 24
     },
     {
       "id": "raiders-united-ii",
@@ -400,7 +400,7 @@
       "created": null,
       "members": 16,
       "topLevel": 20,
-      "totalXp": 5368756,
+      "totalXp": 5388258,
       "serverRank": 28
     },
     {
@@ -488,7 +488,7 @@
       "created": null,
       "members": 2,
       "topLevel": 20,
-      "totalXp": 3391764,
+      "totalXp": 3392874,
       "serverRank": 34
     },
     {
@@ -633,7 +633,7 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 1768368,
+      "totalXp": 1808746,
       "serverRank": 44
     },
     {
@@ -1010,8 +1010,22 @@
       "created": null,
       "members": 3,
       "topLevel": 20,
-      "totalXp": 676376,
+      "totalXp": 700082,
       "serverRank": 70
+    },
+    {
+      "id": "mercenary",
+      "name": "MERCENARY",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 665860,
+      "serverRank": 71
     },
     {
       "id": "deadlysins",
@@ -1025,20 +1039,6 @@
       "members": 2,
       "topLevel": 20,
       "totalXp": 659423,
-      "serverRank": 71
-    },
-    {
-      "id": "mercenary",
-      "name": "MERCENARY",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 639160,
       "serverRank": 72
     },
     {
@@ -1561,6 +1561,20 @@
       "topLevel": 20
     },
     {
+      "id": "staffer",
+      "name": "Staffer",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 220101,
+      "serverRank": 108
+    },
+    {
       "id": "la-caracola-magica",
       "name": "La Caracola Magica",
       "tag": null,
@@ -1572,7 +1586,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 217287,
-      "serverRank": 108
+      "serverRank": 109
     },
     {
       "id": "staff",
@@ -1585,23 +1599,9 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 214187,
-      "serverRank": 109,
-      "topLevel": 20
-    },
-    {
-      "id": "death-squad",
-      "name": "DEATH SQUAD",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
       "totalXp": 210885,
-      "serverRank": 110
+      "serverRank": 110,
+      "topLevel": 20
     },
     {
       "id": "honey-badgers",
@@ -3152,6 +3152,20 @@
       "totalXp": 0,
       "serverRank": null,
       "topLevel": 1
+    },
+    {
+      "id": "death-squad",
+      "name": "DEATH SQUAD",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 210885,
+      "serverRank": null
     },
     {
       "id": "deed-rising",
