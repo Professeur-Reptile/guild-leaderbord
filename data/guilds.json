@@ -12,7 +12,7 @@
       "created": null,
       "members": 252,
       "avgLevel": null,
-      "totalXp": 88748199,
+      "totalXp": 88926460,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 164,
       "topLevel": 20,
-      "totalXp": 87487681,
+      "totalXp": 87512387,
       "serverRank": 2
     },
     {
@@ -41,7 +41,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 45343751,
+      "totalXp": 45553322,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -69,9 +69,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 136,
+      "members": 134,
       "topLevel": 20,
-      "totalXp": 27936259,
+      "totalXp": 27990280,
       "serverRank": 5
     },
     {
@@ -113,7 +113,7 @@
       "created": null,
       "members": 21,
       "topLevel": 20,
-      "totalXp": 18840585,
+      "totalXp": 18989086,
       "serverRank": 8
     },
     {
@@ -154,7 +154,7 @@
       "serverRank": 11,
       "members": 82,
       "avgLevel": null,
-      "totalXp": 12586630,
+      "totalXp": 12601218,
       "created": null,
       "site": null,
       "motto": null,
@@ -185,7 +185,7 @@
       "created": null,
       "members": 21,
       "topLevel": 20,
-      "totalXp": 11497259,
+      "totalXp": 11581663,
       "serverRank": 13
     },
     {
@@ -213,7 +213,7 @@
       "created": null,
       "members": 24,
       "topLevel": 20,
-      "totalXp": 9834906,
+      "totalXp": 9906033,
       "serverRank": 15
     },
     {
@@ -231,17 +231,17 @@
       "serverRank": 16
     },
     {
-      "id": "zooparty",
-      "name": "zooparty",
+      "id": "zakon-swiatla",
+      "name": "Zakon Swiatla",
       "tag": null,
       "region": null,
       "lang": null,
       "site": null,
       "motto": null,
       "created": null,
-      "members": 9,
+      "members": 12,
       "topLevel": 20,
-      "totalXp": 9207615,
+      "totalXp": 9231834,
       "serverRank": 17
     },
     {
@@ -260,20 +260,6 @@
       "topLevel": 20
     },
     {
-      "id": "zakon-swiatla",
-      "name": "Zakon Swiatla",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 12,
-      "topLevel": 20,
-      "totalXp": 9088854,
-      "serverRank": 19
-    },
-    {
       "id": "world-of-claudecraft",
       "name": "World of ClaudeCraft",
       "tag": null,
@@ -285,7 +271,7 @@
       "members": 10,
       "topLevel": 20,
       "totalXp": 8502833,
-      "serverRank": 20
+      "serverRank": 19
     },
     {
       "id": "state-alchemist",
@@ -299,8 +285,22 @@
       "members": 33,
       "avgLevel": null,
       "totalXp": 8116359,
-      "serverRank": 21,
+      "serverRank": 20,
       "topLevel": 20
+    },
+    {
+      "id": "zooparty",
+      "name": "zooparty",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 9,
+      "topLevel": 20,
+      "totalXp": 8085362,
+      "serverRank": 21
     },
     {
       "id": "glorious",
@@ -471,9 +471,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 2,
+      "members": 6,
       "topLevel": 20,
-      "totalXp": 3429838,
+      "totalXp": 3467038,
       "serverRank": 33
     },
     {
@@ -927,6 +927,20 @@
       "serverRank": 64
     },
     {
+      "id": "mercenary",
+      "name": "MERCENARY",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 857819,
+      "serverRank": 65
+    },
+    {
       "id": "midnight-smoke-circle",
       "name": "Midnight Smoke Circle",
       "tag": null,
@@ -938,7 +952,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 846042,
-      "serverRank": 65
+      "serverRank": 66
     },
     {
       "id": "bauchnabelfussel",
@@ -952,7 +966,7 @@
       "members": 9,
       "topLevel": 20,
       "totalXp": 841968,
-      "serverRank": 66
+      "serverRank": 67
     },
     {
       "id": "avalon",
@@ -966,22 +980,8 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 810269,
-      "serverRank": 67,
+      "serverRank": 68,
       "topLevel": 20
-    },
-    {
-      "id": "mercenary",
-      "name": "MERCENARY",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 721502,
-      "serverRank": 68
     },
     {
       "id": "legendary",
