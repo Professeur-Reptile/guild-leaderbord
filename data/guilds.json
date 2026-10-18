@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 253,
+      "members": 254,
       "avgLevel": null,
-      "totalXp": 90410365,
+      "totalXp": 90705564,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 164,
       "topLevel": 20,
-      "totalXp": 88538435,
+      "totalXp": 88594200,
       "serverRank": 2
     },
     {
@@ -41,7 +41,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 45722454,
+      "totalXp": 45722595,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -69,9 +69,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 138,
+      "members": 140,
       "topLevel": 20,
-      "totalXp": 28376311,
+      "totalXp": 28463689,
       "serverRank": 5
     },
     {
@@ -83,9 +83,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 23,
+      "members": 24,
       "topLevel": 20,
-      "totalXp": 20936255,
+      "totalXp": 21180322,
       "serverRank": 6
     },
     {
@@ -113,7 +113,7 @@
       "created": null,
       "members": 47,
       "topLevel": 20,
-      "totalXp": 19429042,
+      "totalXp": 19438651,
       "serverRank": 8
     },
     {
@@ -127,7 +127,7 @@
       "created": null,
       "members": 94,
       "avgLevel": null,
-      "totalXp": 16368791,
+      "totalXp": 16372775,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -140,9 +140,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 42,
+      "members": 41,
       "topLevel": 20,
-      "totalXp": 13893470,
+      "totalXp": 13669513,
       "serverRank": 10
     },
     {
@@ -154,7 +154,7 @@
       "serverRank": 11,
       "members": 82,
       "avgLevel": null,
-      "totalXp": 12624900,
+      "totalXp": 12624934,
       "created": null,
       "site": null,
       "motto": null,
@@ -171,7 +171,7 @@
       "created": null,
       "members": 22,
       "topLevel": 20,
-      "totalXp": 12057939,
+      "totalXp": 12064161,
       "serverRank": 12
     },
     {
@@ -199,7 +199,7 @@
       "created": null,
       "members": 24,
       "topLevel": 20,
-      "totalXp": 10429576,
+      "totalXp": 10489143,
       "serverRank": 14
     },
     {
@@ -227,7 +227,7 @@
       "created": null,
       "members": 13,
       "topLevel": 20,
-      "totalXp": 9812441,
+      "totalXp": 9882624,
       "serverRank": 16
     },
     {
@@ -270,7 +270,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 8976951,
+      "totalXp": 8977351,
       "serverRank": 19
     },
     {
@@ -385,7 +385,7 @@
       "created": null,
       "members": 20,
       "topLevel": 20,
-      "totalXp": 5883872,
+      "totalXp": 5889435,
       "serverRank": 27
     },
     {
@@ -473,7 +473,7 @@
       "created": null,
       "members": 6,
       "topLevel": 20,
-      "totalXp": 3533633,
+      "totalXp": 3536580,
       "serverRank": 33
     },
     {
@@ -793,8 +793,22 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 1343694,
+      "totalXp": 1363707,
       "serverRank": 55
+    },
+    {
+      "id": "chan",
+      "name": "Chan",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 8,
+      "topLevel": 20,
+      "totalXp": 1339073,
+      "serverRank": 56
     },
     {
       "id": "the-sung-guild",
@@ -808,7 +822,7 @@
       "members": 5,
       "topLevel": 20,
       "totalXp": 1318618,
-      "serverRank": 56
+      "serverRank": 57
     },
     {
       "id": "i-dps-my-kids-irl",
@@ -822,20 +836,6 @@
       "members": 4,
       "topLevel": 20,
       "totalXp": 1309368,
-      "serverRank": 57
-    },
-    {
-      "id": "chan",
-      "name": "Chan",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 8,
-      "topLevel": 20,
-      "totalXp": 1305610,
       "serverRank": 58
     },
     {
@@ -2061,6 +2061,20 @@
       "topLevel": 11
     },
     {
+      "id": "bhaltisis",
+      "name": "Bhaltisis",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 6,
+      "topLevel": 11,
+      "totalXp": 35294,
+      "serverRank": 143
+    },
+    {
       "id": "kek",
       "name": "Kek",
       "tag": null,
@@ -2072,7 +2086,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 34617,
-      "serverRank": 143,
+      "serverRank": 144,
       "topLevel": 9
     },
     {
@@ -2087,7 +2101,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 34283,
-      "serverRank": 144,
+      "serverRank": 145,
       "topLevel": 10
     },
     {
@@ -2102,7 +2116,7 @@
       "members": 4,
       "topLevel": 8,
       "totalXp": 33992,
-      "serverRank": 145
+      "serverRank": 146
     },
     {
       "id": "secretgovernment",
@@ -2116,7 +2130,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 33629,
-      "serverRank": 146,
+      "serverRank": 147,
       "topLevel": 10
     },
     {
@@ -2131,7 +2145,7 @@
       "members": 3,
       "topLevel": 7,
       "totalXp": 33576,
-      "serverRank": 147
+      "serverRank": 148
     },
     {
       "id": "mancave",
@@ -2145,7 +2159,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 33491,
-      "serverRank": 148,
+      "serverRank": 149,
       "topLevel": 10
     },
     {
@@ -2160,7 +2174,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 30485,
-      "serverRank": 149,
+      "serverRank": 150,
       "topLevel": 10
     },
     {
@@ -2175,22 +2189,8 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 28598,
-      "serverRank": 150,
+      "serverRank": 151,
       "topLevel": 10
-    },
-    {
-      "id": "bhaltisis",
-      "name": "Bhaltisis",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 6,
-      "topLevel": 9,
-      "totalXp": 26419,
-      "serverRank": 151
     },
     {
       "id": "nicamo",
