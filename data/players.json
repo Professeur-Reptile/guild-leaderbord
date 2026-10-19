@@ -59,7 +59,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 3987408,
+      "lifetimeXp": 3989271,
       "prestigeRank": 161,
       "title": "prog_mythic"
     },
@@ -185,6 +185,16 @@
     },
     {
       "rank": 19,
+      "name": "kahldrek",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 45,
+      "lifetimeXp": 2449199,
+      "prestigeRank": 0,
+      "title": "chr_vale_chapter_iii"
+    },
+    {
+      "rank": 20,
       "name": "Rename",
       "cls": "warrior",
       "level": 20,
@@ -194,22 +204,12 @@
       "title": null
     },
     {
-      "rank": 20,
-      "name": "kahldrek",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 44,
-      "lifetimeXp": 2384175,
-      "prestigeRank": 0,
-      "title": "chr_vale_chapter_iii"
-    },
-    {
       "rank": 21,
       "name": "Diabloww",
       "cls": "mage",
       "level": 20,
       "virtualLevel": 44,
-      "lifetimeXp": 2276224,
+      "lifetimeXp": 2334503,
       "prestigeRank": 90,
       "title": "prog_farming_100"
     },
@@ -348,8 +348,8 @@
       "name": "Slenderman",
       "cls": "warrior",
       "level": 20,
-      "virtualLevel": 41,
-      "lifetimeXp": 1816963,
+      "virtualLevel": 42,
+      "lifetimeXp": 1826970,
       "prestigeRank": 63,
       "title": "exp_arcane_calligraphy_gold"
     },
@@ -469,7 +469,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1569993,
+      "lifetimeXp": 1591961,
       "prestigeRank": 44,
       "title": "dgn_varkhul_flawless"
     },
@@ -555,6 +555,16 @@
     },
     {
       "rank": 56,
+      "name": "SHADOW PIZZA",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 39,
+      "lifetimeXp": 1466835,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 57,
       "name": "Kokolina",
       "cls": "priest",
       "level": 20,
@@ -564,7 +574,7 @@
       "title": "dgn_varkhul_flawless"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "name": "Ferax",
       "cls": "paladin",
       "level": 20,
@@ -572,16 +582,6 @@
       "lifetimeXp": 1455220,
       "prestigeRank": 0,
       "title": "col_reliquary_rank_4"
-    },
-    {
-      "rank": 58,
-      "name": "SHADOW PIZZA",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1438566,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 59,
@@ -869,7 +869,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1198281,
+      "lifetimeXp": 1198741,
       "prestigeRank": 0,
       "title": null
     },
