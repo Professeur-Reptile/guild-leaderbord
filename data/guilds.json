@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 254,
+      "members": 253,
       "avgLevel": null,
-      "totalXp": 91746383,
+      "totalXp": 91585624,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -25,9 +25,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 161,
+      "members": 160,
       "topLevel": 20,
-      "totalXp": 88862299,
+      "totalXp": 88720010,
       "serverRank": 2
     },
     {
@@ -41,7 +41,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 45906758,
+      "totalXp": 45958356,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -69,9 +69,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 140,
+      "members": 132,
       "topLevel": 20,
-      "totalXp": 28927946,
+      "totalXp": 28957630,
       "serverRank": 5
     },
     {
@@ -85,7 +85,7 @@
       "created": null,
       "members": 24,
       "topLevel": 20,
-      "totalXp": 21886517,
+      "totalXp": 21958664,
       "serverRank": 6
     },
     {
@@ -113,7 +113,7 @@
       "created": null,
       "members": 47,
       "topLevel": 20,
-      "totalXp": 19485881,
+      "totalXp": 19489545,
       "serverRank": 8
     },
     {
@@ -171,7 +171,7 @@
       "created": null,
       "members": 22,
       "topLevel": 20,
-      "totalXp": 12268478,
+      "totalXp": 12365445,
       "serverRank": 12
     },
     {
@@ -199,7 +199,7 @@
       "created": null,
       "members": 24,
       "topLevel": 20,
-      "totalXp": 10676780,
+      "totalXp": 10693626,
       "serverRank": 14
     },
     {
@@ -227,22 +227,8 @@
       "created": null,
       "members": 13,
       "topLevel": 20,
-      "totalXp": 10086630,
+      "totalXp": 10111848,
       "serverRank": 16
-    },
-    {
-      "id": "beastmode",
-      "name": "Beastmode",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 83,
-      "topLevel": 20,
-      "totalXp": 9570899,
-      "serverRank": 17
     },
     {
       "id": "zooparty",
@@ -255,7 +241,21 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 9544087,
+      "totalXp": 9584320,
+      "serverRank": 17
+    },
+    {
+      "id": "beastmode",
+      "name": "Beastmode",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 83,
+      "topLevel": 20,
+      "totalXp": 9571129,
       "serverRank": 18
     },
     {
@@ -369,9 +369,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 21,
+      "members": 22,
       "topLevel": 20,
-      "totalXp": 6297469,
+      "totalXp": 6318570,
       "serverRank": 26
     },
     {
@@ -473,7 +473,7 @@
       "created": null,
       "members": 6,
       "topLevel": 20,
-      "totalXp": 3598337,
+      "totalXp": 3605844,
       "serverRank": 33
     },
     {
@@ -507,6 +507,20 @@
       "topLevel": 20
     },
     {
+      "id": "veso",
+      "name": "veso",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 17,
+      "topLevel": 20,
+      "totalXp": 3108047,
+      "serverRank": 36
+    },
+    {
       "id": "not-monarchs",
       "name": "NOT MONARCHS",
       "tag": null,
@@ -518,7 +532,7 @@
       "members": 14,
       "avgLevel": null,
       "totalXp": 2710615,
-      "serverRank": 36,
+      "serverRank": 37,
       "topLevel": 20
     },
     {
@@ -533,22 +547,8 @@
       "members": 12,
       "avgLevel": null,
       "totalXp": 2595715,
-      "serverRank": 37,
+      "serverRank": 38,
       "topLevel": 20
-    },
-    {
-      "id": "veso",
-      "name": "veso",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 15,
-      "topLevel": 20,
-      "totalXp": 2580212,
-      "serverRank": 38
     },
     {
       "id": "smoked-meat-log",
@@ -754,6 +754,20 @@
       "topLevel": 20
     },
     {
+      "id": "midnight-cult",
+      "name": "Midnight Cult",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 1482870,
+      "serverRank": 53
+    },
+    {
       "id": "brasil-war",
       "name": "Brasil War",
       "tag": null,
@@ -765,7 +779,7 @@
       "members": 6,
       "avgLevel": null,
       "totalXp": 1463790,
-      "serverRank": 53,
+      "serverRank": 54,
       "topLevel": 20
     },
     {
@@ -780,20 +794,6 @@
       "members": 3,
       "topLevel": 20,
       "totalXp": 1456919,
-      "serverRank": 54
-    },
-    {
-      "id": "midnight-cult",
-      "name": "Midnight Cult",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 1449836,
       "serverRank": 55
     },
     {
@@ -807,7 +807,7 @@
       "created": null,
       "members": 8,
       "topLevel": 20,
-      "totalXp": 1340777,
+      "totalXp": 1354040,
       "serverRank": 56
     },
     {
@@ -951,7 +951,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 849217,
+      "totalXp": 852001,
       "serverRank": 66
     },
     {
