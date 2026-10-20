@@ -12,7 +12,7 @@
       "created": null,
       "members": 254,
       "avgLevel": null,
-      "totalXp": 91445930,
+      "totalXp": 91659842,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 161,
       "topLevel": 20,
-      "totalXp": 88832702,
+      "totalXp": 88834002,
       "serverRank": 2
     },
     {
@@ -41,7 +41,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 45853446,
+      "totalXp": 45903428,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -69,9 +69,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 133,
+      "members": 139,
       "topLevel": 20,
-      "totalXp": 28574107,
+      "totalXp": 28767912,
       "serverRank": 5
     },
     {
@@ -85,7 +85,7 @@
       "created": null,
       "members": 24,
       "topLevel": 20,
-      "totalXp": 21560082,
+      "totalXp": 21621460,
       "serverRank": 6
     },
     {
@@ -171,7 +171,7 @@
       "created": null,
       "members": 22,
       "topLevel": 20,
-      "totalXp": 12185162,
+      "totalXp": 12221921,
       "serverRank": 12
     },
     {
@@ -255,7 +255,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 9341696,
+      "totalXp": 9403581,
       "serverRank": 18
     },
     {
@@ -313,7 +313,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 7031516,
+      "totalXp": 7077547,
       "serverRank": 22
     },
     {
@@ -357,7 +357,7 @@
       "created": null,
       "members": 48,
       "topLevel": 20,
-      "totalXp": 6469410,
+      "totalXp": 6469869,
       "serverRank": 25
     },
     {
@@ -371,7 +371,7 @@
       "created": null,
       "members": 21,
       "topLevel": 20,
-      "totalXp": 6225029,
+      "totalXp": 6252319,
       "serverRank": 26
     },
     {
@@ -473,7 +473,7 @@
       "created": null,
       "members": 6,
       "topLevel": 20,
-      "totalXp": 3570708,
+      "totalXp": 3597529,
       "serverRank": 33
     },
     {
@@ -793,7 +793,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 1446629,
+      "totalXp": 1449836,
       "serverRank": 55
     },
     {
@@ -1589,8 +1589,8 @@
       "serverRank": 109
     },
     {
-      "id": "staff",
-      "name": "STAFF",
+      "id": "stunlock",
+      "name": "Stunlock",
       "tag": null,
       "region": null,
       "lang": null,
@@ -1598,10 +1598,9 @@
       "motto": null,
       "created": null,
       "members": 1,
-      "avgLevel": null,
+      "topLevel": 20,
       "totalXp": 210885,
-      "serverRank": 110,
-      "topLevel": 20
+      "serverRank": 110
     },
     {
       "id": "honey-badgers",
@@ -3395,6 +3394,21 @@
       "topLevel": 20,
       "totalXp": 246377,
       "serverRank": null
+    },
+    {
+      "id": "staff",
+      "name": "STAFF",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "avgLevel": null,
+      "totalXp": 210885,
+      "serverRank": null,
+      "topLevel": 20
     },
     {
       "id": "suhi-tempura-jp",
