@@ -10,9 +10,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 244,
+      "members": 245,
       "avgLevel": null,
-      "totalXp": 92121401,
+      "totalXp": 91383699,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -25,9 +25,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 159,
+      "members": 158,
       "topLevel": 20,
-      "totalXp": 88922154,
+      "totalXp": 88718815,
       "serverRank": 2
     },
     {
@@ -41,7 +41,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 46029988,
+      "totalXp": 46031668,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -69,9 +69,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 140,
+      "members": 139,
       "topLevel": 20,
-      "totalXp": 29251809,
+      "totalXp": 28865293,
       "serverRank": 5
     },
     {
@@ -85,7 +85,7 @@
       "created": null,
       "members": 24,
       "topLevel": 20,
-      "totalXp": 22382665,
+      "totalXp": 22383488,
       "serverRank": 6
     },
     {
@@ -127,7 +127,7 @@
       "created": null,
       "members": 94,
       "avgLevel": null,
-      "totalXp": 16372775,
+      "totalXp": 16373103,
       "serverRank": 9,
       "topLevel": 20
     },
@@ -199,7 +199,7 @@
       "created": null,
       "members": 24,
       "topLevel": 20,
-      "totalXp": 10984949,
+      "totalXp": 10999116,
       "serverRank": 14
     },
     {
@@ -241,7 +241,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 9751642,
+      "totalXp": 9830071,
       "serverRank": 17
     },
     {
@@ -473,7 +473,7 @@
       "created": null,
       "members": 8,
       "topLevel": 20,
-      "totalXp": 3825210,
+      "totalXp": 3836139,
       "serverRank": 33
     },
     {
@@ -590,7 +590,7 @@
       "created": null,
       "members": 4,
       "topLevel": 20,
-      "totalXp": 2213306,
+      "totalXp": 2213978,
       "serverRank": 41
     },
     {
@@ -695,6 +695,20 @@
       "serverRank": 48
     },
     {
+      "id": "chan",
+      "name": "Chan",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 8,
+      "topLevel": 20,
+      "totalXp": 1578529,
+      "serverRank": 49
+    },
+    {
       "id": "the-citadel",
       "name": "The Citadel",
       "tag": null,
@@ -706,7 +720,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 1562959,
-      "serverRank": 49,
+      "serverRank": 50,
       "topLevel": 20
     },
     {
@@ -721,7 +735,7 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1548232,
-      "serverRank": 50,
+      "serverRank": 51,
       "topLevel": 20
     },
     {
@@ -735,21 +749,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 1539871,
-      "serverRank": 51
-    },
-    {
-      "id": "chan",
-      "name": "Chan",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 8,
-      "topLevel": 20,
-      "totalXp": 1534428,
+      "totalXp": 1540650,
       "serverRank": 52
     },
     {
@@ -878,7 +878,7 @@
       "created": null,
       "members": 1,
       "topLevel": 20,
-      "totalXp": 999586,
+      "totalXp": 1007393,
       "serverRank": 61
     },
     {
@@ -1487,6 +1487,20 @@
       "topLevel": 20
     },
     {
+      "id": "nooba",
+      "name": "Nooba",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 239165,
+      "serverRank": 103
+    },
+    {
       "id": "still-alive",
       "name": "Still Alive",
       "tag": null,
@@ -1498,7 +1512,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 236401,
-      "serverRank": 103,
+      "serverRank": 104,
       "topLevel": 20
     },
     {
@@ -1513,20 +1527,6 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 235783,
-      "serverRank": 104
-    },
-    {
-      "id": "staffer",
-      "name": "Staffer",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 235192,
       "serverRank": 105
     },
     {
@@ -3409,6 +3409,20 @@
       "totalXp": 210885,
       "serverRank": null,
       "topLevel": 20
+    },
+    {
+      "id": "staffer",
+      "name": "Staffer",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 235192,
+      "serverRank": null
     },
     {
       "id": "suhi-tempura-jp",
