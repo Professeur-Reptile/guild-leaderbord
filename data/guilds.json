@@ -12,7 +12,7 @@
       "created": null,
       "members": 239,
       "avgLevel": null,
-      "totalXp": 89726067,
+      "totalXp": 89752153,
       "serverRank": 1,
       "topLevel": 20
     },
@@ -27,7 +27,7 @@
       "created": null,
       "members": 158,
       "topLevel": 20,
-      "totalXp": 89132960,
+      "totalXp": 89174201,
       "serverRank": 2
     },
     {
@@ -71,7 +71,7 @@
       "created": null,
       "members": 137,
       "topLevel": 20,
-      "totalXp": 30702240,
+      "totalXp": 30753975,
       "serverRank": 5
     },
     {
@@ -85,7 +85,7 @@
       "created": null,
       "members": 25,
       "topLevel": 20,
-      "totalXp": 23245319,
+      "totalXp": 23247615,
       "serverRank": 6
     },
     {
@@ -146,21 +146,6 @@
       "serverRank": 10
     },
     {
-      "id": "la-clauderie",
-      "name": "La Clauderie",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "serverRank": 11,
-      "members": 91,
-      "avgLevel": null,
-      "totalXp": 12785259,
-      "created": null,
-      "site": null,
-      "motto": null,
-      "topLevel": 20
-    },
-    {
       "id": "bulgaria",
       "name": "BULGARIA",
       "tag": null,
@@ -169,10 +154,25 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 22,
+      "members": 25,
       "topLevel": 20,
-      "totalXp": 12602296,
-      "serverRank": 12
+      "totalXp": 12840582,
+      "serverRank": 11
+    },
+    {
+      "id": "la-clauderie",
+      "name": "La Clauderie",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "serverRank": 12,
+      "members": 91,
+      "avgLevel": null,
+      "totalXp": 12785259,
+      "created": null,
+      "site": null,
+      "motto": null,
+      "topLevel": 20
     },
     {
       "id": "a-guilda",
@@ -199,7 +199,7 @@
       "created": null,
       "members": 24,
       "topLevel": 20,
-      "totalXp": 11062504,
+      "totalXp": 11155197,
       "serverRank": 14
     },
     {
@@ -213,7 +213,7 @@
       "created": null,
       "members": 15,
       "topLevel": 20,
-      "totalXp": 10858761,
+      "totalXp": 11010369,
       "serverRank": 15
     },
     {
@@ -227,7 +227,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 10253623,
+      "totalXp": 10271984,
       "serverRank": 16
     },
     {
@@ -274,6 +274,20 @@
       "topLevel": 20
     },
     {
+      "id": "sparta",
+      "name": "SPARTA",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 44,
+      "topLevel": 20,
+      "totalXp": 8728320,
+      "serverRank": 20
+    },
+    {
       "id": "world-of-claudecraft",
       "name": "World of ClaudeCraft",
       "tag": null,
@@ -285,20 +299,6 @@
       "members": 10,
       "topLevel": 20,
       "totalXp": 8502833,
-      "serverRank": 20
-    },
-    {
-      "id": "sparta",
-      "name": "SPARTA",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 35,
-      "topLevel": 20,
-      "totalXp": 8255431,
       "serverRank": 21
     },
     {
@@ -458,7 +458,7 @@
       "created": null,
       "members": 8,
       "topLevel": 20,
-      "totalXp": 3954382,
+      "totalXp": 3954606,
       "serverRank": 32
     },
     {
@@ -680,6 +680,20 @@
       "topLevel": 20
     },
     {
+      "id": "midnight-cult",
+      "name": "Midnight Cult",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 1,
+      "topLevel": 20,
+      "totalXp": 1625296,
+      "serverRank": 48
+    },
+    {
       "id": "goon-squad",
       "name": "Goon Squad",
       "tag": null,
@@ -691,7 +705,7 @@
       "members": 9,
       "avgLevel": null,
       "totalXp": 1610334,
-      "serverRank": 48,
+      "serverRank": 49,
       "topLevel": 20
     },
     {
@@ -706,7 +720,7 @@
       "members": 10,
       "topLevel": 20,
       "totalXp": 1609886,
-      "serverRank": 49
+      "serverRank": 50
     },
     {
       "id": "chan",
@@ -719,21 +733,7 @@
       "created": null,
       "members": 8,
       "topLevel": 20,
-      "totalXp": 1606186,
-      "serverRank": 50
-    },
-    {
-      "id": "midnight-cult",
-      "name": "Midnight Cult",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 1,
-      "topLevel": 20,
-      "totalXp": 1574052,
+      "totalXp": 1608970,
       "serverRank": 51
     },
     {
@@ -1213,9 +1213,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 3,
+      "members": 5,
       "topLevel": 20,
-      "totalXp": 396831,
+      "totalXp": 400024,
       "serverRank": 84
     },
     {
@@ -1881,6 +1881,20 @@
       "topLevel": 12
     },
     {
+      "id": "bhaltisis",
+      "name": "Bhaltisis",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 6,
+      "topLevel": 13,
+      "totalXp": 62752,
+      "serverRank": 130
+    },
+    {
       "id": "the-more-the-merrier",
       "name": "The More The Merrier",
       "tag": null,
@@ -1892,7 +1906,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 61321,
-      "serverRank": 130,
+      "serverRank": 131,
       "topLevel": 10
     },
     {
@@ -1907,7 +1921,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 57877,
-      "serverRank": 131,
+      "serverRank": 132,
       "topLevel": 10
     },
     {
@@ -1922,7 +1936,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 55214,
-      "serverRank": 132,
+      "serverRank": 133,
       "topLevel": 10
     },
     {
@@ -1937,22 +1951,8 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 54513,
-      "serverRank": 133,
+      "serverRank": 134,
       "topLevel": 13
-    },
-    {
-      "id": "bhaltisis",
-      "name": "Bhaltisis",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 6,
-      "topLevel": 13,
-      "totalXp": 54244,
-      "serverRank": 134
     },
     {
       "id": "tabula-rasa",
