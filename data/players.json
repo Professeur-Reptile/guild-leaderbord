@@ -29,7 +29,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 53,
-      "lifetimeXp": 5731433,
+      "lifetimeXp": 5734395,
       "prestigeRank": 234,
       "title": "pvp_honor_knight_lieutenant"
     },
@@ -159,7 +159,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 47,
-      "lifetimeXp": 3078098,
+      "lifetimeXp": 3081704,
       "prestigeRank": 69,
       "title": "prog_rift_watch_champion"
     },
@@ -189,7 +189,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 46,
-      "lifetimeXp": 2784053,
+      "lifetimeXp": 2789796,
       "prestigeRank": 0,
       "title": "chr_vale_chapter_iii"
     },
@@ -255,6 +255,16 @@
     },
     {
       "rank": 26,
+      "name": "Duallam",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 43,
+      "lifetimeXp": 2198474,
+      "prestigeRank": 76,
+      "title": null
+    },
+    {
+      "rank": 27,
       "name": "TriLinkle",
       "cls": "paladin",
       "level": 20,
@@ -264,23 +274,13 @@
       "title": null
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "thirteen",
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 43,
       "lifetimeXp": 2163078,
       "prestigeRank": 13,
-      "title": null
-    },
-    {
-      "rank": 28,
-      "name": "Duallam",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 43,
-      "lifetimeXp": 2149226,
-      "prestigeRank": 76,
       "title": null
     },
     {
@@ -549,7 +549,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1550635,
+      "lifetimeXp": 1558874,
       "prestigeRank": 0,
       "title": null
     },
@@ -1019,7 +1019,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1106312,
+      "lifetimeXp": 1106594,
       "prestigeRank": 23,
       "title": "prog_farming_100"
     },
@@ -1065,6 +1065,16 @@
     },
     {
       "rank": 107,
+      "name": "ZooLot",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 36,
+      "lifetimeXp": 1093759,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 108,
       "name": "haerin",
       "cls": "hunter",
       "level": 20,
@@ -1072,16 +1082,6 @@
       "lifetimeXp": 1093057,
       "prestigeRank": 27,
       "title": "col_reliquary_rank_4"
-    },
-    {
-      "rank": 108,
-      "name": "ZooLot",
-      "cls": "hunter",
-      "level": 20,
-      "virtualLevel": 36,
-      "lifetimeXp": 1092280,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 109,
@@ -1105,6 +1105,16 @@
     },
     {
       "rank": 111,
+      "name": "HanzoKay",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 36,
+      "lifetimeXp": 1086510,
+      "prestigeRank": 29,
+      "title": "prog_farming_100"
+    },
+    {
+      "rank": 112,
       "name": "erass",
       "cls": "rogue",
       "level": 20,
@@ -1112,16 +1122,6 @@
       "lifetimeXp": 1085823,
       "prestigeRank": 0,
       "title": "dgn_korzul_flawless"
-    },
-    {
-      "rank": 112,
-      "name": "HanzoKay",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 36,
-      "lifetimeXp": 1084136,
-      "prestigeRank": 29,
-      "title": "prog_farming_100"
     },
     {
       "rank": 113,
