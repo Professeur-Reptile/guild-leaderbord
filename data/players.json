@@ -29,8 +29,8 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 54,
-      "lifetimeXp": 5876386,
-      "prestigeRank": 243,
+      "lifetimeXp": 5884026,
+      "prestigeRank": 246,
       "title": "pvp_honor_knight_lieutenant"
     },
     {
@@ -89,7 +89,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3448101,
+      "lifetimeXp": 3485064,
       "prestigeRank": 10,
       "title": "prog_farming_100"
     },
@@ -105,6 +105,16 @@
     },
     {
       "rank": 11,
+      "name": "eerreee",
+      "cls": "rogue",
+      "level": 20,
+      "virtualLevel": 47,
+      "lifetimeXp": 3271091,
+      "prestigeRank": 42,
+      "title": "pvp_flag_1h"
+    },
+    {
+      "rank": 12,
       "name": "Archijuste",
       "cls": "hunter",
       "level": 20,
@@ -112,16 +122,6 @@
       "lifetimeXp": 3265152,
       "prestigeRank": 0,
       "title": "prog_mythic"
-    },
-    {
-      "rank": 12,
-      "name": "eerreee",
-      "cls": "rogue",
-      "level": 20,
-      "virtualLevel": 47,
-      "lifetimeXp": 3241812,
-      "prestigeRank": 42,
-      "title": "pvp_flag_1h"
     },
     {
       "rank": 13,
@@ -159,7 +159,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 47,
-      "lifetimeXp": 3133882,
+      "lifetimeXp": 3135828,
       "prestigeRank": 69,
       "title": "prog_rift_watch_champion"
     },
@@ -199,7 +199,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 46,
-      "lifetimeXp": 2788297,
+      "lifetimeXp": 2791237,
       "prestigeRank": 109,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -249,7 +249,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 44,
-      "lifetimeXp": 2319433,
+      "lifetimeXp": 2322494,
       "prestigeRank": 76,
       "title": null
     },
@@ -319,12 +319,22 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 43,
-      "lifetimeXp": 2027907,
+      "lifetimeXp": 2048546,
       "prestigeRank": 0,
       "title": null
     },
     {
       "rank": 33,
+      "name": "Fizban",
+      "cls": "mage",
+      "level": 20,
+      "virtualLevel": 42,
+      "lifetimeXp": 2000625,
+      "prestigeRank": 2,
+      "title": "dgn_varkhul_flawless"
+    },
+    {
+      "rank": 34,
       "name": "Potanchy",
       "cls": "paladin",
       "level": 20,
@@ -332,16 +342,6 @@
       "lifetimeXp": 1981498,
       "prestigeRank": 45,
       "title": "pvp_flag_3h"
-    },
-    {
-      "rank": 34,
-      "name": "Fizban",
-      "cls": "mage",
-      "level": 20,
-      "virtualLevel": 42,
-      "lifetimeXp": 1978878,
-      "prestigeRank": 2,
-      "title": "dgn_varkhul_flawless"
     },
     {
       "rank": 35,
@@ -395,6 +395,16 @@
     },
     {
       "rank": 40,
+      "name": "Stormypelepin",
+      "cls": "shaman",
+      "level": 20,
+      "virtualLevel": 41,
+      "lifetimeXp": 1782686,
+      "prestigeRank": 69,
+      "title": "col_reliquary_rank_2"
+    },
+    {
+      "rank": 41,
       "name": "Barbaris",
       "cls": "rogue",
       "level": 20,
@@ -404,7 +414,7 @@
       "title": "pvp_flag_24h"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "era",
       "cls": "rogue",
       "level": 20,
@@ -414,7 +424,7 @@
       "title": "soc_market_magnate"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "Pabletah",
       "cls": "warrior",
       "level": 20,
@@ -422,16 +432,6 @@
       "lifetimeXp": 1767408,
       "prestigeRank": 68,
       "title": null
-    },
-    {
-      "rank": 43,
-      "name": "Stormypelepin",
-      "cls": "shaman",
-      "level": 20,
-      "virtualLevel": 41,
-      "lifetimeXp": 1751594,
-      "prestigeRank": 68,
-      "title": "col_reliquary_rank_2"
     },
     {
       "rank": 44,
@@ -595,6 +595,16 @@
     },
     {
       "rank": 60,
+      "name": "Marssu",
+      "cls": "warlock",
+      "level": 20,
+      "virtualLevel": 40,
+      "lifetimeXp": 1499295,
+      "prestigeRank": 57,
+      "title": null
+    },
+    {
+      "rank": 61,
       "name": "Kokolina",
       "cls": "priest",
       "level": 20,
@@ -604,7 +614,7 @@
       "title": "dgn_varkhul_flawless"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "name": "eree",
       "cls": "rogue",
       "level": 20,
@@ -614,7 +624,7 @@
       "title": null
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "Ferax",
       "cls": "paladin",
       "level": 20,
@@ -622,16 +632,6 @@
       "lifetimeXp": 1455220,
       "prestigeRank": 0,
       "title": "col_reliquary_rank_4"
-    },
-    {
-      "rank": 63,
-      "name": "Marssu",
-      "cls": "warlock",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1454477,
-      "prestigeRank": 54,
-      "title": null
     },
     {
       "rank": 64,
@@ -675,6 +675,16 @@
     },
     {
       "rank": 68,
+      "name": "eras",
+      "cls": "rogue",
+      "level": 20,
+      "virtualLevel": 39,
+      "lifetimeXp": 1388586,
+      "prestigeRank": 10,
+      "title": "prog_champion"
+    },
+    {
+      "rank": 69,
       "name": "Shkuroshyup",
       "cls": "mage",
       "level": 20,
@@ -684,17 +694,17 @@
       "title": null
     },
     {
-      "rank": 69,
-      "name": "eras",
-      "cls": "rogue",
+      "rank": 70,
+      "name": "Jorix",
+      "cls": "druid",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1382141,
-      "prestigeRank": 10,
-      "title": "prog_champion"
+      "lifetimeXp": 1380313,
+      "prestigeRank": 49,
+      "title": "dlv_nhalia_bells"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "name": "Hooga",
       "cls": "hunter",
       "level": 20,
@@ -702,16 +712,6 @@
       "lifetimeXp": 1376978,
       "prestigeRank": 51,
       "title": "col_reliquary_rank_4"
-    },
-    {
-      "rank": 71,
-      "name": "Jorix",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1370996,
-      "prestigeRank": 49,
-      "title": "dlv_nhalia_bells"
     },
     {
       "rank": 72,
@@ -765,6 +765,16 @@
     },
     {
       "rank": 77,
+      "name": "Eihaba Yujdicc",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 38,
+      "lifetimeXp": 1302334,
+      "prestigeRank": 12,
+      "title": null
+    },
+    {
+      "rank": 78,
       "name": "Sir-G",
       "cls": "paladin",
       "level": 20,
@@ -772,16 +782,6 @@
       "lifetimeXp": 1300475,
       "prestigeRank": 0,
       "title": "exp_world_traveler"
-    },
-    {
-      "rank": 78,
-      "name": "Eihaba Yujdicc",
-      "cls": "warrior",
-      "level": 20,
-      "virtualLevel": 38,
-      "lifetimeXp": 1298754,
-      "prestigeRank": 12,
-      "title": null
     },
     {
       "rank": 79,
@@ -989,7 +989,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1142715,
+      "lifetimeXp": 1145935,
       "prestigeRank": 6,
       "title": "dlv_nhalia_bells"
     },
@@ -1109,7 +1109,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1090291,
+      "lifetimeXp": 1090374,
       "prestigeRank": 0,
       "title": "dgn_korzul_flawless"
     },
@@ -1149,7 +1149,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1075139,
+      "lifetimeXp": 1075653,
       "prestigeRank": 39,
       "title": "prog_mythic"
     },
@@ -1309,7 +1309,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 985706,
+      "lifetimeXp": 985830,
       "prestigeRank": 0,
       "title": null
     },
@@ -1339,7 +1339,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 960669,
+      "lifetimeXp": 963515,
       "prestigeRank": 34,
       "title": null
     },
@@ -1465,6 +1465,16 @@
     },
     {
       "rank": 147,
+      "name": "SirDubalot",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 35,
+      "lifetimeXp": 921361,
+      "prestigeRank": 31,
+      "title": "prog_mythic"
+    },
+    {
+      "rank": 148,
       "name": "Gosho",
       "cls": "hunter",
       "level": 20,
@@ -1474,7 +1484,7 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 148,
+      "rank": 149,
       "name": "nullis",
       "cls": "druid",
       "level": 20,
@@ -1484,7 +1494,17 @@
       "title": "prog_grandmaster_alchemy"
     },
     {
-      "rank": 149,
+      "rank": 150,
+      "name": "Azechu",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 35,
+      "lifetimeXp": 915575,
+      "prestigeRank": 10,
+      "title": "prog_grandmaster_enchanting"
+    },
+    {
+      "rank": 151,
       "name": "xSPx",
       "cls": "rogue",
       "level": 20,
@@ -1494,17 +1514,7 @@
       "title": "prog_champion"
     },
     {
-      "rank": 150,
-      "name": "Azechu",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 35,
-      "lifetimeXp": 913712,
-      "prestigeRank": 10,
-      "title": "prog_grandmaster_enchanting"
-    },
-    {
-      "rank": 151,
+      "rank": 152,
       "name": "Yycaruz",
       "cls": "druid",
       "level": 20,
@@ -1512,16 +1522,6 @@
       "lifetimeXp": 913047,
       "prestigeRank": 31,
       "title": "col_reliquary_illum_thunzharr"
-    },
-    {
-      "rank": 152,
-      "name": "SirDubalot",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 35,
-      "lifetimeXp": 909528,
-      "prestigeRank": 31,
-      "title": "prog_mythic"
     },
     {
       "rank": 153,
@@ -1905,6 +1905,16 @@
     },
     {
       "rank": 191,
+      "name": "Wardim",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 837048,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 192,
       "name": "Mace",
       "cls": "mage",
       "level": 20,
@@ -1914,7 +1924,7 @@
       "title": "soc_market_magnate"
     },
     {
-      "rank": 192,
+      "rank": 193,
       "name": "WhoopWhoop",
       "cls": "shaman",
       "level": 20,
@@ -1924,7 +1934,7 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 193,
+      "rank": 194,
       "name": "SAVIOR",
       "cls": "paladin",
       "level": 20,
@@ -1934,7 +1944,7 @@
       "title": null
     },
     {
-      "rank": 194,
+      "rank": 195,
       "name": "Klonk",
       "cls": "paladin",
       "level": 20,
@@ -1944,7 +1954,7 @@
       "title": null
     },
     {
-      "rank": 195,
+      "rank": 196,
       "name": "Akitam",
       "cls": "paladin",
       "level": 20,
@@ -1954,7 +1964,7 @@
       "title": null
     },
     {
-      "rank": 196,
+      "rank": 197,
       "name": "heavy",
       "cls": "warrior",
       "level": 20,
@@ -1964,22 +1974,12 @@
       "title": null
     },
     {
-      "rank": 197,
+      "rank": 198,
       "name": "Dathios",
       "cls": "mage",
       "level": 20,
       "virtualLevel": 34,
       "lifetimeXp": 828646,
-      "prestigeRank": 0,
-      "title": null
-    },
-    {
-      "rank": 198,
-      "name": "Wardim",
-      "cls": "warrior",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 827529,
       "prestigeRank": 0,
       "title": null
     },
