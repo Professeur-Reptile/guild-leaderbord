@@ -2,21 +2,6 @@
   "_help": "Registry of guilds on the Boards. serverRank/members/avgLevel/totalXp are synced automatically from the game's official leaderboard API by scripts/sync_guilds.py (3-hour cron, see update-guilds.yml) — do not edit them by hand. Editorial fields (tag, region, lang, site, motto, created) are managed via issues/PRs and never touched by the sync. null renders as '—' on the site.",
   "guilds": [
     {
-      "id": "raiders-united",
-      "name": "Raiders United",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 237,
-      "avgLevel": null,
-      "totalXp": 90116310,
-      "serverRank": 1,
-      "topLevel": 20
-    },
-    {
       "id": "sovereign",
       "name": "Sovereign",
       "tag": null,
@@ -28,7 +13,22 @@
       "members": 160,
       "topLevel": 20,
       "totalXp": 89798901,
-      "serverRank": 2
+      "serverRank": 1
+    },
+    {
+      "id": "raiders-united",
+      "name": "Raiders United",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 236,
+      "avgLevel": null,
+      "totalXp": 89680274,
+      "serverRank": 2,
+      "topLevel": 20
     },
     {
       "id": "monarchs",
@@ -41,7 +41,7 @@
       "created": null,
       "members": 80,
       "avgLevel": null,
-      "totalXp": 46523646,
+      "totalXp": 46523736,
       "serverRank": 3,
       "topLevel": 20
     },
@@ -69,9 +69,9 @@
       "site": null,
       "motto": null,
       "created": null,
-      "members": 138,
+      "members": 139,
       "topLevel": 20,
-      "totalXp": 30278881,
+      "totalXp": 30285420,
       "serverRank": 5
     },
     {
@@ -85,7 +85,7 @@
       "created": null,
       "members": 27,
       "topLevel": 20,
-      "totalXp": 24618217,
+      "totalXp": 24673404,
       "serverRank": 6
     },
     {
@@ -199,7 +199,7 @@
       "created": null,
       "members": 61,
       "topLevel": 20,
-      "totalXp": 11785170,
+      "totalXp": 11805955,
       "serverRank": 14
     },
     {
@@ -213,7 +213,7 @@
       "created": null,
       "members": 9,
       "topLevel": 20,
-      "totalXp": 11459118,
+      "totalXp": 11541847,
       "serverRank": 15
     },
     {
@@ -227,7 +227,7 @@
       "created": null,
       "members": 15,
       "topLevel": 20,
-      "totalXp": 11417986,
+      "totalXp": 11450724,
       "serverRank": 16
     },
     {
@@ -241,7 +241,7 @@
       "created": null,
       "members": 24,
       "topLevel": 20,
-      "totalXp": 11267355,
+      "totalXp": 11267558,
       "serverRank": 17
     },
     {
@@ -327,7 +327,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 7473413,
+      "totalXp": 7521945,
       "serverRank": 23
     },
     {
@@ -414,7 +414,7 @@
       "created": null,
       "members": 17,
       "topLevel": 20,
-      "totalXp": 5290450,
+      "totalXp": 5293752,
       "serverRank": 29
     },
     {
@@ -458,7 +458,7 @@
       "created": null,
       "members": 8,
       "topLevel": 20,
-      "totalXp": 4125186,
+      "totalXp": 4125466,
       "serverRank": 32
     },
     {
@@ -867,6 +867,20 @@
       "serverRank": 60
     },
     {
+      "id": "posta-de-bacalhau",
+      "name": "Posta de Bacalhau",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 8,
+      "topLevel": 20,
+      "totalXp": 1033100,
+      "serverRank": 61
+    },
+    {
       "id": "journey-back",
       "name": "Journey Back",
       "tag": null,
@@ -878,7 +892,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 1008571,
-      "serverRank": 61,
+      "serverRank": 62,
       "topLevel": 20
     },
     {
@@ -893,7 +907,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 1007393,
-      "serverRank": 62
+      "serverRank": 63
     },
     {
       "id": "fortuna-guild",
@@ -907,7 +921,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 965007,
-      "serverRank": 63,
+      "serverRank": 64,
       "topLevel": 20
     },
     {
@@ -922,7 +936,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 904504,
-      "serverRank": 64,
+      "serverRank": 65,
       "topLevel": 20
     },
     {
@@ -937,7 +951,7 @@
       "members": 37,
       "avgLevel": null,
       "totalXp": 888131,
-      "serverRank": 65,
+      "serverRank": 66,
       "topLevel": 20
     },
     {
@@ -952,7 +966,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 871771,
-      "serverRank": 66
+      "serverRank": 67
     },
     {
       "id": "bauchnabelfussel",
@@ -966,7 +980,7 @@
       "members": 9,
       "topLevel": 20,
       "totalXp": 852001,
-      "serverRank": 67
+      "serverRank": 68
     },
     {
       "id": "midnight-smoke-circle",
@@ -980,7 +994,7 @@
       "members": 1,
       "topLevel": 20,
       "totalXp": 846042,
-      "serverRank": 68
+      "serverRank": 69
     },
     {
       "id": "avalon",
@@ -994,7 +1008,7 @@
       "members": 2,
       "avgLevel": null,
       "totalXp": 810269,
-      "serverRank": 69,
+      "serverRank": 70,
       "topLevel": 20
     },
     {
@@ -1009,7 +1023,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 718947,
-      "serverRank": 70,
+      "serverRank": 71,
       "topLevel": 20
     },
     {
@@ -1024,7 +1038,7 @@
       "members": 3,
       "topLevel": 20,
       "totalXp": 712006,
-      "serverRank": 71
+      "serverRank": 72
     },
     {
       "id": "levy-street",
@@ -1038,7 +1052,7 @@
       "members": 4,
       "avgLevel": null,
       "totalXp": 704594,
-      "serverRank": 72,
+      "serverRank": 73,
       "topLevel": 20
     },
     {
@@ -1053,7 +1067,7 @@
       "members": 3,
       "avgLevel": null,
       "totalXp": 619619,
-      "serverRank": 73,
+      "serverRank": 74,
       "topLevel": 20
     },
     {
@@ -1068,7 +1082,7 @@
       "members": 1,
       "avgLevel": null,
       "totalXp": 604824,
-      "serverRank": 74,
+      "serverRank": 75,
       "topLevel": 20
     },
     {
@@ -1083,22 +1097,8 @@
       "members": 5,
       "avgLevel": null,
       "totalXp": 601587,
-      "serverRank": 75,
+      "serverRank": 76,
       "topLevel": 20
-    },
-    {
-      "id": "posta-de-bacalhau",
-      "name": "Posta de Bacalhau",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 7,
-      "topLevel": 20,
-      "totalXp": 558961,
-      "serverRank": 76
     },
     {
       "id": "ottoman",
@@ -1200,7 +1200,7 @@
       "created": null,
       "members": 1,
       "avgLevel": null,
-      "totalXp": 435869,
+      "totalXp": 436530,
       "serverRank": 83,
       "topLevel": 20
     },
