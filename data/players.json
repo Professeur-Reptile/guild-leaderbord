@@ -29,7 +29,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 54,
-      "lifetimeXp": 5990514,
+      "lifetimeXp": 6027273,
       "prestigeRank": 251,
       "title": "pvp_honor_knight_lieutenant"
     },
@@ -59,7 +59,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 51,
-      "lifetimeXp": 4564648,
+      "lifetimeXp": 4569558,
       "prestigeRank": 185,
       "title": "prog_mythic"
     },
@@ -79,7 +79,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3579105,
+      "lifetimeXp": 3604973,
       "prestigeRank": 10,
       "title": "prog_farming_100"
     },
@@ -109,7 +109,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3363433,
+      "lifetimeXp": 3394137,
       "prestigeRank": 42,
       "title": "pvp_flag_1h"
     },
@@ -178,8 +178,8 @@
       "name": "Bastian",
       "cls": "warrior",
       "level": 20,
-      "virtualLevel": 46,
-      "lifetimeXp": 2944599,
+      "virtualLevel": 47,
+      "lifetimeXp": 3000420,
       "prestigeRank": 109,
       "title": "feat_pumpkin_hunter"
     },
@@ -199,7 +199,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 46,
-      "lifetimeXp": 2865310,
+      "lifetimeXp": 2923367,
       "prestigeRank": 0,
       "title": "chr_vale_chapter_iii"
     },
@@ -209,7 +209,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 46,
-      "lifetimeXp": 2779947,
+      "lifetimeXp": 2807772,
       "prestigeRank": 0,
       "title": null
     },
@@ -228,8 +228,8 @@
       "name": "Duallam",
       "cls": "paladin",
       "level": 20,
-      "virtualLevel": 44,
-      "lifetimeXp": 2439164,
+      "virtualLevel": 45,
+      "lifetimeXp": 2508231,
       "prestigeRank": 76,
       "title": null
     },
@@ -299,7 +299,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 43,
-      "lifetimeXp": 2156973,
+      "lifetimeXp": 2157023,
       "prestigeRank": 0,
       "title": null
     },
@@ -309,7 +309,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 43,
-      "lifetimeXp": 2061136,
+      "lifetimeXp": 2071563,
       "prestigeRank": 81,
       "title": null
     },
@@ -399,7 +399,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 41,
-      "lifetimeXp": 1801197,
+      "lifetimeXp": 1804259,
       "prestigeRank": 20,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -435,6 +435,16 @@
     },
     {
       "rank": 44,
+      "name": "Ghostdog",
+      "cls": "shaman",
+      "level": 20,
+      "virtualLevel": 41,
+      "lifetimeXp": 1743971,
+      "prestigeRank": 26,
+      "title": "col_reliquary_illum_gravewyrm_heroic"
+    },
+    {
+      "rank": 45,
       "name": "Wiccah",
       "cls": "druid",
       "level": 20,
@@ -444,24 +454,14 @@
       "title": "prog_rift_watch_champion"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "Drudecca",
       "cls": "druid",
       "level": 20,
       "virtualLevel": 41,
-      "lifetimeXp": 1738042,
+      "lifetimeXp": 1738092,
       "prestigeRank": 0,
       "title": null
-    },
-    {
-      "rank": 46,
-      "name": "Ghostdog",
-      "cls": "shaman",
-      "level": 20,
-      "virtualLevel": 41,
-      "lifetimeXp": 1708470,
-      "prestigeRank": 26,
-      "title": "col_reliquary_illum_gravewyrm_heroic"
     },
     {
       "rank": 47,
@@ -639,7 +639,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1423109,
+      "lifetimeXp": 1423257,
       "prestigeRank": 0,
       "title": "feat_title_trickster"
     },
@@ -739,7 +739,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1333458,
+      "lifetimeXp": 1333508,
       "prestigeRank": 0,
       "title": null
     },
@@ -859,7 +859,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1237833,
+      "lifetimeXp": 1237927,
       "prestigeRank": 0,
       "title": null
     },
@@ -889,7 +889,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1226545,
+      "lifetimeXp": 1226595,
       "prestigeRank": 0,
       "title": null
     },
@@ -919,7 +919,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1191384,
+      "lifetimeXp": 1191434,
       "prestigeRank": 0,
       "title": null
     },
@@ -989,7 +989,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1154040,
+      "lifetimeXp": 1154090,
       "prestigeRank": 0,
       "title": null
     },
@@ -999,7 +999,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1145935,
+      "lifetimeXp": 1148719,
       "prestigeRank": 6,
       "title": "dlv_nhalia_bells"
     },
@@ -1229,7 +1229,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1017364,
+      "lifetimeXp": 1017414,
       "prestigeRank": 0,
       "title": null
     },
@@ -1275,6 +1275,16 @@
     },
     {
       "rank": 128,
+      "name": "Rikimaru",
+      "cls": "rogue",
+      "level": 20,
+      "virtualLevel": 35,
+      "lifetimeXp": 995626,
+      "prestigeRank": 0,
+      "title": "col_reliquary_illum_gravewyrm_heroic"
+    },
+    {
+      "rank": 129,
       "name": "Candyman",
       "cls": "warrior",
       "level": 20,
@@ -1284,7 +1294,7 @@
       "title": "cmb_thunzharr_unbroken"
     },
     {
-      "rank": 129,
+      "rank": 130,
       "name": "Lady Aleena",
       "cls": "hunter",
       "level": 20,
@@ -1294,22 +1304,12 @@
       "title": null
     },
     {
-      "rank": 130,
-      "name": "Rikimaru",
-      "cls": "rogue",
-      "level": 20,
-      "virtualLevel": 35,
-      "lifetimeXp": 992564,
-      "prestigeRank": 0,
-      "title": "col_reliquary_illum_gravewyrm_heroic"
-    },
-    {
       "rank": 131,
       "name": "Niecia",
       "cls": "priest",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 986045,
+      "lifetimeXp": 989107,
       "prestigeRank": 0,
       "title": null
     },
@@ -1429,7 +1429,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 929962,
+      "lifetimeXp": 930056,
       "prestigeRank": 27,
       "title": "prog_champion"
     },
