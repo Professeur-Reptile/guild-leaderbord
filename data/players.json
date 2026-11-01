@@ -59,8 +59,8 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 51,
-      "lifetimeXp": 4691782,
-      "prestigeRank": 193,
+      "lifetimeXp": 4716095,
+      "prestigeRank": 196,
       "title": "prog_mythic"
     },
     {
@@ -265,6 +265,16 @@
     },
     {
       "rank": 27,
+      "name": "Paladream",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 44,
+      "lifetimeXp": 2247225,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 28,
       "name": "Rtype",
       "cls": "hunter",
       "level": 20,
@@ -272,16 +282,6 @@
       "lifetimeXp": 2240934,
       "prestigeRank": 89,
       "title": "prog_veteran"
-    },
-    {
-      "rank": 28,
-      "name": "Paladream",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 43,
-      "lifetimeXp": 2204718,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 29,
@@ -639,7 +639,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1439451,
+      "lifetimeXp": 1446798,
       "prestigeRank": 0,
       "title": "feat_title_trickster"
     },
@@ -689,12 +689,22 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1386476,
+      "lifetimeXp": 1389498,
       "prestigeRank": 49,
       "title": "dlv_nhalia_bells"
     },
     {
       "rank": 70,
+      "name": "AlexSacer",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 39,
+      "lifetimeXp": 1385100,
+      "prestigeRank": 0,
+      "title": "col_reliquary_rank_4"
+    },
+    {
+      "rank": 71,
       "name": "Shkuroshyup",
       "cls": "mage",
       "level": 20,
@@ -704,23 +714,13 @@
       "title": null
     },
     {
-      "rank": 71,
+      "rank": 72,
       "name": "Hooga",
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 39,
       "lifetimeXp": 1376978,
       "prestigeRank": 51,
-      "title": "col_reliquary_rank_4"
-    },
-    {
-      "rank": 72,
-      "name": "AlexSacer",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1372793,
-      "prestigeRank": 0,
       "title": "col_reliquary_rank_4"
     },
     {
@@ -1059,7 +1059,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1100023,
+      "lifetimeXp": 1101123,
       "prestigeRank": 0,
       "title": null
     },
@@ -1525,6 +1525,16 @@
     },
     {
       "rank": 153,
+      "name": "laggyleggy",
+      "cls": "shaman",
+      "level": 20,
+      "virtualLevel": 35,
+      "lifetimeXp": 916353,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 154,
       "name": "xSPx",
       "cls": "rogue",
       "level": 20,
@@ -1534,7 +1544,7 @@
       "title": "prog_champion"
     },
     {
-      "rank": 154,
+      "rank": 155,
       "name": "Yycaruz",
       "cls": "druid",
       "level": 20,
@@ -1544,22 +1554,12 @@
       "title": "col_reliquary_illum_thunzharr"
     },
     {
-      "rank": 155,
+      "rank": 156,
       "name": "lolakassss",
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 35,
       "lifetimeXp": 908111,
-      "prestigeRank": 0,
-      "title": null
-    },
-    {
-      "rank": 156,
-      "name": "laggyleggy",
-      "cls": "shaman",
-      "level": 20,
-      "virtualLevel": 35,
-      "lifetimeXp": 905966,
       "prestigeRank": 0,
       "title": null
     },
