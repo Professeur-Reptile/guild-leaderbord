@@ -79,7 +79,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 49,
-      "lifetimeXp": 3744144,
+      "lifetimeXp": 3746421,
       "prestigeRank": 10,
       "title": "prog_farming_100"
     },
@@ -179,7 +179,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 47,
-      "lifetimeXp": 3155406,
+      "lifetimeXp": 3155526,
       "prestigeRank": 0,
       "title": "chr_vale_chapter_iii"
     },
@@ -269,7 +269,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 44,
-      "lifetimeXp": 2323778,
+      "lifetimeXp": 2330705,
       "prestigeRank": 0,
       "title": null
     },
@@ -609,7 +609,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1472773,
+      "lifetimeXp": 1472895,
       "prestigeRank": 0,
       "title": "feat_title_trickster"
     },
@@ -649,7 +649,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1408058,
+      "lifetimeXp": 1409583,
       "prestigeRank": 0,
       "title": "dgn_drowned_temple_cantor"
     },
@@ -959,7 +959,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1183533,
+      "lifetimeXp": 1186317,
       "prestigeRank": 6,
       "title": "dlv_nhalia_bells"
     },
@@ -1029,7 +1029,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1119705,
+      "lifetimeXp": 1119816,
       "prestigeRank": 23,
       "title": "prog_farming_100"
     },
@@ -1069,7 +1069,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1102640,
+      "lifetimeXp": 1102723,
       "prestigeRank": 35,
       "title": "prog_mythic"
     },
@@ -1185,6 +1185,16 @@
     },
     {
       "rank": 119,
+      "name": "laggyleggy",
+      "cls": "shaman",
+      "level": 20,
+      "virtualLevel": 36,
+      "lifetimeXp": 1051164,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 120,
       "name": "Ceyms",
       "cls": "mage",
       "level": 20,
@@ -1194,7 +1204,7 @@
       "title": "prog_masterwright"
     },
     {
-      "rank": 120,
+      "rank": 121,
       "name": "Valkyria",
       "cls": "druid",
       "level": 20,
@@ -1204,7 +1214,7 @@
       "title": null
     },
     {
-      "rank": 121,
+      "rank": 122,
       "name": "Hunters",
       "cls": "hunter",
       "level": 20,
@@ -1214,7 +1224,7 @@
       "title": "prog_paragon"
     },
     {
-      "rank": 122,
+      "rank": 123,
       "name": "tacopriest",
       "cls": "priest",
       "level": 20,
@@ -1224,7 +1234,7 @@
       "title": "dgn_varkhul_flawless"
     },
     {
-      "rank": 123,
+      "rank": 124,
       "name": "LilyLuna",
       "cls": "warlock",
       "level": 20,
@@ -1234,7 +1244,7 @@
       "title": "cmb_thunzharr_unbroken"
     },
     {
-      "rank": 124,
+      "rank": 125,
       "name": "ZooLit",
       "cls": "hunter",
       "level": 20,
@@ -1244,7 +1254,7 @@
       "title": null
     },
     {
-      "rank": 125,
+      "rank": 126,
       "name": "Kalasag",
       "cls": "paladin",
       "level": 20,
@@ -1254,7 +1264,7 @@
       "title": null
     },
     {
-      "rank": 126,
+      "rank": 127,
       "name": "xuNRiiSE",
       "cls": "rogue",
       "level": 20,
@@ -1264,7 +1274,7 @@
       "title": null
     },
     {
-      "rank": 127,
+      "rank": 128,
       "name": "snowdorf",
       "cls": "paladin",
       "level": 20,
@@ -1274,23 +1284,13 @@
       "title": "prog_grandmaster_weaponcrafting"
     },
     {
-      "rank": 128,
+      "rank": 129,
       "name": "Kuli Tempur",
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 36,
       "lifetimeXp": 1007393,
       "prestigeRank": 36,
-      "title": null
-    },
-    {
-      "rank": 129,
-      "name": "laggyleggy",
-      "cls": "shaman",
-      "level": 20,
-      "virtualLevel": 36,
-      "lifetimeXp": 1005757,
-      "prestigeRank": 0,
       "title": null
     },
     {
@@ -1475,6 +1475,16 @@
     },
     {
       "rank": 148,
+      "name": "Azechu",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 35,
+      "lifetimeXp": 925524,
+      "prestigeRank": 10,
+      "title": "prog_grandmaster_enchanting"
+    },
+    {
+      "rank": 149,
       "name": "Pjiewpjiew",
       "cls": "hunter",
       "level": 20,
@@ -1484,7 +1494,7 @@
       "title": null
     },
     {
-      "rank": 149,
+      "rank": 150,
       "name": "ouson",
       "cls": "hunter",
       "level": 20,
@@ -1494,7 +1504,7 @@
       "title": null
     },
     {
-      "rank": 150,
+      "rank": 151,
       "name": "Rednik",
       "cls": "rogue",
       "level": 20,
@@ -1502,16 +1512,6 @@
       "lifetimeXp": 922739,
       "prestigeRank": 0,
       "title": null
-    },
-    {
-      "rank": 151,
-      "name": "Azechu",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 35,
-      "lifetimeXp": 922624,
-      "prestigeRank": 10,
-      "title": "prog_grandmaster_enchanting"
     },
     {
       "rank": 152,
@@ -1649,7 +1649,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 874360,
+      "lifetimeXp": 877255,
       "prestigeRank": 11,
       "title": null
     },
@@ -1855,21 +1855,21 @@
     },
     {
       "rank": 186,
-      "name": "cheops",
-      "cls": "warlock",
+      "name": "Wardim",
+      "cls": "warrior",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 843111,
+      "lifetimeXp": 843717,
       "prestigeRank": 0,
       "title": null
     },
     {
       "rank": 187,
-      "name": "Wardim",
-      "cls": "warrior",
+      "name": "cheops",
+      "cls": "warlock",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 840822,
+      "lifetimeXp": 843111,
       "prestigeRank": 0,
       "title": null
     },
