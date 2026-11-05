@@ -89,12 +89,22 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3495993,
+      "lifetimeXp": 3527080,
       "prestigeRank": 139,
       "title": "prog_mythic"
     },
     {
       "rank": 10,
+      "name": "HanzoKai",
+      "cls": "mage",
+      "level": 20,
+      "virtualLevel": 48,
+      "lifetimeXp": 3503813,
+      "prestigeRank": 69,
+      "title": "prog_automatons_champion"
+    },
+    {
+      "rank": 11,
       "name": "HOMME",
       "cls": "mage",
       "level": 20,
@@ -104,7 +114,7 @@
       "title": "prog_mythic"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "Archijuste",
       "cls": "hunter",
       "level": 20,
@@ -112,16 +122,6 @@
       "lifetimeXp": 3483741,
       "prestigeRank": 0,
       "title": "prog_mythic"
-    },
-    {
-      "rank": 12,
-      "name": "HanzoKai",
-      "cls": "mage",
-      "level": 20,
-      "virtualLevel": 48,
-      "lifetimeXp": 3472974,
-      "prestigeRank": 69,
-      "title": "feat_title_hollow_grinned"
     },
     {
       "rank": 13,
@@ -159,7 +159,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 47,
-      "lifetimeXp": 3237148,
+      "lifetimeXp": 3265089,
       "prestigeRank": 0,
       "title": "chr_vale_chapter_iii"
     },
@@ -219,7 +219,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 46,
-      "lifetimeXp": 2767350,
+      "lifetimeXp": 2784458,
       "prestigeRank": 103,
       "title": null
     },
@@ -238,8 +238,8 @@
       "name": "DIVINE PIZZA",
       "cls": "paladin",
       "level": 20,
-      "virtualLevel": 44,
-      "lifetimeXp": 2446967,
+      "virtualLevel": 45,
+      "lifetimeXp": 2488886,
       "prestigeRank": 0,
       "title": null
     },
@@ -915,6 +915,16 @@
     },
     {
       "rank": 92,
+      "name": "Roots",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 37,
+      "lifetimeXp": 1221378,
+      "prestigeRank": 44,
+      "title": "prog_mythic"
+    },
+    {
+      "rank": 93,
       "name": "BigDamage",
       "cls": "warrior",
       "level": 20,
@@ -924,7 +934,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 93,
+      "rank": 94,
       "name": "ZooLet",
       "cls": "hunter",
       "level": 20,
@@ -934,7 +944,7 @@
       "title": null
     },
     {
-      "rank": 94,
+      "rank": 95,
       "name": "newbietext",
       "cls": "druid",
       "level": 20,
@@ -944,7 +954,7 @@
       "title": "dlv_nhalia_bells"
     },
     {
-      "rank": 95,
+      "rank": 96,
       "name": "annihilator",
       "cls": "hunter",
       "level": 20,
@@ -954,7 +964,7 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "name": "Marinda",
       "cls": "warlock",
       "level": 20,
@@ -964,7 +974,7 @@
       "title": "prog_grandmaster_tailoring"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "name": "BROTHERTITO",
       "cls": "mage",
       "level": 20,
@@ -972,16 +982,6 @@
       "lifetimeXp": 1182790,
       "prestigeRank": 0,
       "title": "prog_champion"
-    },
-    {
-      "rank": 98,
-      "name": "Roots",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 37,
-      "lifetimeXp": 1182340,
-      "prestigeRank": 39,
-      "title": "prog_mythic"
     },
     {
       "rank": 99,
@@ -1019,12 +1019,22 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1162298,
+      "lifetimeXp": 1163242,
       "prestigeRank": 0,
       "title": null
     },
     {
       "rank": 103,
+      "name": "SirDubalot",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 37,
+      "lifetimeXp": 1157799,
+      "prestigeRank": 35,
+      "title": "prog_mythic"
+    },
+    {
+      "rank": 104,
       "name": "FULAST",
       "cls": "paladin",
       "level": 20,
@@ -1034,24 +1044,14 @@
       "title": "chr_vale_chapter_iii"
     },
     {
-      "rank": 104,
+      "rank": 105,
       "name": "HanzoKin",
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1125725,
+      "lifetimeXp": 1126051,
       "prestigeRank": 23,
       "title": "prog_farming_100"
-    },
-    {
-      "rank": 105,
-      "name": "SirDubalot",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 37,
-      "lifetimeXp": 1116767,
-      "prestigeRank": 35,
-      "title": "prog_mythic"
     },
     {
       "rank": 106,
@@ -1085,6 +1085,16 @@
     },
     {
       "rank": 109,
+      "name": "HanzoKay",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 36,
+      "lifetimeXp": 1100350,
+      "prestigeRank": 29,
+      "title": "prog_farming_100"
+    },
+    {
+      "rank": 110,
       "name": "Uriah",
       "cls": "mage",
       "level": 20,
@@ -1092,16 +1102,6 @@
       "lifetimeXp": 1099524,
       "prestigeRank": 0,
       "title": "pvp_flag_3h"
-    },
-    {
-      "rank": 110,
-      "name": "HanzoKay",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 36,
-      "lifetimeXp": 1099406,
-      "prestigeRank": 29,
-      "title": "prog_farming_100"
     },
     {
       "rank": 111,
@@ -1649,7 +1649,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 881156,
+      "lifetimeXp": 882205,
       "prestigeRank": 11,
       "title": null
     },
