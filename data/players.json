@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 54,
-      "lifetimeXp": 6353540,
+      "lifetimeXp": 6353675,
       "prestigeRank": 266,
       "title": "prog_champion"
     },
@@ -49,8 +49,8 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 52,
-      "lifetimeXp": 5147673,
-      "prestigeRank": 209,
+      "lifetimeXp": 5162392,
+      "prestigeRank": 214,
       "title": "prog_eternal"
     },
     {
@@ -79,7 +79,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 49,
-      "lifetimeXp": 3969688,
+      "lifetimeXp": 3969978,
       "prestigeRank": 10,
       "title": "prog_farming_100"
     },
@@ -95,6 +95,16 @@
     },
     {
       "rank": 10,
+      "name": "Bastian",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 48,
+      "lifetimeXp": 3519766,
+      "prestigeRank": 127,
+      "title": "feat_pumpkin_hunter"
+    },
+    {
+      "rank": 11,
       "name": "HanzoKai",
       "cls": "mage",
       "level": 20,
@@ -104,7 +114,7 @@
       "title": "prog_automatons_champion"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "name": "HOMME",
       "cls": "mage",
       "level": 20,
@@ -114,7 +124,7 @@
       "title": "prog_mythic"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "Archijuste",
       "cls": "hunter",
       "level": 20,
@@ -124,7 +134,7 @@
       "title": "prog_mythic"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "eerreee",
       "cls": "rogue",
       "level": 20,
@@ -134,22 +144,12 @@
       "title": "pvp_flag_1h"
     },
     {
-      "rank": 14,
-      "name": "Bastian",
-      "cls": "warrior",
-      "level": 20,
-      "virtualLevel": 48,
-      "lifetimeXp": 3457741,
-      "prestigeRank": 127,
-      "title": "feat_pumpkin_hunter"
-    },
-    {
       "rank": 15,
       "name": "kahldrek",
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3396760,
+      "lifetimeXp": 3421053,
       "prestigeRank": 0,
       "title": "chr_vale_chapter_iii"
     },
@@ -229,7 +229,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 45,
-      "lifetimeXp": 2541308,
+      "lifetimeXp": 2542573,
       "prestigeRank": 0,
       "title": null
     },
@@ -419,7 +419,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 41,
-      "lifetimeXp": 1797785,
+      "lifetimeXp": 1797930,
       "prestigeRank": 26,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -1309,7 +1309,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1004854,
+      "lifetimeXp": 1004999,
       "prestigeRank": 0,
       "title": null
     },
