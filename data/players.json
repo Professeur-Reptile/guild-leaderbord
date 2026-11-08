@@ -49,7 +49,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 52,
-      "lifetimeXp": 5228021,
+      "lifetimeXp": 5232652,
       "prestigeRank": 214,
       "title": "prog_eternal"
     },
@@ -169,7 +169,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3315745,
+      "lifetimeXp": 3324099,
       "prestigeRank": 0,
       "title": null
     },
@@ -379,7 +379,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 42,
-      "lifetimeXp": 1868320,
+      "lifetimeXp": 1878161,
       "prestigeRank": 20,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -605,6 +605,16 @@
     },
     {
       "rank": 61,
+      "name": "Jorix",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 40,
+      "lifetimeXp": 1505462,
+      "prestigeRank": 56,
+      "title": null
+    },
+    {
+      "rank": 62,
       "name": "HanzoKan",
       "cls": "paladin",
       "level": 20,
@@ -612,16 +622,6 @@
       "lifetimeXp": 1477693,
       "prestigeRank": 0,
       "title": "feat_title_trickster"
-    },
-    {
-      "rank": 62,
-      "name": "Jorix",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1472709,
-      "prestigeRank": 56,
-      "title": null
     },
     {
       "rank": 63,
@@ -885,6 +885,16 @@
     },
     {
       "rank": 89,
+      "name": "newbietext",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 38,
+      "lifetimeXp": 1237993,
+      "prestigeRank": 7,
+      "title": "dlv_nhalia_bells"
+    },
+    {
+      "rank": 90,
       "name": "TiraChinas",
       "cls": "hunter",
       "level": 20,
@@ -894,7 +904,7 @@
       "title": null
     },
     {
-      "rank": 90,
+      "rank": 91,
       "name": "Velkaran",
       "cls": "rogue",
       "level": 20,
@@ -902,16 +912,6 @@
       "lifetimeXp": 1234113,
       "prestigeRank": 45,
       "title": "pvp_flag_24h"
-    },
-    {
-      "rank": 91,
-      "name": "newbietext",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 38,
-      "lifetimeXp": 1225591,
-      "prestigeRank": 7,
-      "title": "dlv_nhalia_bells"
     },
     {
       "rank": 92,
@@ -1309,7 +1309,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1004999,
+      "lifetimeXp": 1005156,
       "prestigeRank": 0,
       "title": null
     },
