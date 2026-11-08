@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 54,
-      "lifetimeXp": 6353675,
+      "lifetimeXp": 6354496,
       "prestigeRank": 266,
       "title": "prog_champion"
     },
@@ -78,8 +78,8 @@
       "name": "Ahap",
       "cls": "hunter",
       "level": 20,
-      "virtualLevel": 49,
-      "lifetimeXp": 3969978,
+      "virtualLevel": 50,
+      "lifetimeXp": 3987837,
       "prestigeRank": 10,
       "title": "prog_farming_100"
     },
@@ -99,7 +99,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3519766,
+      "lifetimeXp": 3576895,
       "prestigeRank": 127,
       "title": "feat_pumpkin_hunter"
     },
@@ -149,7 +149,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3421053,
+      "lifetimeXp": 3451900,
       "prestigeRank": 0,
       "title": "chr_vale_chapter_iii"
     },
@@ -168,8 +168,8 @@
       "name": "PALF",
       "cls": "paladin",
       "level": 20,
-      "virtualLevel": 47,
-      "lifetimeXp": 3252924,
+      "virtualLevel": 48,
+      "lifetimeXp": 3301395,
       "prestigeRank": 0,
       "title": null
     },
@@ -229,12 +229,22 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 45,
-      "lifetimeXp": 2542573,
+      "lifetimeXp": 2542623,
       "prestigeRank": 0,
       "title": null
     },
     {
       "rank": 24,
+      "name": "DIVINE PIZZA",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 45,
+      "lifetimeXp": 2539328,
+      "prestigeRank": 0,
+      "title": "prog_mythic"
+    },
+    {
+      "rank": 25,
       "name": "Diabloww",
       "cls": "mage",
       "level": 20,
@@ -242,16 +252,6 @@
       "lifetimeXp": 2510358,
       "prestigeRank": 94,
       "title": "prog_farming_100"
-    },
-    {
-      "rank": 25,
-      "name": "DIVINE PIZZA",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 45,
-      "lifetimeXp": 2488886,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 26,
@@ -309,7 +309,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 43,
-      "lifetimeXp": 2076398,
+      "lifetimeXp": 2076448,
       "prestigeRank": 0,
       "title": null
     },
@@ -409,7 +409,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 42,
-      "lifetimeXp": 1824859,
+      "lifetimeXp": 1827933,
       "prestigeRank": 20,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -659,7 +659,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1436579,
+      "lifetimeXp": 1445465,
       "prestigeRank": 0,
       "title": "col_reliquary_rank_4"
     },
@@ -728,8 +728,8 @@
       "name": "Bighat",
       "cls": "priest",
       "level": 20,
-      "virtualLevel": 38,
-      "lifetimeXp": 1346265,
+      "virtualLevel": 39,
+      "lifetimeXp": 1357749,
       "prestigeRank": 0,
       "title": null
     },
@@ -739,7 +739,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1345615,
+      "lifetimeXp": 1345665,
       "prestigeRank": 0,
       "title": null
     },
@@ -809,7 +809,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1288145,
+      "lifetimeXp": 1288339,
       "prestigeRank": 0,
       "title": null
     },
@@ -819,7 +819,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1281210,
+      "lifetimeXp": 1281260,
       "prestigeRank": 0,
       "title": null
     },
@@ -905,6 +905,16 @@
     },
     {
       "rank": 91,
+      "name": "newbietext",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 38,
+      "lifetimeXp": 1225591,
+      "prestigeRank": 7,
+      "title": "dlv_nhalia_bells"
+    },
+    {
+      "rank": 92,
       "name": "Lovekiss",
       "cls": "mage",
       "level": 20,
@@ -914,7 +924,7 @@
       "title": "col_reliquary_rank_3"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "name": "Zehdan",
       "cls": "paladin",
       "level": 20,
@@ -924,7 +934,7 @@
       "title": null
     },
     {
-      "rank": 93,
+      "rank": 94,
       "name": "Roots",
       "cls": "druid",
       "level": 20,
@@ -932,16 +942,6 @@
       "lifetimeXp": 1221378,
       "prestigeRank": 44,
       "title": "prog_mythic"
-    },
-    {
-      "rank": 94,
-      "name": "newbietext",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 37,
-      "lifetimeXp": 1221084,
-      "prestigeRank": 6,
-      "title": "dlv_nhalia_bells"
     },
     {
       "rank": 95,
@@ -969,7 +969,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1206105,
+      "lifetimeXp": 1206155,
       "prestigeRank": 0,
       "title": null
     },
@@ -1029,7 +1029,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 37,
-      "lifetimeXp": 1164013,
+      "lifetimeXp": 1164063,
       "prestigeRank": 0,
       "title": null
     },
@@ -1239,7 +1239,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1024007,
+      "lifetimeXp": 1024057,
       "prestigeRank": 0,
       "title": null
     },
