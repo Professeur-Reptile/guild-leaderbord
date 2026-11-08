@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 54,
-      "lifetimeXp": 6354496,
+      "lifetimeXp": 6414676,
       "prestigeRank": 266,
       "title": "prog_champion"
     },
@@ -49,7 +49,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 52,
-      "lifetimeXp": 5162392,
+      "lifetimeXp": 5228021,
       "prestigeRank": 214,
       "title": "prog_eternal"
     },
@@ -79,7 +79,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 3987837,
+      "lifetimeXp": 4004191,
       "prestigeRank": 10,
       "title": "prog_farming_100"
     },
@@ -99,7 +99,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3576895,
+      "lifetimeXp": 3588345,
       "prestigeRank": 127,
       "title": "feat_pumpkin_hunter"
     },
@@ -109,7 +109,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3503813,
+      "lifetimeXp": 3519326,
       "prestigeRank": 69,
       "title": "prog_automatons_champion"
     },
@@ -139,7 +139,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3464005,
+      "lifetimeXp": 3464194,
       "prestigeRank": 42,
       "title": "pvp_flag_1h"
     },
@@ -169,7 +169,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3301395,
+      "lifetimeXp": 3315745,
       "prestigeRank": 0,
       "title": null
     },
@@ -375,6 +375,16 @@
     },
     {
       "rank": 38,
+      "name": "MIALEK",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 42,
+      "lifetimeXp": 1868320,
+      "prestigeRank": 20,
+      "title": "col_reliquary_illum_gravewyrm_heroic"
+    },
+    {
+      "rank": 39,
       "name": "Walla",
       "cls": "warrior",
       "level": 20,
@@ -384,7 +394,7 @@
       "title": null
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "Whiteghost",
       "cls": "rogue",
       "level": 20,
@@ -394,7 +404,7 @@
       "title": "hid_saul_footnote"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Shindo",
       "cls": "hunter",
       "level": 20,
@@ -404,22 +414,12 @@
       "title": "prog_champion"
     },
     {
-      "rank": 41,
-      "name": "MIALEK",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 42,
-      "lifetimeXp": 1827933,
-      "prestigeRank": 20,
-      "title": "col_reliquary_illum_gravewyrm_heroic"
-    },
-    {
       "rank": 42,
       "name": "Ghostdog",
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 41,
-      "lifetimeXp": 1797930,
+      "lifetimeXp": 1800859,
       "prestigeRank": 26,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -619,8 +619,8 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1464067,
-      "prestigeRank": 53,
+      "lifetimeXp": 1472709,
+      "prestigeRank": 56,
       "title": null
     },
     {
@@ -1985,21 +1985,21 @@
     },
     {
       "rank": 199,
-      "name": "Akitam",
+      "name": "Obronca",
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 832478,
+      "lifetimeXp": 832984,
       "prestigeRank": 0,
       "title": null
     },
     {
       "rank": 200,
-      "name": "heavy",
-      "cls": "warrior",
+      "name": "Akitam",
+      "cls": "paladin",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 831069,
+      "lifetimeXp": 832478,
       "prestigeRank": 0,
       "title": null
     }
