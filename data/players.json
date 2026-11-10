@@ -18,9 +18,9 @@
       "name": "Wicca",
       "cls": "druid",
       "level": 20,
-      "virtualLevel": 54,
-      "lifetimeXp": 6443702,
-      "prestigeRank": 269,
+      "virtualLevel": 55,
+      "lifetimeXp": 6472996,
+      "prestigeRank": 271,
       "title": "prog_champion"
     },
     {
@@ -89,7 +89,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 49,
-      "lifetimeXp": 3710494,
+      "lifetimeXp": 3725833,
       "prestigeRank": 146,
       "title": "prog_mythic"
     },
@@ -98,8 +98,8 @@
       "name": "Bastian",
       "cls": "warrior",
       "level": 20,
-      "virtualLevel": 48,
-      "lifetimeXp": 3611632,
+      "virtualLevel": 49,
+      "lifetimeXp": 3659902,
       "prestigeRank": 127,
       "title": "feat_pumpkin_hunter"
     },
@@ -159,7 +159,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3389922,
+      "lifetimeXp": 3421321,
       "prestigeRank": 0,
       "title": null
     },
@@ -225,6 +225,16 @@
     },
     {
       "rank": 23,
+      "name": "DIVINE PIZZA",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 45,
+      "lifetimeXp": 2645787,
+      "prestigeRank": 0,
+      "title": "prog_mythic"
+    },
+    {
+      "rank": 24,
       "name": "Paladream",
       "cls": "paladin",
       "level": 20,
@@ -232,16 +242,6 @@
       "lifetimeXp": 2542623,
       "prestigeRank": 0,
       "title": null
-    },
-    {
-      "rank": 24,
-      "name": "DIVINE PIZZA",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 45,
-      "lifetimeXp": 2539328,
-      "prestigeRank": 0,
-      "title": "prog_mythic"
     },
     {
       "rank": 25,
@@ -359,7 +359,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 42,
-      "lifetimeXp": 1977708,
+      "lifetimeXp": 1978272,
       "prestigeRank": 77,
       "title": "feat_pumpkin_hunter"
     },
@@ -419,7 +419,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 41,
-      "lifetimeXp": 1800859,
+      "lifetimeXp": 1801294,
       "prestigeRank": 26,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -565,6 +565,16 @@
     },
     {
       "rank": 57,
+      "name": "Jorix",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 40,
+      "lifetimeXp": 1550422,
+      "prestigeRank": 56,
+      "title": null
+    },
+    {
+      "rank": 58,
       "name": "Khanh an",
       "cls": "mage",
       "level": 20,
@@ -572,16 +582,6 @@
       "lifetimeXp": 1550351,
       "prestigeRank": 20,
       "title": "dgn_nythraxis_deathless"
-    },
-    {
-      "rank": 58,
-      "name": "Jorix",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 40,
-      "lifetimeXp": 1546156,
-      "prestigeRank": 56,
-      "title": null
     },
     {
       "rank": 59,
@@ -815,6 +815,16 @@
     },
     {
       "rank": 82,
+      "name": "SirDubalot",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 38,
+      "lifetimeXp": 1287506,
+      "prestigeRank": 35,
+      "title": "prog_mythic"
+    },
+    {
+      "rank": 83,
       "name": "ZooLut",
       "cls": "hunter",
       "level": 20,
@@ -824,7 +834,7 @@
       "title": null
     },
     {
-      "rank": 83,
+      "rank": 84,
       "name": "ogoro",
       "cls": "shaman",
       "level": 20,
@@ -834,23 +844,13 @@
       "title": "prog_champion"
     },
     {
-      "rank": 84,
+      "rank": 85,
       "name": "Roots",
       "cls": "druid",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1266115,
+      "lifetimeXp": 1268899,
       "prestigeRank": 44,
-      "title": "prog_mythic"
-    },
-    {
-      "rank": 85,
-      "name": "SirDubalot",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 38,
-      "lifetimeXp": 1263901,
-      "prestigeRank": 35,
       "title": "prog_mythic"
     },
     {
@@ -859,7 +859,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1260248,
+      "lifetimeXp": 1260304,
       "prestigeRank": 7,
       "title": "dlv_nhalia_bells"
     },
@@ -1309,7 +1309,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1005156,
+      "lifetimeXp": 1005301,
       "prestigeRank": 0,
       "title": null
     },
@@ -1409,7 +1409,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 947448,
+      "lifetimeXp": 949096,
       "prestigeRank": 27,
       "title": "prog_champion"
     },
@@ -1989,7 +1989,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 832984,
+      "lifetimeXp": 833129,
       "prestigeRank": 0,
       "title": null
     },
