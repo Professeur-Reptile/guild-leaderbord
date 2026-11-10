@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 54,
-      "lifetimeXp": 6425325,
+      "lifetimeXp": 6443702,
       "prestigeRank": 269,
       "title": "prog_champion"
     },
@@ -49,7 +49,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 52,
-      "lifetimeXp": 5300787,
+      "lifetimeXp": 5309356,
       "prestigeRank": 214,
       "title": "prog_eternal"
     },
@@ -99,12 +99,22 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3599399,
+      "lifetimeXp": 3611632,
       "prestigeRank": 127,
       "title": "feat_pumpkin_hunter"
     },
     {
       "rank": 11,
+      "name": "kahldrek",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 48,
+      "lifetimeXp": 3554391,
+      "prestigeRank": 0,
+      "title": "chr_vale_chapter_iii"
+    },
+    {
+      "rank": 12,
       "name": "HanzoKai",
       "cls": "mage",
       "level": 20,
@@ -112,16 +122,6 @@
       "lifetimeXp": 3519326,
       "prestigeRank": 69,
       "title": "prog_automatons_champion"
-    },
-    {
-      "rank": 12,
-      "name": "kahldrek",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 48,
-      "lifetimeXp": 3505730,
-      "prestigeRank": 0,
-      "title": "chr_vale_chapter_iii"
     },
     {
       "rank": 13,
@@ -159,7 +159,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3385688,
+      "lifetimeXp": 3389922,
       "prestigeRank": 0,
       "title": null
     },
@@ -220,7 +220,7 @@
       "level": 20,
       "virtualLevel": 46,
       "lifetimeXp": 2784458,
-      "prestigeRank": 103,
+      "prestigeRank": 112,
       "title": null
     },
     {
@@ -379,7 +379,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 42,
-      "lifetimeXp": 1878161,
+      "lifetimeXp": 1881643,
       "prestigeRank": 20,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -619,7 +619,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1477693,
+      "lifetimeXp": 1479516,
       "prestigeRank": 0,
       "title": "feat_title_trickster"
     },
@@ -839,22 +839,32 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1263840,
+      "lifetimeXp": 1266115,
       "prestigeRank": 44,
       "title": "prog_mythic"
     },
     {
       "rank": 85,
+      "name": "SirDubalot",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 38,
+      "lifetimeXp": 1263901,
+      "prestigeRank": 35,
+      "title": "prog_mythic"
+    },
+    {
+      "rank": 86,
       "name": "newbietext",
       "cls": "druid",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1258649,
+      "lifetimeXp": 1260248,
       "prestigeRank": 7,
       "title": "dlv_nhalia_bells"
     },
     {
-      "rank": 86,
+      "rank": 87,
       "name": "Kaligola",
       "cls": "rogue",
       "level": 20,
@@ -864,7 +874,7 @@
       "title": "prog_veteran"
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "NightySalad",
       "cls": "shaman",
       "level": 20,
@@ -872,16 +882,6 @@
       "lifetimeXp": 1253626,
       "prestigeRank": 40,
       "title": null
-    },
-    {
-      "rank": 88,
-      "name": "SirDubalot",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 38,
-      "lifetimeXp": 1251382,
-      "prestigeRank": 35,
-      "title": "prog_mythic"
     },
     {
       "rank": 89,
