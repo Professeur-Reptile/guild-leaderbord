@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6492309,
+      "lifetimeXp": 6492403,
       "prestigeRank": 272,
       "title": "prog_champion"
     },
@@ -108,10 +108,10 @@
       "name": "kahldrek",
       "cls": "paladin",
       "level": 20,
-      "virtualLevel": 48,
-      "lifetimeXp": 3562263,
+      "virtualLevel": 49,
+      "lifetimeXp": 3615899,
       "prestigeRank": 0,
-      "title": "chr_vale_chapter_iii"
+      "title": null
     },
     {
       "rank": 12,
@@ -135,6 +135,16 @@
     },
     {
       "rank": 14,
+      "name": "PALF",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 48,
+      "lifetimeXp": 3487669,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 15,
       "name": "Archijuste",
       "cls": "hunter",
       "level": 20,
@@ -144,7 +154,7 @@
       "title": "prog_mythic"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "eerreee",
       "cls": "rogue",
       "level": 20,
@@ -152,16 +162,6 @@
       "lifetimeXp": 3464194,
       "prestigeRank": 42,
       "title": "pvp_flag_1h"
-    },
-    {
-      "rank": 16,
-      "name": "PALF",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 48,
-      "lifetimeXp": 3442256,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 17,
@@ -859,7 +859,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1263144,
+      "lifetimeXp": 1263434,
       "prestigeRank": 7,
       "title": "dlv_nhalia_bells"
     },
@@ -1669,7 +1669,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 873629,
+      "lifetimeXp": 879639,
       "prestigeRank": 0,
       "title": null
     },
