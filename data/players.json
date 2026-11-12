@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6492403,
+      "lifetimeXp": 6501224,
       "prestigeRank": 272,
       "title": "prog_champion"
     },
@@ -49,7 +49,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 53,
-      "lifetimeXp": 5432210,
+      "lifetimeXp": 5433425,
       "prestigeRank": 223,
       "title": "prog_eternal"
     },
@@ -85,6 +85,16 @@
     },
     {
       "rank": 9,
+      "name": "Bastian",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 49,
+      "lifetimeXp": 3832821,
+      "prestigeRank": 127,
+      "title": "feat_pumpkin_hunter"
+    },
+    {
+      "rank": 10,
       "name": "SirChargeALot",
       "cls": "warrior",
       "level": 20,
@@ -92,16 +102,6 @@
       "lifetimeXp": 3819292,
       "prestigeRank": 146,
       "title": "prog_mythic"
-    },
-    {
-      "rank": 10,
-      "name": "Bastian",
-      "cls": "warrior",
-      "level": 20,
-      "virtualLevel": 49,
-      "lifetimeXp": 3778007,
-      "prestigeRank": 127,
-      "title": "feat_pumpkin_hunter"
     },
     {
       "rank": 11,
@@ -419,7 +419,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 41,
-      "lifetimeXp": 1801294,
+      "lifetimeXp": 1804368,
       "prestigeRank": 26,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -859,7 +859,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1263629,
+      "lifetimeXp": 1263657,
       "prestigeRank": 7,
       "title": "dlv_nhalia_bells"
     },
@@ -1289,7 +1289,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1008706,
+      "lifetimeXp": 1011490,
       "prestigeRank": 0,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -1939,7 +1939,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 838723,
+      "lifetimeXp": 838836,
       "prestigeRank": 0,
       "title": null
     },
