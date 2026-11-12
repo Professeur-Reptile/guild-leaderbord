@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6501224,
+      "lifetimeXp": 6501258,
       "prestigeRank": 272,
       "title": "prog_champion"
     },
@@ -109,7 +109,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 49,
-      "lifetimeXp": 3639821,
+      "lifetimeXp": 3692985,
       "prestigeRank": 0,
       "title": null
     },
@@ -125,6 +125,16 @@
     },
     {
       "rank": 13,
+      "name": "PALF",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 48,
+      "lifetimeXp": 3533685,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 14,
       "name": "HOMME",
       "cls": "mage",
       "level": 20,
@@ -132,16 +142,6 @@
       "lifetimeXp": 3495535,
       "prestigeRank": 88,
       "title": "prog_mythic"
-    },
-    {
-      "rank": 14,
-      "name": "PALF",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 48,
-      "lifetimeXp": 3487669,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 15,
@@ -555,6 +555,16 @@
     },
     {
       "rank": 56,
+      "name": "Jorix",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 40,
+      "lifetimeXp": 1562802,
+      "prestigeRank": 56,
+      "title": null
+    },
+    {
+      "rank": 57,
       "name": "SooYa",
       "cls": "hunter",
       "level": 20,
@@ -562,16 +572,6 @@
       "lifetimeXp": 1562194,
       "prestigeRank": 57,
       "title": "prog_veteran"
-    },
-    {
-      "rank": 57,
-      "name": "Jorix",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 40,
-      "lifetimeXp": 1559728,
-      "prestigeRank": 56,
-      "title": null
     },
     {
       "rank": 58,
@@ -1575,6 +1575,16 @@
     },
     {
       "rank": 158,
+      "name": "Paladinos",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 35,
+      "lifetimeXp": 905628,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 159,
       "name": "dutha",
       "cls": "warlock",
       "level": 20,
@@ -1584,7 +1594,7 @@
       "title": null
     },
     {
-      "rank": 159,
+      "rank": 160,
       "name": "ROROTANK",
       "cls": "warrior",
       "level": 20,
@@ -1594,7 +1604,7 @@
       "title": null
     },
     {
-      "rank": 160,
+      "rank": 161,
       "name": "DIAPER ABUSER",
       "cls": "warrior",
       "level": 20,
@@ -1604,7 +1614,7 @@
       "title": null
     },
     {
-      "rank": 161,
+      "rank": 162,
       "name": "Warken",
       "cls": "druid",
       "level": 20,
@@ -1614,7 +1624,7 @@
       "title": null
     },
     {
-      "rank": 162,
+      "rank": 163,
       "name": "KISSMYSWORD",
       "cls": "warrior",
       "level": 20,
@@ -1624,7 +1634,7 @@
       "title": "dgn_korzul_flawless"
     },
     {
-      "rank": 163,
+      "rank": 164,
       "name": "Ninex",
       "cls": "warrior",
       "level": 20,
@@ -1634,7 +1644,7 @@
       "title": "col_reliquary_illum_nythraxis_heroic"
     },
     {
-      "rank": 164,
+      "rank": 165,
       "name": "Priestdim",
       "cls": "priest",
       "level": 20,
@@ -1644,7 +1654,7 @@
       "title": null
     },
     {
-      "rank": 165,
+      "rank": 166,
       "name": "Damhobbitses",
       "cls": "warrior",
       "level": 20,
@@ -1654,23 +1664,13 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 166,
+      "rank": 167,
       "name": "czH",
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 34,
       "lifetimeXp": 883438,
       "prestigeRank": 3,
-      "title": null
-    },
-    {
-      "rank": 167,
-      "name": "Paladinos",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 879639,
-      "prestigeRank": 0,
       "title": null
     },
     {
