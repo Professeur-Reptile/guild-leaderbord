@@ -49,7 +49,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 53,
-      "lifetimeXp": 5374435,
+      "lifetimeXp": 5432210,
       "prestigeRank": 223,
       "title": "prog_eternal"
     },
@@ -99,7 +99,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 49,
-      "lifetimeXp": 3714380,
+      "lifetimeXp": 3778007,
       "prestigeRank": 127,
       "title": "feat_pumpkin_hunter"
     },
@@ -109,7 +109,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 49,
-      "lifetimeXp": 3615899,
+      "lifetimeXp": 3639821,
       "prestigeRank": 0,
       "title": null
     },
@@ -379,7 +379,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 42,
-      "lifetimeXp": 1881788,
+      "lifetimeXp": 1881933,
       "prestigeRank": 20,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -569,7 +569,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1550422,
+      "lifetimeXp": 1559728,
       "prestigeRank": 56,
       "title": null
     },
@@ -859,7 +859,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1263434,
+      "lifetimeXp": 1263629,
       "prestigeRank": 7,
       "title": "dlv_nhalia_bells"
     },
@@ -1309,7 +1309,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1005301,
+      "lifetimeXp": 1005446,
       "prestigeRank": 0,
       "title": null
     },
@@ -1409,7 +1409,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 949096,
+      "lifetimeXp": 952158,
       "prestigeRank": 27,
       "title": "prog_champion"
     },
@@ -1935,6 +1935,16 @@
     },
     {
       "rank": 194,
+      "name": "Rejla",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 838723,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 195,
       "name": "hyein",
       "cls": "mage",
       "level": 20,
@@ -1944,7 +1954,7 @@
       "title": "prog_grandmaster_alchemy"
     },
     {
-      "rank": 195,
+      "rank": 196,
       "name": "Soywin",
       "cls": "warrior",
       "level": 20,
@@ -1954,7 +1964,7 @@
       "title": "cmb_thunzharr_unbroken"
     },
     {
-      "rank": 196,
+      "rank": 197,
       "name": "Mace",
       "cls": "mage",
       "level": 20,
@@ -1964,7 +1974,7 @@
       "title": "soc_market_magnate"
     },
     {
-      "rank": 197,
+      "rank": 198,
       "name": "WhoopWhoop",
       "cls": "shaman",
       "level": 20,
@@ -1974,7 +1984,7 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 198,
+      "rank": 199,
       "name": "SAVIOR",
       "cls": "paladin",
       "level": 20,
@@ -1984,22 +1994,12 @@
       "title": null
     },
     {
-      "rank": 199,
+      "rank": 200,
       "name": "Klonk",
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 34,
       "lifetimeXp": 835182,
-      "prestigeRank": 0,
-      "title": null
-    },
-    {
-      "rank": 200,
-      "name": "Obronca",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 833129,
       "prestigeRank": 0,
       "title": null
     }
