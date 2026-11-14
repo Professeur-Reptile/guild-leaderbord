@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6536878,
+      "lifetimeXp": 6543638,
       "prestigeRank": 273,
       "title": "pvp_honor_knight_lieutenant"
     },
@@ -118,8 +118,8 @@
       "name": "PALF",
       "cls": "paladin",
       "level": 20,
-      "virtualLevel": 48,
-      "lifetimeXp": 3587535,
+      "virtualLevel": 49,
+      "lifetimeXp": 3645696,
       "prestigeRank": 0,
       "title": null
     },
@@ -835,6 +835,16 @@
     },
     {
       "rank": 84,
+      "name": "newbietext",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 38,
+      "lifetimeXp": 1283306,
+      "prestigeRank": 8,
+      "title": "dlv_nhalia_bells"
+    },
+    {
+      "rank": 85,
       "name": "ZooLut",
       "cls": "hunter",
       "level": 20,
@@ -842,16 +852,6 @@
       "lifetimeXp": 1281260,
       "prestigeRank": 0,
       "title": null
-    },
-    {
-      "rank": 85,
-      "name": "newbietext",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 38,
-      "lifetimeXp": 1278838,
-      "prestigeRank": 8,
-      "title": "dlv_nhalia_bells"
     },
     {
       "rank": 86,
@@ -1175,6 +1175,16 @@
     },
     {
       "rank": 118,
+      "name": "Paladinos",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 36,
+      "lifetimeXp": 1079936,
+      "prestigeRank": 39,
+      "title": "prog_champion"
+    },
+    {
+      "rank": 119,
       "name": "Sir RageBait",
       "cls": "warrior",
       "level": 20,
@@ -1184,7 +1194,7 @@
       "title": null
     },
     {
-      "rank": 119,
+      "rank": 120,
       "name": "Yascra",
       "cls": "hunter",
       "level": 20,
@@ -1194,7 +1204,7 @@
       "title": null
     },
     {
-      "rank": 120,
+      "rank": 121,
       "name": "Ceyms",
       "cls": "mage",
       "level": 20,
@@ -1204,7 +1214,7 @@
       "title": "prog_masterwright"
     },
     {
-      "rank": 121,
+      "rank": 122,
       "name": "Valkyria",
       "cls": "druid",
       "level": 20,
@@ -1214,7 +1224,7 @@
       "title": null
     },
     {
-      "rank": 122,
+      "rank": 123,
       "name": "Hunters",
       "cls": "hunter",
       "level": 20,
@@ -1224,7 +1234,7 @@
       "title": "prog_paragon"
     },
     {
-      "rank": 123,
+      "rank": 124,
       "name": "tacopriest",
       "cls": "priest",
       "level": 20,
@@ -1234,7 +1244,7 @@
       "title": "dgn_varkhul_flawless"
     },
     {
-      "rank": 124,
+      "rank": 125,
       "name": "ZooLit",
       "cls": "hunter",
       "level": 20,
@@ -1244,7 +1254,7 @@
       "title": null
     },
     {
-      "rank": 125,
+      "rank": 126,
       "name": "LilyLuna",
       "cls": "warlock",
       "level": 20,
@@ -1254,7 +1264,7 @@
       "title": "cmb_thunzharr_unbroken"
     },
     {
-      "rank": 126,
+      "rank": 127,
       "name": "Kalasag",
       "cls": "paladin",
       "level": 20,
@@ -1264,7 +1274,7 @@
       "title": null
     },
     {
-      "rank": 127,
+      "rank": 128,
       "name": "xuNRiiSE",
       "cls": "rogue",
       "level": 20,
@@ -1274,7 +1284,7 @@
       "title": null
     },
     {
-      "rank": 128,
+      "rank": 129,
       "name": "snowdorf",
       "cls": "paladin",
       "level": 20,
@@ -1284,7 +1294,7 @@
       "title": "prog_grandmaster_weaponcrafting"
     },
     {
-      "rank": 129,
+      "rank": 130,
       "name": "Rikimaru",
       "cls": "rogue",
       "level": 20,
@@ -1294,7 +1304,7 @@
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
     {
-      "rank": 130,
+      "rank": 131,
       "name": "Kuli Tempur",
       "cls": "warrior",
       "level": 20,
@@ -1304,7 +1314,7 @@
       "title": null
     },
     {
-      "rank": 131,
+      "rank": 132,
       "name": "Niecia",
       "cls": "priest",
       "level": 20,
@@ -1314,7 +1324,7 @@
       "title": null
     },
     {
-      "rank": 132,
+      "rank": 133,
       "name": "Candyman",
       "cls": "warrior",
       "level": 20,
@@ -1324,7 +1334,7 @@
       "title": "cmb_thunzharr_unbroken"
     },
     {
-      "rank": 133,
+      "rank": 134,
       "name": "Lady Aleena",
       "cls": "hunter",
       "level": 20,
@@ -1332,16 +1342,6 @@
       "lifetimeXp": 994102,
       "prestigeRank": 0,
       "title": null
-    },
-    {
-      "rank": 134,
-      "name": "Paladinos",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 35,
-      "lifetimeXp": 992421,
-      "prestigeRank": 0,
-      "title": "feat_title_hollow_grinned"
     },
     {
       "rank": 135,
@@ -1845,6 +1845,16 @@
     },
     {
       "rank": 185,
+      "name": "PAperclip",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 852157,
+      "prestigeRank": 0,
+      "title": "feat_title_hollow_grinned"
+    },
+    {
+      "rank": 186,
       "name": "porkguy",
       "cls": "paladin",
       "level": 20,
@@ -1852,16 +1862,6 @@
       "lifetimeXp": 849992,
       "prestigeRank": 0,
       "title": null
-    },
-    {
-      "rank": 186,
-      "name": "PAperclip",
-      "cls": "hunter",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 848173,
-      "prestigeRank": 0,
-      "title": "feat_title_hollow_grinned"
     },
     {
       "rank": 187,
