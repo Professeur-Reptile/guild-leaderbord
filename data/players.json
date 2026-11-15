@@ -69,7 +69,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 51,
-      "lifetimeXp": 4541390,
+      "lifetimeXp": 4550678,
       "prestigeRank": 188,
       "title": "feat_pumpkin_hunter"
     },
@@ -99,7 +99,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 49,
-      "lifetimeXp": 3979027,
+      "lifetimeXp": 3979220,
       "prestigeRank": 146,
       "title": "prog_mythic"
     },
@@ -109,7 +109,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 49,
-      "lifetimeXp": 3849474,
+      "lifetimeXp": 3895584,
       "prestigeRank": 0,
       "title": null
     },
@@ -545,22 +545,22 @@
     },
     {
       "rank": 55,
+      "name": "Jorix",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 40,
+      "lifetimeXp": 1589947,
+      "prestigeRank": 56,
+      "title": null
+    },
+    {
+      "rank": 56,
       "name": "Marssu",
       "cls": "warlock",
       "level": 20,
       "virtualLevel": 40,
       "lifetimeXp": 1586255,
       "prestigeRank": 61,
-      "title": null
-    },
-    {
-      "rank": 56,
-      "name": "Jorix",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 40,
-      "lifetimeXp": 1583652,
-      "prestigeRank": 56,
       "title": null
     },
     {
@@ -699,7 +699,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1393951,
+      "lifetimeXp": 1395598,
       "prestigeRank": 35,
       "title": "prog_mythic"
     },
@@ -785,6 +785,16 @@
     },
     {
       "rank": 79,
+      "name": "newbietext",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 38,
+      "lifetimeXp": 1313734,
+      "prestigeRank": 9,
+      "title": "dlv_nhalia_bells"
+    },
+    {
+      "rank": 80,
       "name": "Roots",
       "cls": "druid",
       "level": 20,
@@ -794,7 +804,7 @@
       "title": "prog_mythic"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "name": "Didel",
       "cls": "paladin",
       "level": 20,
@@ -802,16 +812,6 @@
       "lifetimeXp": 1307730,
       "prestigeRank": 40,
       "title": null
-    },
-    {
-      "rank": 81,
-      "name": "newbietext",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 38,
-      "lifetimeXp": 1302830,
-      "prestigeRank": 9,
-      "title": "dlv_nhalia_bells"
     },
     {
       "rank": 82,
@@ -1309,7 +1309,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1011490,
+      "lifetimeXp": 1011635,
       "prestigeRank": 0,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -1725,6 +1725,16 @@
     },
     {
       "rank": 173,
+      "name": "Rejla",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 869669,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 174,
       "name": "Fansar",
       "cls": "paladin",
       "level": 20,
@@ -1734,7 +1744,7 @@
       "title": null
     },
     {
-      "rank": 174,
+      "rank": 175,
       "name": "APOI",
       "cls": "mage",
       "level": 20,
@@ -1744,7 +1754,7 @@
       "title": "prog_veteran"
     },
     {
-      "rank": 175,
+      "rank": 176,
       "name": "zumbybr",
       "cls": "hunter",
       "level": 20,
@@ -1754,7 +1764,7 @@
       "title": null
     },
     {
-      "rank": 176,
+      "rank": 177,
       "name": "Pop Cap",
       "cls": "hunter",
       "level": 20,
@@ -1764,23 +1774,13 @@
       "title": "prog_grandmaster_weaponcrafting"
     },
     {
-      "rank": 177,
+      "rank": 178,
       "name": "Gameoverr",
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 34,
       "lifetimeXp": 863552,
       "prestigeRank": 29,
-      "title": null
-    },
-    {
-      "rank": 178,
-      "name": "Rejla",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 861656,
-      "prestigeRank": 0,
       "title": null
     },
     {
