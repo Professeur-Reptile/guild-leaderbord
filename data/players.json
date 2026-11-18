@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6562521,
+      "lifetimeXp": 6566162,
       "prestigeRank": 274,
       "title": "pvp_honor_knight_lieutenant"
     },
@@ -69,9 +69,9 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 51,
-      "lifetimeXp": 4626451,
+      "lifetimeXp": 4696301,
       "prestigeRank": 188,
-      "title": "feat_pumpkin_hunter"
+      "title": "dgn_drowned_temple_cantor"
     },
     {
       "rank": 8,
@@ -119,7 +119,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 49,
-      "lifetimeXp": 3798261,
+      "lifetimeXp": 3844246,
       "prestigeRank": 0,
       "title": null
     },
@@ -369,7 +369,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 42,
-      "lifetimeXp": 1918898,
+      "lifetimeXp": 1919038,
       "prestigeRank": 20,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -419,7 +419,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 41,
-      "lifetimeXp": 1814249,
+      "lifetimeXp": 1815252,
       "prestigeRank": 26,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -539,7 +539,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1601362,
+      "lifetimeXp": 1601652,
       "prestigeRank": 56,
       "title": null
     },
@@ -625,6 +625,16 @@
     },
     {
       "rank": 63,
+      "name": "Paladinos",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 39,
+      "lifetimeXp": 1490605,
+      "prestigeRank": 39,
+      "title": "prog_champion"
+    },
+    {
+      "rank": 64,
       "name": "SirDubalot",
       "cls": "paladin",
       "level": 20,
@@ -634,7 +644,7 @@
       "title": "prog_mythic"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "Kokolina",
       "cls": "priest",
       "level": 20,
@@ -644,7 +654,7 @@
       "title": "dgn_varkhul_flawless"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "eree",
       "cls": "rogue",
       "level": 20,
@@ -654,7 +664,7 @@
       "title": null
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "Ferax",
       "cls": "paladin",
       "level": 20,
@@ -664,7 +674,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "AlexSacer",
       "cls": "priest",
       "level": 20,
@@ -672,16 +682,6 @@
       "lifetimeXp": 1446818,
       "prestigeRank": 0,
       "title": "col_reliquary_rank_4"
-    },
-    {
-      "rank": 68,
-      "name": "Paladinos",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1432804,
-      "prestigeRank": 39,
-      "title": "prog_champion"
     },
     {
       "rank": 69,
@@ -749,7 +749,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1363545,
+      "lifetimeXp": 1370460,
       "prestigeRank": 0,
       "title": null
     },
@@ -799,7 +799,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1313790,
+      "lifetimeXp": 1313818,
       "prestigeRank": 9,
       "title": "dlv_nhalia_bells"
     },
@@ -1199,8 +1199,8 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1079112,
-      "prestigeRank": 38,
+      "lifetimeXp": 1079397,
+      "prestigeRank": 39,
       "title": "prog_veteran"
     },
     {
@@ -1289,7 +1289,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1014419,
+      "lifetimeXp": 1014503,
       "prestigeRank": 0,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -1329,7 +1329,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1009305,
+      "lifetimeXp": 1009450,
       "prestigeRank": 0,
       "title": null
     },
