@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6566162,
+      "lifetimeXp": 6573478,
       "prestigeRank": 274,
       "title": "pvp_honor_knight_lieutenant"
     },
@@ -39,7 +39,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 53,
-      "lifetimeXp": 5857539,
+      "lifetimeXp": 5859077,
       "prestigeRank": 232,
       "title": "prog_eternal"
     },
@@ -85,23 +85,23 @@
     },
     {
       "rank": 9,
-      "name": "kahldrek",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 50,
-      "lifetimeXp": 4088014,
-      "prestigeRank": 0,
-      "title": null
-    },
-    {
-      "rank": 10,
       "name": "SirChargeALot",
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 4074041,
+      "lifetimeXp": 4120350,
       "prestigeRank": 164,
       "title": "prog_mythic"
+    },
+    {
+      "rank": 10,
+      "name": "kahldrek",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 50,
+      "lifetimeXp": 4089371,
+      "prestigeRank": 0,
+      "title": null
     },
     {
       "rank": 11,
@@ -219,7 +219,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 46,
-      "lifetimeXp": 2807974,
+      "lifetimeXp": 2808098,
       "prestigeRank": 112,
       "title": null
     },
@@ -539,7 +539,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1601652,
+      "lifetimeXp": 1601942,
       "prestigeRank": 56,
       "title": null
     },
@@ -615,6 +615,16 @@
     },
     {
       "rank": 62,
+      "name": "SirDubalot",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 40,
+      "lifetimeXp": 1502804,
+      "prestigeRank": 35,
+      "title": "prog_mythic"
+    },
+    {
+      "rank": 63,
       "name": "HanzoKan",
       "cls": "paladin",
       "level": 20,
@@ -624,7 +634,7 @@
       "title": "feat_title_trickster"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "name": "Paladinos",
       "cls": "paladin",
       "level": 20,
@@ -632,16 +642,6 @@
       "lifetimeXp": 1490605,
       "prestigeRank": 39,
       "title": "prog_champion"
-    },
-    {
-      "rank": 64,
-      "name": "SirDubalot",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1483967,
-      "prestigeRank": 35,
-      "title": "prog_mythic"
     },
     {
       "rank": 65,
@@ -1419,7 +1419,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 956929,
+      "lifetimeXp": 958220,
       "prestigeRank": 27,
       "title": "prog_champion"
     },
