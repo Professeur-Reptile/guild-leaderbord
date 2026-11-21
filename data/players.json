@@ -39,7 +39,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 54,
-      "lifetimeXp": 5976966,
+      "lifetimeXp": 5978385,
       "prestigeRank": 232,
       "title": "prog_eternal"
     },
@@ -58,8 +58,8 @@
       "name": "Bastian",
       "cls": "warrior",
       "level": 20,
-      "virtualLevel": 51,
-      "lifetimeXp": 4826631,
+      "virtualLevel": 52,
+      "lifetimeXp": 4867051,
       "prestigeRank": 188,
       "title": "feat_pumpkin_hunter"
     },
@@ -119,7 +119,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 49,
-      "lifetimeXp": 3931841,
+      "lifetimeXp": 3980335,
       "prestigeRank": 0,
       "title": null
     },
@@ -545,6 +545,16 @@
     },
     {
       "rank": 55,
+      "name": "Paladinos",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 40,
+      "lifetimeXp": 1598106,
+      "prestigeRank": 39,
+      "title": "prog_champion"
+    },
+    {
+      "rank": 56,
       "name": "jhons",
       "cls": "hunter",
       "level": 20,
@@ -554,7 +564,7 @@
       "title": null
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "SirDubalot",
       "cls": "paladin",
       "level": 20,
@@ -564,7 +574,7 @@
       "title": "prog_mythic"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "name": "Marssu",
       "cls": "warlock",
       "level": 20,
@@ -574,7 +584,7 @@
       "title": null
     },
     {
-      "rank": 58,
+      "rank": 59,
       "name": "SooYa",
       "cls": "hunter",
       "level": 20,
@@ -584,7 +594,7 @@
       "title": "prog_veteran"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "name": "Khanh an",
       "cls": "mage",
       "level": 20,
@@ -592,16 +602,6 @@
       "lifetimeXp": 1550351,
       "prestigeRank": 20,
       "title": "dgn_nythraxis_deathless"
-    },
-    {
-      "rank": 60,
-      "name": "Paladinos",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 40,
-      "lifetimeXp": 1549905,
-      "prestigeRank": 39,
-      "title": "prog_champion"
     },
     {
       "rank": 61,
@@ -995,6 +995,16 @@
     },
     {
       "rank": 100,
+      "name": "CTA",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 37,
+      "lifetimeXp": 1216356,
+      "prestigeRank": 44,
+      "title": "col_discovery_150"
+    },
+    {
+      "rank": 101,
       "name": "ZooLet",
       "cls": "hunter",
       "level": 20,
@@ -1004,7 +1014,7 @@
       "title": null
     },
     {
-      "rank": 101,
+      "rank": 102,
       "name": "annihilator",
       "cls": "hunter",
       "level": 20,
@@ -1014,7 +1024,7 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 102,
+      "rank": 103,
       "name": "Marinda",
       "cls": "warlock",
       "level": 20,
@@ -1024,7 +1034,7 @@
       "title": "prog_grandmaster_tailoring"
     },
     {
-      "rank": 103,
+      "rank": 104,
       "name": "Summus",
       "cls": "mage",
       "level": 20,
@@ -1034,7 +1044,7 @@
       "title": "prog_paragon"
     },
     {
-      "rank": 104,
+      "rank": 105,
       "name": "Btos",
       "cls": "hunter",
       "level": 20,
@@ -1044,7 +1054,7 @@
       "title": null
     },
     {
-      "rank": 105,
+      "rank": 106,
       "name": "ZooLot",
       "cls": "hunter",
       "level": 20,
@@ -1054,7 +1064,7 @@
       "title": null
     },
     {
-      "rank": 106,
+      "rank": 107,
       "name": "HanzoKin",
       "cls": "warrior",
       "level": 20,
@@ -1064,7 +1074,7 @@
       "title": "prog_farming_100"
     },
     {
-      "rank": 107,
+      "rank": 108,
       "name": "FULAST",
       "cls": "paladin",
       "level": 20,
@@ -1072,16 +1082,6 @@
       "lifetimeXp": 1130459,
       "prestigeRank": 0,
       "title": "chr_vale_chapter_iii"
-    },
-    {
-      "rank": 108,
-      "name": "CTA",
-      "cls": "hunter",
-      "level": 20,
-      "virtualLevel": 37,
-      "lifetimeXp": 1117659,
-      "prestigeRank": 40,
-      "title": "prog_veteran"
     },
     {
       "rank": 109,
