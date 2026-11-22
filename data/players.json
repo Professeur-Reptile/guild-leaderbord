@@ -39,7 +39,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 54,
-      "lifetimeXp": 6025374,
+      "lifetimeXp": 6039482,
       "prestigeRank": 232,
       "title": "prog_eternal"
     },
@@ -59,7 +59,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 52,
-      "lifetimeXp": 4888894,
+      "lifetimeXp": 4916707,
       "prestigeRank": 188,
       "title": "feat_pumpkin_hunter"
     },
@@ -89,7 +89,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 4263761,
+      "lifetimeXp": 4264379,
       "prestigeRank": 172,
       "title": "prog_mythic"
     },
@@ -119,7 +119,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 3992134,
+      "lifetimeXp": 3994620,
       "prestigeRank": 0,
       "title": null
     },
@@ -339,7 +339,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 43,
-      "lifetimeXp": 2027694,
+      "lifetimeXp": 2028728,
       "prestigeRank": 20,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -385,6 +385,16 @@
     },
     {
       "rank": 39,
+      "name": "Ghostdog",
+      "cls": "shaman",
+      "level": 20,
+      "virtualLevel": 42,
+      "lifetimeXp": 1883593,
+      "prestigeRank": 26,
+      "title": "col_reliquary_illum_gravewyrm_heroic"
+    },
+    {
+      "rank": 40,
       "name": "Walla",
       "cls": "warrior",
       "level": 20,
@@ -394,7 +404,7 @@
       "title": null
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "Whiteghost",
       "cls": "rogue",
       "level": 20,
@@ -404,7 +414,7 @@
       "title": "hid_saul_footnote"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "Shindo",
       "cls": "hunter",
       "level": 20,
@@ -412,16 +422,6 @@
       "lifetimeXp": 1836495,
       "prestigeRank": 2,
       "title": "prog_champion"
-    },
-    {
-      "rank": 42,
-      "name": "Ghostdog",
-      "cls": "shaman",
-      "level": 20,
-      "virtualLevel": 42,
-      "lifetimeXp": 1833516,
-      "prestigeRank": 26,
-      "title": "col_reliquary_illum_gravewyrm_heroic"
     },
     {
       "rank": 43,
@@ -469,7 +469,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 41,
-      "lifetimeXp": 1709039,
+      "lifetimeXp": 1721297,
       "prestigeRank": 39,
       "title": "prog_champion"
     },
@@ -529,8 +529,8 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1635054,
-      "prestigeRank": 35,
+      "lifetimeXp": 1637732,
+      "prestigeRank": 63,
       "title": "prog_mythic"
     },
     {
@@ -549,7 +549,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1615604,
+      "lifetimeXp": 1622288,
       "prestigeRank": 56,
       "title": null
     },
@@ -695,6 +695,16 @@
     },
     {
       "rank": 70,
+      "name": "Roots",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 39,
+      "lifetimeXp": 1404744,
+      "prestigeRank": 44,
+      "title": "prog_mythic"
+    },
+    {
+      "rank": 71,
       "name": "Spectra",
       "cls": "warrior",
       "level": 20,
@@ -704,7 +714,7 @@
       "title": null
     },
     {
-      "rank": 71,
+      "rank": 72,
       "name": "Lowlife",
       "cls": "warrior",
       "level": 20,
@@ -714,7 +724,7 @@
       "title": "prog_grandmaster_enchanting"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "name": "eras",
       "cls": "rogue",
       "level": 20,
@@ -724,7 +734,7 @@
       "title": "prog_champion"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "name": "Shkuroshyup",
       "cls": "mage",
       "level": 20,
@@ -734,7 +744,17 @@
       "title": null
     },
     {
-      "rank": 74,
+      "rank": 75,
+      "name": "Obronca",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 39,
+      "lifetimeXp": 1377460,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 76,
       "name": "Hooga",
       "cls": "hunter",
       "level": 20,
@@ -742,26 +762,6 @@
       "lifetimeXp": 1376978,
       "prestigeRank": 51,
       "title": "col_reliquary_rank_4"
-    },
-    {
-      "rank": 75,
-      "name": "Obronca",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1372720,
-      "prestigeRank": 0,
-      "title": null
-    },
-    {
-      "rank": 76,
-      "name": "Roots",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1369007,
-      "prestigeRank": 44,
-      "title": "prog_mythic"
     },
     {
       "rank": 77,
@@ -1205,6 +1205,16 @@
     },
     {
       "rank": 121,
+      "name": "Rikimaru",
+      "cls": "rogue",
+      "level": 20,
+      "virtualLevel": 36,
+      "lifetimeXp": 1075054,
+      "prestigeRank": 0,
+      "title": "col_reliquary_illum_gravewyrm_heroic"
+    },
+    {
+      "rank": 122,
       "name": "Sir RageBait",
       "cls": "warrior",
       "level": 20,
@@ -1212,16 +1222,6 @@
       "lifetimeXp": 1072263,
       "prestigeRank": 37,
       "title": null
-    },
-    {
-      "rank": 122,
-      "name": "Rikimaru",
-      "cls": "rogue",
-      "level": 20,
-      "virtualLevel": 36,
-      "lifetimeXp": 1070080,
-      "prestigeRank": 0,
-      "title": "col_reliquary_illum_gravewyrm_heroic"
     },
     {
       "rank": 123,
@@ -1605,6 +1605,16 @@
     },
     {
       "rank": 161,
+      "name": "Rejla",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 35,
+      "lifetimeXp": 905549,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 162,
       "name": "dutha",
       "cls": "warlock",
       "level": 20,
@@ -1614,7 +1624,7 @@
       "title": null
     },
     {
-      "rank": 162,
+      "rank": 163,
       "name": "ROROTANK",
       "cls": "warrior",
       "level": 20,
@@ -1624,7 +1634,7 @@
       "title": null
     },
     {
-      "rank": 163,
+      "rank": 164,
       "name": "DIAPER ABUSER",
       "cls": "warrior",
       "level": 20,
@@ -1634,7 +1644,7 @@
       "title": null
     },
     {
-      "rank": 164,
+      "rank": 165,
       "name": "PAperclip",
       "cls": "hunter",
       "level": 20,
@@ -1644,7 +1654,7 @@
       "title": "feat_title_hollow_grinned"
     },
     {
-      "rank": 165,
+      "rank": 166,
       "name": "Warken",
       "cls": "druid",
       "level": 20,
@@ -1654,7 +1664,7 @@
       "title": null
     },
     {
-      "rank": 166,
+      "rank": 167,
       "name": "KISSMYSWORD",
       "cls": "warrior",
       "level": 20,
@@ -1664,7 +1674,7 @@
       "title": "dgn_korzul_flawless"
     },
     {
-      "rank": 167,
+      "rank": 168,
       "name": "Ninex",
       "cls": "warrior",
       "level": 20,
@@ -1674,7 +1684,7 @@
       "title": "col_reliquary_illum_nythraxis_heroic"
     },
     {
-      "rank": 168,
+      "rank": 169,
       "name": "Priestdim",
       "cls": "priest",
       "level": 20,
@@ -1684,7 +1694,7 @@
       "title": null
     },
     {
-      "rank": 169,
+      "rank": 170,
       "name": "Damhobbitses",
       "cls": "warrior",
       "level": 20,
@@ -1694,23 +1704,13 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 170,
+      "rank": 171,
       "name": "czH",
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 34,
       "lifetimeXp": 883438,
       "prestigeRank": 3,
-      "title": null
-    },
-    {
-      "rank": 171,
-      "name": "Rejla",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 881143,
-      "prestigeRank": 0,
       "title": null
     },
     {
