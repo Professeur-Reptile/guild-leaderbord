@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6656760,
+      "lifetimeXp": 6727765,
       "prestigeRank": 274,
       "title": "pvp_honor_knight_lieutenant"
     },
@@ -79,12 +79,22 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 4307708,
+      "lifetimeXp": 4355171,
       "prestigeRank": 172,
       "title": "prog_mythic"
     },
     {
       "rank": 9,
+      "name": "kahldrek",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 50,
+      "lifetimeXp": 4314771,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 10,
       "name": "rorobg",
       "cls": "warrior",
       "level": 20,
@@ -94,22 +104,12 @@
       "title": "prog_mythic"
     },
     {
-      "rank": 10,
-      "name": "kahldrek",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 50,
-      "lifetimeXp": 4262510,
-      "prestigeRank": 0,
-      "title": null
-    },
-    {
       "rank": 11,
       "name": "PALF",
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 4054146,
+      "lifetimeXp": 4060655,
       "prestigeRank": 0,
       "title": null
     },
@@ -665,6 +665,16 @@
     },
     {
       "rank": 67,
+      "name": "Roots",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 39,
+      "lifetimeXp": 1458507,
+      "prestigeRank": 44,
+      "title": "prog_mythic"
+    },
+    {
+      "rank": 68,
       "name": "Ferax",
       "cls": "paladin",
       "level": 20,
@@ -674,22 +684,12 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 68,
-      "name": "Roots",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1450518,
-      "prestigeRank": 44,
-      "title": "prog_mythic"
-    },
-    {
       "rank": 69,
       "name": "AlexSacer",
       "cls": "priest",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1446818,
+      "lifetimeXp": 1452592,
       "prestigeRank": 0,
       "title": "col_reliquary_rank_4"
     },
@@ -969,7 +969,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1229296,
+      "lifetimeXp": 1233076,
       "prestigeRank": 0,
       "title": "prog_champion"
     },
@@ -1995,13 +1995,13 @@
     },
     {
       "rank": 200,
-      "name": "Mace",
-      "cls": "mage",
+      "name": "Arrabbiata",
+      "cls": "priest",
       "level": 20,
       "virtualLevel": 34,
-      "lifetimeXp": 836494,
-      "prestigeRank": 0,
-      "title": "soc_market_magnate"
+      "lifetimeXp": 837825,
+      "prestigeRank": 28,
+      "title": null
     }
   ]
 }
