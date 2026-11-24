@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6749256,
+      "lifetimeXp": 6812673,
       "prestigeRank": 274,
       "title": "pvp_honor_knight_lieutenant"
     },
@@ -39,7 +39,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 54,
-      "lifetimeXp": 6170004,
+      "lifetimeXp": 6176318,
       "prestigeRank": 232,
       "title": "prog_eternal"
     },
@@ -59,7 +59,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 52,
-      "lifetimeXp": 4975330,
+      "lifetimeXp": 5032710,
       "prestigeRank": 188,
       "title": "feat_pumpkin_hunter"
     },
@@ -79,7 +79,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 4387782,
+      "lifetimeXp": 4388101,
       "prestigeRank": 172,
       "title": "prog_mythic"
     },
@@ -89,7 +89,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 4314771,
+      "lifetimeXp": 4316909,
       "prestigeRank": 0,
       "title": null
     },
@@ -219,7 +219,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 46,
-      "lifetimeXp": 2821479,
+      "lifetimeXp": 2885358,
       "prestigeRank": 112,
       "title": null
     },
@@ -339,7 +339,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 43,
-      "lifetimeXp": 2046404,
+      "lifetimeXp": 2049374,
       "prestigeRank": 20,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -385,6 +385,16 @@
     },
     {
       "rank": 39,
+      "name": "Ghostdog",
+      "cls": "shaman",
+      "level": 20,
+      "virtualLevel": 42,
+      "lifetimeXp": 1910267,
+      "prestigeRank": 26,
+      "title": "col_reliquary_illum_gravewyrm_heroic"
+    },
+    {
+      "rank": 40,
       "name": "zarmy",
       "cls": "hunter",
       "level": 20,
@@ -392,16 +402,6 @@
       "lifetimeXp": 1907513,
       "prestigeRank": 0,
       "title": null
-    },
-    {
-      "rank": 40,
-      "name": "Ghostdog",
-      "cls": "shaman",
-      "level": 20,
-      "virtualLevel": 42,
-      "lifetimeXp": 1883909,
-      "prestigeRank": 26,
-      "title": "col_reliquary_illum_gravewyrm_heroic"
     },
     {
       "rank": 41,
@@ -1925,6 +1925,16 @@
     },
     {
       "rank": 193,
+      "name": "Arrabbiata",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 844921,
+      "prestigeRank": 28,
+      "title": null
+    },
+    {
+      "rank": 194,
       "name": "ggos",
       "cls": "hunter",
       "level": 20,
@@ -1934,7 +1944,7 @@
       "title": null
     },
     {
-      "rank": 194,
+      "rank": 195,
       "name": "cheops",
       "cls": "warlock",
       "level": 20,
@@ -1944,7 +1954,7 @@
       "title": null
     },
     {
-      "rank": 195,
+      "rank": 196,
       "name": "Rosecourt",
       "cls": "rogue",
       "level": 20,
@@ -1954,7 +1964,7 @@
       "title": null
     },
     {
-      "rank": 196,
+      "rank": 197,
       "name": "MRxWesker",
       "cls": "warlock",
       "level": 20,
@@ -1964,7 +1974,7 @@
       "title": "cmb_thunzharr_unbroken"
     },
     {
-      "rank": 197,
+      "rank": 198,
       "name": "Rahan",
       "cls": "hunter",
       "level": 20,
@@ -1974,7 +1984,7 @@
       "title": null
     },
     {
-      "rank": 198,
+      "rank": 199,
       "name": "hyein",
       "cls": "mage",
       "level": 20,
@@ -1984,7 +1994,7 @@
       "title": "prog_grandmaster_alchemy"
     },
     {
-      "rank": 199,
+      "rank": 200,
       "name": "Soywin",
       "cls": "warrior",
       "level": 20,
@@ -1992,16 +2002,6 @@
       "lifetimeXp": 838329,
       "prestigeRank": 27,
       "title": "cmb_thunzharr_unbroken"
-    },
-    {
-      "rank": 200,
-      "name": "Arrabbiata",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 837825,
-      "prestigeRank": 28,
-      "title": null
     }
   ]
 }
