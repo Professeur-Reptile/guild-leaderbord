@@ -2,21 +2,6 @@
   "_help": "Registry of guilds on the Boards. serverRank/members/avgLevel/totalXp are synced automatically from the game's official leaderboard API by scripts/sync_guilds.py (3-hour cron, see update-guilds.yml) — do not edit them by hand. Editorial fields (tag, region, lang, site, motto, created) are managed via issues/PRs and never touched by the sync. null renders as '—' on the site.",
   "guilds": [
     {
-      "id": "raiders-united",
-      "name": "Raiders United",
-      "tag": null,
-      "region": null,
-      "lang": null,
-      "site": null,
-      "motto": null,
-      "created": null,
-      "members": 240,
-      "avgLevel": null,
-      "totalXp": 90448799,
-      "serverRank": 1,
-      "topLevel": 20
-    },
-    {
       "id": "sovereign",
       "name": "Sovereign",
       "tag": null,
@@ -28,7 +13,22 @@
       "members": 160,
       "topLevel": 20,
       "totalXp": 89171013,
-      "serverRank": 2
+      "serverRank": 1
+    },
+    {
+      "id": "raiders-united",
+      "name": "Raiders United",
+      "tag": null,
+      "region": null,
+      "lang": null,
+      "site": null,
+      "motto": null,
+      "created": null,
+      "members": 200,
+      "avgLevel": null,
+      "totalXp": 77307067,
+      "serverRank": 2,
+      "topLevel": 20
     },
     {
       "id": "monarchs",
@@ -56,7 +56,7 @@
       "created": null,
       "members": 140,
       "topLevel": 20,
-      "totalXp": 36707065,
+      "totalXp": 36724322,
       "serverRank": 4
     },
     {
@@ -85,7 +85,7 @@
       "created": null,
       "members": 28,
       "topLevel": 20,
-      "totalXp": 26594391,
+      "totalXp": 26647394,
       "serverRank": 6
     },
     {
@@ -127,7 +127,7 @@
       "created": null,
       "members": 25,
       "topLevel": 20,
-      "totalXp": 16775648,
+      "totalXp": 16782330,
       "serverRank": 9
     },
     {
@@ -156,7 +156,7 @@
       "created": null,
       "members": 13,
       "topLevel": 20,
-      "totalXp": 15592081,
+      "totalXp": 15657476,
       "serverRank": 11
     },
     {
@@ -312,7 +312,7 @@
       "created": null,
       "members": 33,
       "avgLevel": null,
-      "totalXp": 8116439,
+      "totalXp": 8118488,
       "serverRank": 22,
       "topLevel": 20
     },
@@ -341,7 +341,7 @@
       "created": null,
       "members": 6,
       "topLevel": 20,
-      "totalXp": 7208249,
+      "totalXp": 7228632,
       "serverRank": 24
     },
     {
@@ -442,7 +442,7 @@
       "created": null,
       "members": 11,
       "topLevel": 20,
-      "totalXp": 4772436,
+      "totalXp": 4793610,
       "serverRank": 31
     },
     {

@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6819102,
+      "lifetimeXp": 6872105,
       "prestigeRank": 274,
       "title": "pvp_honor_knight_lieutenant"
     },
@@ -59,8 +59,8 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 52,
-      "lifetimeXp": 5087082,
-      "prestigeRank": 188,
+      "lifetimeXp": 5146644,
+      "prestigeRank": 212,
       "title": "feat_pumpkin_hunter"
     },
     {
@@ -89,7 +89,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 4317825,
+      "lifetimeXp": 4321795,
       "prestigeRank": 0,
       "title": null
     },
@@ -109,7 +109,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 4150727,
+      "lifetimeXp": 4171110,
       "prestigeRank": 0,
       "title": null
     },
@@ -219,7 +219,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 46,
-      "lifetimeXp": 2886183,
+      "lifetimeXp": 2888415,
       "prestigeRank": 117,
       "title": null
     },
@@ -309,7 +309,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 43,
-      "lifetimeXp": 2076479,
+      "lifetimeXp": 2088365,
       "prestigeRank": 39,
       "title": "prog_champion"
     },
@@ -535,6 +535,16 @@
     },
     {
       "rank": 54,
+      "name": "Jorix",
+      "cls": "druid",
+      "level": 20,
+      "virtualLevel": 40,
+      "lifetimeXp": 1643835,
+      "prestigeRank": 56,
+      "title": null
+    },
+    {
+      "rank": 55,
       "name": "Streeczech",
       "cls": "warlock",
       "level": 20,
@@ -542,16 +552,6 @@
       "lifetimeXp": 1631112,
       "prestigeRank": 0,
       "title": "exp_world_traveler"
-    },
-    {
-      "rank": 55,
-      "name": "Jorix",
-      "cls": "druid",
-      "level": 20,
-      "virtualLevel": 40,
-      "lifetimeXp": 1628646,
-      "prestigeRank": 56,
-      "title": null
     },
     {
       "rank": 56,
@@ -749,7 +749,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1377718,
+      "lifetimeXp": 1378922,
       "prestigeRank": 0,
       "title": null
     },
@@ -775,6 +775,16 @@
     },
     {
       "rank": 78,
+      "name": "CTA",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 38,
+      "lifetimeXp": 1347136,
+      "prestigeRank": 50,
+      "title": "col_discovery_150"
+    },
+    {
+      "rank": 79,
       "name": "ZooLat",
       "cls": "hunter",
       "level": 20,
@@ -784,7 +794,7 @@
       "title": null
     },
     {
-      "rank": 79,
+      "rank": 80,
       "name": "Sweden",
       "cls": "hunter",
       "level": 20,
@@ -794,7 +804,7 @@
       "title": null
     },
     {
-      "rank": 80,
+      "rank": 81,
       "name": "newbietext",
       "cls": "druid",
       "level": 20,
@@ -802,16 +812,6 @@
       "lifetimeXp": 1313874,
       "prestigeRank": 9,
       "title": "dlv_nhalia_bells"
-    },
-    {
-      "rank": 81,
-      "name": "CTA",
-      "cls": "hunter",
-      "level": 20,
-      "virtualLevel": 38,
-      "lifetimeXp": 1310324,
-      "prestigeRank": 45,
-      "title": "col_discovery_150"
     },
     {
       "rank": 82,
@@ -1139,7 +1139,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 36,
-      "lifetimeXp": 1098407,
+      "lifetimeXp": 1099401,
       "prestigeRank": 0,
       "title": null
     },
@@ -1609,7 +1609,7 @@
       "cls": "priest",
       "level": 20,
       "virtualLevel": 35,
-      "lifetimeXp": 905643,
+      "lifetimeXp": 905756,
       "prestigeRank": 0,
       "title": null
     },
@@ -1795,6 +1795,16 @@
     },
     {
       "rank": 180,
+      "name": "Arrabbiata",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 863103,
+      "prestigeRank": 28,
+      "title": null
+    },
+    {
+      "rank": 181,
       "name": "AlexPaladin",
       "cls": "paladin",
       "level": 20,
@@ -1804,7 +1814,7 @@
       "title": null
     },
     {
-      "rank": 181,
+      "rank": 182,
       "name": "ragnarokk",
       "cls": "warrior",
       "level": 20,
@@ -1814,23 +1824,13 @@
       "title": null
     },
     {
-      "rank": 182,
+      "rank": 183,
       "name": "Lovecoil",
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 34,
       "lifetimeXp": 859224,
       "prestigeRank": 29,
-      "title": null
-    },
-    {
-      "rank": 183,
-      "name": "Arrabbiata",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 856421,
-      "prestigeRank": 28,
       "title": null
     },
     {
