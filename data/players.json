@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6872105,
+      "lifetimeXp": 6926687,
       "prestigeRank": 274,
       "title": "pvp_honor_knight_lieutenant"
     },
@@ -29,7 +29,7 @@
       "cls": "mage",
       "level": 20,
       "virtualLevel": 54,
-      "lifetimeXp": 6299346,
+      "lifetimeXp": 6360120,
       "prestigeRank": 232,
       "title": "prog_eternal"
     },
@@ -79,8 +79,8 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 51,
-      "lifetimeXp": 4560136,
-      "prestigeRank": 183,
+      "lifetimeXp": 4646398,
+      "prestigeRank": 193,
       "title": "prog_mythic"
     },
     {
@@ -109,7 +109,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 50,
-      "lifetimeXp": 4205306,
+      "lifetimeXp": 4214832,
       "prestigeRank": 0,
       "title": null
     },
@@ -309,7 +309,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 43,
-      "lifetimeXp": 2088365,
+      "lifetimeXp": 2144218,
       "prestigeRank": 39,
       "title": "prog_champion"
     },
@@ -648,9 +648,9 @@
       "name": "Roots",
       "cls": "druid",
       "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1466514,
-      "prestigeRank": 44,
+      "virtualLevel": 40,
+      "lifetimeXp": 1502756,
+      "prestigeRank": 57,
       "title": "prog_mythic"
     },
     {
@@ -725,6 +725,16 @@
     },
     {
       "rank": 73,
+      "name": "CTA",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 39,
+      "lifetimeXp": 1393016,
+      "prestigeRank": 52,
+      "title": "col_discovery_150"
+    },
+    {
+      "rank": 74,
       "name": "eras",
       "cls": "rogue",
       "level": 20,
@@ -734,7 +744,7 @@
       "title": "prog_champion"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "name": "Shkuroshyup",
       "cls": "mage",
       "level": 20,
@@ -744,7 +754,7 @@
       "title": null
     },
     {
-      "rank": 75,
+      "rank": 76,
       "name": "Obronca",
       "cls": "paladin",
       "level": 20,
@@ -754,7 +764,7 @@
       "title": null
     },
     {
-      "rank": 76,
+      "rank": 77,
       "name": "Hooga",
       "cls": "hunter",
       "level": 20,
@@ -764,7 +774,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "name": "Bighat",
       "cls": "priest",
       "level": 20,
@@ -772,16 +782,6 @@
       "lifetimeXp": 1357749,
       "prestigeRank": 0,
       "title": null
-    },
-    {
-      "rank": 78,
-      "name": "CTA",
-      "cls": "hunter",
-      "level": 20,
-      "virtualLevel": 38,
-      "lifetimeXp": 1350970,
-      "prestigeRank": 51,
-      "title": "col_discovery_150"
     },
     {
       "rank": 79,
@@ -1345,6 +1345,16 @@
     },
     {
       "rank": 135,
+      "name": "Arrabbiata",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 36,
+      "lifetimeXp": 1007051,
+      "prestigeRank": 36,
+      "title": "prog_champion"
+    },
+    {
+      "rank": 136,
       "name": "Candyman",
       "cls": "warrior",
       "level": 20,
@@ -1354,7 +1364,7 @@
       "title": "cmb_thunzharr_unbroken"
     },
     {
-      "rank": 136,
+      "rank": 137,
       "name": "Lady Aleena",
       "cls": "hunter",
       "level": 20,
@@ -1364,7 +1374,7 @@
       "title": null
     },
     {
-      "rank": 137,
+      "rank": 138,
       "name": "strelomet",
       "cls": "hunter",
       "level": 20,
@@ -1374,7 +1384,7 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 138,
+      "rank": 139,
       "name": "TomatoTony",
       "cls": "mage",
       "level": 20,
@@ -1382,16 +1392,6 @@
       "lifetimeXp": 974982,
       "prestigeRank": 30,
       "title": "col_reliquary_illum_nythraxis_heroic"
-    },
-    {
-      "rank": 139,
-      "name": "Arrabbiata",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 35,
-      "lifetimeXp": 970951,
-      "prestigeRank": 34,
-      "title": null
     },
     {
       "rank": 140,
@@ -1855,6 +1855,16 @@
     },
     {
       "rank": 186,
+      "name": "Braxton",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 855206,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 187,
       "name": "Klerc",
       "cls": "paladin",
       "level": 20,
@@ -1864,7 +1874,7 @@
       "title": null
     },
     {
-      "rank": 187,
+      "rank": 188,
       "name": "Lest",
       "cls": "hunter",
       "level": 20,
@@ -1874,7 +1884,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 188,
+      "rank": 189,
       "name": "Wardim",
       "cls": "warrior",
       "level": 20,
@@ -1884,7 +1894,7 @@
       "title": null
     },
     {
-      "rank": 189,
+      "rank": 190,
       "name": "porkguy",
       "cls": "paladin",
       "level": 20,
@@ -1894,7 +1904,7 @@
       "title": null
     },
     {
-      "rank": 190,
+      "rank": 191,
       "name": "Jocph",
       "cls": "warlock",
       "level": 20,
@@ -1904,7 +1914,7 @@
       "title": "prog_grandmaster_alchemy"
     },
     {
-      "rank": 191,
+      "rank": 192,
       "name": "Asland",
       "cls": "hunter",
       "level": 20,
@@ -1914,7 +1924,7 @@
       "title": null
     },
     {
-      "rank": 192,
+      "rank": 193,
       "name": "SlasherCaster",
       "cls": "mage",
       "level": 20,
@@ -1924,7 +1934,7 @@
       "title": "dlv_nhalia_bells"
     },
     {
-      "rank": 193,
+      "rank": 194,
       "name": "Black Turtle",
       "cls": "warrior",
       "level": 20,
@@ -1934,7 +1944,7 @@
       "title": "dgn_nythraxis_deathless"
     },
     {
-      "rank": 194,
+      "rank": 195,
       "name": "ggos",
       "cls": "hunter",
       "level": 20,
@@ -1944,7 +1954,7 @@
       "title": null
     },
     {
-      "rank": 195,
+      "rank": 196,
       "name": "cheops",
       "cls": "warlock",
       "level": 20,
@@ -1954,7 +1964,7 @@
       "title": null
     },
     {
-      "rank": 196,
+      "rank": 197,
       "name": "Rosecourt",
       "cls": "rogue",
       "level": 20,
@@ -1964,7 +1974,7 @@
       "title": null
     },
     {
-      "rank": 197,
+      "rank": 198,
       "name": "MRxWesker",
       "cls": "warlock",
       "level": 20,
@@ -1974,7 +1984,7 @@
       "title": "cmb_thunzharr_unbroken"
     },
     {
-      "rank": 198,
+      "rank": 199,
       "name": "Rahan",
       "cls": "hunter",
       "level": 20,
@@ -1984,7 +1994,7 @@
       "title": null
     },
     {
-      "rank": 199,
+      "rank": 200,
       "name": "hyein",
       "cls": "mage",
       "level": 20,
@@ -1992,16 +2002,6 @@
       "lifetimeXp": 838439,
       "prestigeRank": 28,
       "title": "prog_grandmaster_alchemy"
-    },
-    {
-      "rank": 200,
-      "name": "Soywin",
-      "cls": "warrior",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 838329,
-      "prestigeRank": 27,
-      "title": "cmb_thunzharr_unbroken"
     }
   ]
 }
