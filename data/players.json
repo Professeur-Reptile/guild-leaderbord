@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6980409,
+      "lifetimeXp": 7034157,
       "prestigeRank": 274,
       "title": "pvp_honor_knight_lieutenant"
     },
@@ -28,8 +28,8 @@
       "name": "snipercup",
       "cls": "mage",
       "level": 20,
-      "virtualLevel": 54,
-      "lifetimeXp": 6420164,
+      "virtualLevel": 55,
+      "lifetimeXp": 6481896,
       "prestigeRank": 232,
       "title": "prog_eternal"
     },
@@ -59,7 +59,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 52,
-      "lifetimeXp": 5205472,
+      "lifetimeXp": 5254806,
       "prestigeRank": 212,
       "title": "feat_pumpkin_hunter"
     },
@@ -79,8 +79,8 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 51,
-      "lifetimeXp": 4646398,
-      "prestigeRank": 193,
+      "lifetimeXp": 4691258,
+      "prestigeRank": 195,
       "title": "prog_mythic"
     },
     {
@@ -95,6 +95,16 @@
     },
     {
       "rank": 10,
+      "name": "PALF",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 50,
+      "lifetimeXp": 4329156,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 11,
       "name": "rorobg",
       "cls": "warrior",
       "level": 20,
@@ -102,16 +112,6 @@
       "lifetimeXp": 4267401,
       "prestigeRank": 176,
       "title": "prog_mythic"
-    },
-    {
-      "rank": 11,
-      "name": "PALF",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 50,
-      "lifetimeXp": 4263887,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 12,
@@ -159,7 +159,7 @@
       "cls": "rogue",
       "level": 20,
       "virtualLevel": 48,
-      "lifetimeXp": 3464194,
+      "lifetimeXp": 3464582,
       "prestigeRank": 42,
       "title": "pvp_flag_1h"
     },
@@ -319,7 +319,7 @@
       "cls": "paladin",
       "level": 20,
       "virtualLevel": 43,
-      "lifetimeXp": 2102698,
+      "lifetimeXp": 2102843,
       "prestigeRank": 20,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -599,7 +599,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 40,
-      "lifetimeXp": 1552336,
+      "lifetimeXp": 1559318,
       "prestigeRank": 57,
       "title": "prog_mythic"
     },
@@ -655,6 +655,16 @@
     },
     {
       "rank": 66,
+      "name": "CTA",
+      "cls": "hunter",
+      "level": 20,
+      "virtualLevel": 40,
+      "lifetimeXp": 1498569,
+      "prestigeRank": 57,
+      "title": "col_discovery_150"
+    },
+    {
+      "rank": 67,
       "name": "Kokolina",
       "cls": "priest",
       "level": 20,
@@ -664,7 +674,7 @@
       "title": "dgn_varkhul_flawless"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "eree",
       "cls": "rogue",
       "level": 20,
@@ -674,7 +684,7 @@
       "title": null
     },
     {
-      "rank": 68,
+      "rank": 69,
       "name": "AlexSacer",
       "cls": "priest",
       "level": 20,
@@ -684,7 +694,7 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "name": "Ferax",
       "cls": "paladin",
       "level": 20,
@@ -692,16 +702,6 @@
       "lifetimeXp": 1455220,
       "prestigeRank": 0,
       "title": "col_reliquary_rank_4"
-    },
-    {
-      "rank": 70,
-      "name": "CTA",
-      "cls": "hunter",
-      "level": 20,
-      "virtualLevel": 39,
-      "lifetimeXp": 1447686,
-      "prestigeRank": 55,
-      "title": "col_discovery_150"
     },
     {
       "rank": 71,
@@ -809,7 +809,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 38,
-      "lifetimeXp": 1319612,
+      "lifetimeXp": 1319958,
       "prestigeRank": 9,
       "title": "dlv_nhalia_bells"
     },
@@ -1125,6 +1125,16 @@
     },
     {
       "rank": 113,
+      "name": "Niecia",
+      "cls": "priest",
+      "level": 20,
+      "virtualLevel": 36,
+      "lifetimeXp": 1099551,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 114,
       "name": "Uriah",
       "cls": "mage",
       "level": 20,
@@ -1132,16 +1142,6 @@
       "lifetimeXp": 1099524,
       "prestigeRank": 0,
       "title": "pvp_flag_3h"
-    },
-    {
-      "rank": 114,
-      "name": "Niecia",
-      "cls": "priest",
-      "level": 20,
-      "virtualLevel": 36,
-      "lifetimeXp": 1099401,
-      "prestigeRank": 0,
-      "title": null
     },
     {
       "rank": 115,
