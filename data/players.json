@@ -19,7 +19,7 @@
       "cls": "druid",
       "level": 20,
       "virtualLevel": 55,
-      "lifetimeXp": 6926687,
+      "lifetimeXp": 6980409,
       "prestigeRank": 274,
       "title": "pvp_honor_knight_lieutenant"
     },
@@ -59,7 +59,7 @@
       "cls": "warrior",
       "level": 20,
       "virtualLevel": 52,
-      "lifetimeXp": 5146644,
+      "lifetimeXp": 5205472,
       "prestigeRank": 212,
       "title": "feat_pumpkin_hunter"
     },
@@ -315,6 +315,16 @@
     },
     {
       "rank": 32,
+      "name": "MIALEK",
+      "cls": "paladin",
+      "level": 20,
+      "virtualLevel": 43,
+      "lifetimeXp": 2102698,
+      "prestigeRank": 20,
+      "title": "col_reliquary_illum_gravewyrm_heroic"
+    },
+    {
+      "rank": 33,
       "name": "Drudecca",
       "cls": "druid",
       "level": 20,
@@ -324,7 +334,7 @@
       "title": null
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "nunchucks",
       "cls": "rogue",
       "level": 20,
@@ -334,7 +344,7 @@
       "title": null
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "Slenderman",
       "cls": "warrior",
       "level": 20,
@@ -342,16 +352,6 @@
       "lifetimeXp": 2053775,
       "prestigeRank": 74,
       "title": "pvp_flag_168h"
-    },
-    {
-      "rank": 35,
-      "name": "MIALEK",
-      "cls": "paladin",
-      "level": 20,
-      "virtualLevel": 43,
-      "lifetimeXp": 2049474,
-      "prestigeRank": 20,
-      "title": "col_reliquary_illum_gravewyrm_heroic"
     },
     {
       "rank": 36,
@@ -389,7 +389,7 @@
       "cls": "shaman",
       "level": 20,
       "virtualLevel": 42,
-      "lifetimeXp": 1910267,
+      "lifetimeXp": 1910412,
       "prestigeRank": 26,
       "title": "col_reliquary_illum_gravewyrm_heroic"
     },
@@ -699,7 +699,7 @@
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 39,
-      "lifetimeXp": 1444410,
+      "lifetimeXp": 1447686,
       "prestigeRank": 55,
       "title": "col_discovery_150"
     },
@@ -1695,6 +1695,16 @@
     },
     {
       "rank": 170,
+      "name": "Braxton",
+      "cls": "warrior",
+      "level": 20,
+      "virtualLevel": 34,
+      "lifetimeXp": 885737,
+      "prestigeRank": 0,
+      "title": null
+    },
+    {
+      "rank": 171,
       "name": "Priestdim",
       "cls": "priest",
       "level": 20,
@@ -1704,7 +1714,7 @@
       "title": null
     },
     {
-      "rank": 171,
+      "rank": 172,
       "name": "Damhobbitses",
       "cls": "warrior",
       "level": 20,
@@ -1714,23 +1724,13 @@
       "title": "col_reliquary_rank_4"
     },
     {
-      "rank": 172,
+      "rank": 173,
       "name": "czH",
       "cls": "hunter",
       "level": 20,
       "virtualLevel": 34,
       "lifetimeXp": 883438,
       "prestigeRank": 3,
-      "title": null
-    },
-    {
-      "rank": 173,
-      "name": "Braxton",
-      "cls": "warrior",
-      "level": 20,
-      "virtualLevel": 34,
-      "lifetimeXp": 875095,
-      "prestigeRank": 0,
       "title": null
     },
     {
